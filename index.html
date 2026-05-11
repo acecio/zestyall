@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>StreamVault</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet"/>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+
+:root{
+  --bg:#0a0a0a;
+  --surface:#111;
+  --surface2:#1a1a1a;
+  --border:#222;
+  --border2:#333;
+  --text:#f0f0f0;
+  --muted:#666;
+  --muted2:#444;
+  --accent:#3b82f6;
+  --green:#22c55e;
+  --yellow:#eab308;
+  --red:#ef4444;
+  --purple:#8b5cf6;
+}
+
+body{
+  font-family:'Inter',sans-serif;
+  background:var(--bg);
+  color:var(--text);
+  min-height:100vh;
+  font-size:14px;
+  line-height:1.5;
+}
+
+.page{max-width:960px;margin:0 auto;padding:40px 20px 80px}
+
+/* ── NAV ── */
+header{
+  display:flex;align-items:center;justify-content:space-between;
+  padding-bottom:24px;border-bottom:1px solid var(--border);
+  margin-bottom:32px;flex-wrap:wrap;gap:12px;
+}
+.brand{font-size:16px;font-weight:600;color:var(--text);letter-spacing:-.3px}
+.brand span{color:var(--accent)}
+.nav-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.tag{
+  font-size:11px;color:var(--muted);background:var(--surface);
+  border:1px solid var(--border);border-radius:6px;padding:4px 10px;
+  display:flex;align-items:center;gap:5px;
+}
+.live-dot{width:5px;height:5px;border-radius:50%;background:var(--green);animation:blink 2s ease-in-out infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.4}}
+
+/* ── SEARCH ── */
+.search-row{margin-bottom:28px;position:relative}
+.search-row input{
+  width:100%;background:var(--surface);border:1px solid var(--border);
+  border-radius:8px;padding:10px 14px 10px 36px;
+  font-family:'Inter',sans-serif;font-size:13px;color:var(--text);
+  outline:none;transition:border-color .15s;
+}
+.search-row input:focus{border-color:var(--border2)}
+.search-row input::placeholder{color:var(--muted2)}
+.search-row .ico{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--muted2);font-size:14px;pointer-events:none}
+.search-row .count{position:absolute;right:12px;top:50%;transform:translateY(-50%);font-size:11px;color:var(--muted)}
+
+/* ── BASE URL BAR ── */
+.url-bar{
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:8px;padding:12px 14px;margin-bottom:28px;
+  display:flex;align-items:center;gap:10px;flex-wrap:wrap;
+}
+.url-bar code{
+  font-family:'SF Mono','Fira Code',monospace;font-size:12px;
+  color:var(--accent);flex:1;word-break:break-all;
+}
+.url-bar button{
+  background:var(--accent);color:#fff;border:none;border-radius:6px;
+  padding:6px 14px;font-family:'Inter',sans-serif;font-size:12px;
+  font-weight:500;cursor:pointer;white-space:nowrap;transition:opacity .15s;flex-shrink:0;
+}
+.url-bar button:hover{opacity:.85}
+
+/* ── SECTION ── */
+.section-title{
+  font-size:11px;font-weight:500;color:var(--muted);letter-spacing:.08em;
+  text-transform:uppercase;margin-bottom:12px;margin-top:28px;
+}
+
+/* ── CARD ── */
+.card{
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:8px;padding:16px;margin-bottom:8px;
+  transition:border-color .15s;
+}
+.card:hover{border-color:var(--border2)}
+
+.card-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:6px;flex-wrap:wrap;gap:8px}
+.card-title{font-size:14px;font-weight:600;color:var(--text)}
+.badges{display:flex;gap:4px;flex-wrap:wrap}
+.badge{
+  font-size:10px;font-weight:500;padding:2px 7px;border-radius:4px;
+  border:1px solid;letter-spacing:.02em;
+}
+.bm{color:var(--accent);border-color:rgba(59,130,246,.25);background:rgba(59,130,246,.08)}
+.bj{color:var(--purple);border-color:rgba(139,92,246,.25);background:rgba(139,92,246,.08)}
+.bl{color:var(--green);border-color:rgba(34,197,94,.25);background:rgba(34,197,94,.08)}
+.bd{color:var(--yellow);border-color:rgba(234,179,8,.25);background:rgba(234,179,8,.08)}
+.bo{color:var(--red);border-color:rgba(239,68,68,.25);background:rgba(239,68,68,.08)}
+
+.card-desc{font-size:12px;color:var(--muted);margin-bottom:12px;line-height:1.6}
+
+/* ── LINK ROWS ── */
+.link{
+  display:flex;align-items:center;gap:8px;
+  background:var(--surface2);border:1px solid var(--border);border-radius:6px;
+  padding:8px 10px;margin-bottom:6px;transition:border-color .15s;
+}
+.link:last-child{margin-bottom:0}
+.link:hover{border-color:var(--border2)}
+.link-name{font-size:12px;color:var(--text);flex-shrink:0;font-family:'SF Mono','Fira Code',monospace}
+.link-path{font-size:11px;color:var(--muted);flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.cpbtn{
+  background:none;border:1px solid var(--border2);color:var(--muted);
+  border-radius:5px;padding:2px 8px;font-family:'Inter',sans-serif;
+  font-size:11px;cursor:pointer;transition:all .15s;white-space:nowrap;flex-shrink:0;
+}
+.cpbtn:hover{border-color:var(--accent);color:var(--accent)}
+.cpbtn.ok{border-color:var(--green);color:var(--green)}
+
+/* ── FOOTER ── */
+footer{
+  margin-top:48px;padding-top:20px;border-top:1px solid var(--border);
+  display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;
+}
+footer span{font-size:11px;color:var(--muted)}
+
+/* EMPTY */
+.empty{text-align:center;padding:48px 20px;color:var(--muted);display:none}
+
+/* TOAST */
+.toast{
+  position:fixed;bottom:20px;right:20px;background:var(--green);color:#000;
+  padding:8px 16px;border-radius:6px;font-size:12px;font-weight:500;
+  transform:translateY(60px);opacity:0;transition:all .25s ease;z-index:999;pointer-events:none;
+}
+.toast.show{transform:translateY(0);opacity:1}
+
+@media(max-width:600px){
+  .link-path{display:none}
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+<header>
+  <div class="brand">Stream<span>Vault</span></div>
+  <div class="nav-meta">
+    <div class="tag"><div class="live-dot"></div>Auto-updating</div>
+    <div class="tag" id="clk">--:-- UTC</div>
+  </div>
+</header>
+
+<div class="search-row">
+  <span class="ico">⌕</span>
+  <input type="text" id="srch" placeholder="Search playlists..." oninput="filter()"/>
+  <span class="count" id="cnt"></span>
+</div>
+
+<div class="url-bar">
+  <code>https://raw.githubusercontent.com/acecio/zestyall/main/playlists/</code>
+  <button onclick="cp('https://raw.githubusercontent.com/acecio/zestyall/main/playlists/',this)">Copy</button>
+</div>
+
+<div id="cards"></div>
+<div class="empty" id="empty">No results.</div>
+
+<footer>
+  <span>acecio/zestyall · 9 repos → 1</span>
+  <span id="ts"></span>
+</footer>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const BASE = 'https://raw.githubusercontent.com/acecio/zestyall/main/';
+
+const DATA = [
+  {
+    section:'Live TV',
+    cards:[
+      {
+        title:'JioTV MPD / DRM', badges:['m','d','l'],
+        desc:'JioTV channels via MPD streams with clearkey DRM. Source: Anasvirat18/Jio_ stream.json + jio-meta.txt. Every 3h.',
+        links:[
+          {f:'jiotv-mpd.m3u',p:'playlists/jiotv-mpd.m3u'},
+          {f:'jiotv.m3u',p:'playlists/jiotv.m3u'},
+        ]
+      },
+      {
+        title:'JTV — Jio Classic', badges:['m','d'],
+        desc:'Jio channels from dilzyking/Allrounder with logos, genres and clearkey DRM per channel. Every 15min.',
+        links:[{f:'jtv.m3u',p:'playlists/jtv.m3u'}]
+      },
+      {
+        title:'FanCode Sports', badges:['m','l'],
+        desc:'Live FanCode matches — 1080p via fcapi.amitbala1993.workers.dev + standard quality from doctor-8trange. Every 1h.',
+        links:[
+          {f:'fancode.m3u (1080p)',p:'playlists/fancode.m3u'},
+          {f:'fancode-sayan.m3u',p:'playlists/fancode-sayan.m3u'},
+        ]
+      },
+      {
+        title:'Sony Networks', badges:['m','l'],
+        desc:'Sony LIV + Sony Sports via netx.streamstar18.workers.dev and drmlive/sliv-live-events. Syncs every 15min.',
+        links:[
+          {f:'sony.m3u',p:'playlists/sony.m3u'},
+          {f:'sonyliv.m3u',p:'playlists/sonyliv.m3u'},
+        ]
+      },
+      {
+        title:'Magnet Channels', badges:['m','d'],
+        desc:'sayan-json-2.pages.dev with clearkey DRM + cookie-based auth. EPG from sayanapp.pages.dev. Every 15min.',
+        links:[{f:'magnet.m3u',p:'playlists/magnet.m3u'}]
+      },
+      {
+        title:'Sayan IPTV', badges:['m','d'],
+        desc:'allinonereborn.online Sayan channels with clearkey DRM and Tata Play EPG. Every 15min.',
+        links:[{f:'sayan.m3u',p:'playlists/sayan.m3u'}]
+      },
+      {
+        title:'Sportlink', badges:['m','d'],
+        desc:'dilzyking/Allrounder channels in Sportlink M3U format with clearkey DRM. Every 15min.',
+        links:[{f:'sportlink.m3u',p:'playlists/sportlink.m3u'}]
+      },
+      {
+        title:'Jio Secret Playlist', badges:['m','d'],
+        desc:'Jio channels from SECRET_JSON_URL GitHub secret. MPD + clearkey DRM. Set secret in repo settings. Every 3h.',
+        links:[{f:'playlist.m3u',p:'playlists/playlist.m3u'}]
+      },
+    ]
+  },
+  {
+    section:'OTT & Web Series',
+    cards:[
+      {
+        title:'ALT Balaji', badges:['o','j','l'],
+        desc:'m3u8 URLs scraped headlessly from hitmaal.in via Playwright Chromium. 200 latest episodes. Every 30min.',
+        links:[{f:'alt-m3u8.json',p:'api/alt-m3u8.json'}]
+      },
+      {
+        title:'Ullu Originals', badges:['o','j','l'],
+        desc:'Stream URLs scraped from hitmaal.in/ullu.json via Playwright. Captures m3u8/mp4. 8 workers. Every 30min.',
+        links:[{f:'ullu-m3u8.json',p:'api/ullu-m3u8.json'}]
+      },
+      {
+        title:'DesiHub', badges:['o','j'],
+        desc:'DesiHub.org scraped with BeautifulSoup across 10 pages — title, thumbnail, embed iframe. Every 6h.',
+        links:[{f:'desihub.json',p:'api/desihub.json'}]
+      },
+      {
+        title:'Hitmaal', badges:['o','j','l'],
+        desc:'hitmaal.in episodes with extracted m3u8/mp4 URLs via Playwright. 8 parallel workers, 200 episodes. Every 30min.',
+        links:[
+          {f:'hitmaal-m3u8.json',p:'api/hitmaal-m3u8.json'},
+          {f:'hitmaal-data.json',p:'api/hitmaal-data.json'},
+        ]
+      },
+    ]
+  },
+  {
+    section:'JSON Feeds',
+    cards:[
+      {
+        title:'FanCode JSON', badges:['j'],
+        desc:'Raw FanCode API dump — CDN URLs, DRM flags, match metadata, headers from doctor-8trange/zyphx8.',
+        links:[{f:'fancode.json',p:'api/fancode.json'}]
+      },
+      {
+        title:'Sony JSON', badges:['j'],
+        desc:'Sony stream channels with tvg-id, channel_name, url, group_title, extinf line. Updated with sony.m3u.',
+        links:[{f:'sony.json',p:'api/sony.json'}]
+      },
+      {
+        title:'SonyLIV JSON', badges:['j'],
+        desc:'SonyLIV live events from drmlive/sliv-live-events. Curled every 15 minutes alongside the M3U.',
+        links:[{f:'sonyliv.json',p:'api/sonyliv.json'}]
+      },
+    ]
+  },
+];
+
+const BM = {m:'bm',j:'bj',l:'bl',d:'bd',o:'bo'};
+const BT = {m:'m3u',j:'json',l:'live',d:'drm',o:'ott'};
+
+let all = [];
+
+function build(){
+  const wrap = document.getElementById('cards');
+  DATA.forEach(({section,cards})=>{
+    const st = document.createElement('div');
+    st.className='section-title';st.dataset.sec=section;st.textContent=section;
+    wrap.appendChild(st);
+    cards.forEach(item=>{
+      const c = document.createElement('div');
+      c.className='card';
+      c.dataset.q=(item.title+' '+item.desc+' '+item.badges.join(' ')+' '+item.links.map(l=>l.f).join(' ')).toLowerCase();
+      c.dataset.sec=section;
+
+      const badges=item.badges.map(b=>`<span class="badge ${BM[b]}">${BT[b]}</span>`).join('');
+      const links=item.links.map(l=>{
+        const url=BASE+l.p;
+        return `<div class="link">
+          <span class="link-name">${l.f}</span>
+          <span class="link-path">${l.p}</span>
+          <button class="cpbtn" onclick="cp('${url}',this)">Copy</button>
+        </div>`;
+      }).join('');
+
+      c.innerHTML=`
+        <div class="card-head">
+          <span class="card-title">${item.title}</span>
+          <div class="badges">${badges}</div>
+        </div>
+        <div class="card-desc">${item.desc}</div>
+        ${links}`;
+      wrap.appendChild(c);
+      all.push({el:c,sec:section,q:c.dataset.q});
+    });
+  });
+  document.getElementById('cnt').textContent=all.length+' playlists';
+}
+
+function filter(){
+  const q=document.getElementById('srch').value.toLowerCase().trim();
+  let v=0;const secs={};
+  all.forEach(({el,sec,q:s})=>{
+    const show=!q||s.includes(q);
+    el.style.display=show?'':'none';
+    if(show){v++;secs[sec]=1;}
+  });
+  document.querySelectorAll('.section-title').forEach(el=>{
+    el.style.display=(!q||secs[el.dataset.sec])?'':'none';
+  });
+  document.getElementById('empty').style.display=v?'none':'block';
+  document.getElementById('cnt').textContent=q?v+' shown':all.length+' playlists';
+}
+
+function cp(url,btn){
+  navigator.clipboard.writeText(url).then(()=>{
+    const o=btn?btn.textContent:'';
+    if(btn){btn.textContent='✓';btn.classList.add('ok');}
+    const t=document.getElementById('toast');
+    t.textContent='Copied!';t.classList.add('show');
+    clearTimeout(cp._t);
+    cp._t=setTimeout(()=>{
+      t.classList.remove('show');
+      if(btn){btn.textContent=o;btn.classList.remove('ok');}
+    },2000);
+  });
+}
+
+// clock
+(function tick(){
+  const n=new Date(),p=x=>String(x).padStart(2,'0');
+  document.getElementById('clk').textContent=p(n.getUTCHours())+':'+p(n.getUTCMinutes())+' UTC';
+  setTimeout(tick,10000);
+})();
+
+build();
+document.getElementById('ts').textContent='Updated '+new Date().toLocaleTimeString();
+</script>
+</body>
+</html>

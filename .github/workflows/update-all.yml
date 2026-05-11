@@ -1,0 +1,196 @@
+name: Update All Playlists
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+
+  # ── PYTHON PLAYLISTS ──────────────────────────────────────────────────────
+  update-python:
+    name: Python Playlist Updates
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests pytz beautifulsoup4
+
+      - name: Run Fancode (sayan source)
+        run: python scripts/fancode-sayan.py
+        continue-on-error: true
+
+      - name: Run Fancode 1080p
+        run: python scripts/fancode.py
+        continue-on-error: true
+
+      - name: Run Sony
+        run: python scripts/sony.py
+        continue-on-error: true
+
+      - name: Run JTV
+        run: python scripts/jtv.py
+        continue-on-error: true
+
+      - name: Run Sayan M3U
+        run: python scripts/sayan.py
+        continue-on-error: true
+
+      - name: Run Magnet M3U
+        run: python scripts/magnet.py
+        continue-on-error: true
+
+      - name: Run Sportlink M3U
+        run: python scripts/sportlink.py
+        continue-on-error: true
+
+      - name: Run JioTV MPD
+        run: python scripts/jiotv-mpd.py
+        continue-on-error: true
+
+      - name: Run JioTV clearkey
+        run: python scripts/jiotv.py
+        continue-on-error: true
+
+      - name: Run Jio secret playlist
+        env:
+          SECRET_JSON_URL: ${{ secrets.SECRET_JSON_URL }}
+        run: |
+          if [ -n "$SECRET_JSON_URL" ]; then
+            python scripts/jio-playlist.py --url "$SECRET_JSON_URL"
+          else
+            echo "SECRET_JSON_URL not set, skipping"
+          fi
+        continue-on-error: true
+
+      - name: Commit and Push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add playlists/ api/
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git stash
+          git pull origin main --rebase
+          git stash pop
+          git add playlists/ api/
+          git commit -m "Auto-update playlists: $(date +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+
+  # ── SONYLIV CURL SYNC ─────────────────────────────────────────────────────
+  update-sonyliv:
+    name: SonyLIV Sync
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Sync SonyLIV M3U
+        run: curl -s -L -o playlists/sonyliv.m3u "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"
+
+      - name: Sync SonyLIV JSON
+        run: curl -s -o api/sonyliv.json "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.json"
+
+      - name: Commit and Push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add playlists/sonyliv.m3u api/sonyliv.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git stash
+          git pull origin main --rebase
+          git stash pop
+          git add playlists/sonyliv.m3u api/sonyliv.json
+          git commit -m "SonyLIV sync: $(date +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+
+  # ── PLAYWRIGHT SCRAPERS ───────────────────────────────────────────────────
+  update-scrapers:
+    name: Playwright Scrapers
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+          npm install
+          npx playwright install --with-deps
+
+      - name: Run Hitmaal extractor
+        run: node scripts/hitmaal-extract.js
+        continue-on-error: true
+
+      - name: Run Ullu extractor
+        run: node scripts/ullu-extract.js
+        continue-on-error: true
+
+      - name: Run ALT extractor
+        run: node scripts/alt-extract.js
+        continue-on-error: true
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add api/hitmaal-m3u8.json api/ullu-m3u8.json api/alt-m3u8.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git stash
+          git pull origin main --rebase
+          git stash pop
+          git add api/hitmaal-m3u8.json api/ullu-m3u8.json api/alt-m3u8.json
+          git commit -m "Scraper update: $(date +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+
+  # ── DESIHUB ───────────────────────────────────────────────────────────────
+  update-desihub:
+    name: DesiHub Scraper
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run DesiHub scraper
+        run: python scripts/desihub.py
+        continue-on-error: true
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add api/desihub.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git stash
+          git pull origin main --rebase
+          git stash pop
+          git add api/desihub.json
+          git commit -m "DesiHub update: $(date +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
