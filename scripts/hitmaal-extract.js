@@ -9,7 +9,7 @@ const OUTPUT = "api/hitmaal-m3u8.json";
 /* 🔥 SPEED CONFIG */
 const MAX_WORKERS = 8;
 const WAIT_TIME = 3500;
-const LIMIT = 200; // 👈 ONLY FETCH 200 VIDEOS
+const LIMIT = 400; // 👈 ONLY FETCH 200 VIDEOS
 
 (async () => {
   const data = await (await fetch(SOURCE_JSON)).json();
