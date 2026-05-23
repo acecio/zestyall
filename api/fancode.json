@@ -2,63 +2,716 @@
     "Author": "DOCTOR_STRANGE",
     "Telegram": "https://t.me/jitendraunatti_github",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:07:01 PM 23-05-2026",
+    "last_updated": "12:07:03 AM 24-05-2026",
     "headers": {
         "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 53,
-    "live_matches": 6,
-    "upcoming_matches": 47,
+    "total_matches": 55,
+    "live_matches": 17,
+    "upcoming_matches": 38,
     "matches": [
         {
             "category": "Football",
-            "title": "Barcelona Women Vs Lyon Women",
-            "tournament": "UEFA Women's Champions League 2025-26",
-            "match_id": 142260,
+            "title": "Fc Bayern München Vs Vfb Stuttgart",
+            "tournament": "DFB Pokal 2025-26",
+            "match_id": 142281,
             "status": "LIVE",
             "streamingStatus": "STARTED",
-            "startTime": "23 May 2026 09:30 PM",
+            "startTime": "23 May 2026 11:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Women-vs-Lyon-Women_FC-web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1778484660700.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142260_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Women-vs-Lyon-Women_FC-web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142281_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1778484660700.png",
                 "PLAYBACK": "",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/WHL.png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/DFB-POKAL-Tour-Logo1.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Women-vs-Lyon-Women_FC-web.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142260_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1778484660700.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1778484660698.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142281_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "team": [
                 {
-                    "name": "Barcelona Women",
-                    "shortName": "BAR-W",
+                    "name": "FC Bayern München",
+                    "shortName": "BAY",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BAYERN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#700c1f",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                },
+                {
+                    "name": "VfB Stuttgart",
+                    "shortName": "STU",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STU@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ff4c4c",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": false,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/index.m3u8",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/index.m3u8",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/index.m3u8",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "backup": {
+                    "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/index.m3u8",
+                    "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142281_english_hls_a750a7631d16301_1ta-di_h264/index.m3u8"
+                }
+            },
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=414232,AVERAGE-BANDWIDTH=414232,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/240p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=669672,AVERAGE-BANDWIDTH=669672,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/360p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=990520,AVERAGE-BANDWIDTH=990520,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/480p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/540p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/720p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/1080p.m3u8",
+                    "cookie": null,
+                    "cookie_valid": "1779645063",
+                    "create_date": "Saturday, May 23, 2026, 11:21:03 PM",
+                    "expire_date": "Sunday, May 24, 2026, 11:21:03 PM",
+                    "language": "ENGLISH"
+                }
+            ]
+        },
+        {
+            "category": "Football",
+            "title": "Valencia Cf Vs Fc Barcelona",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 131208,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "24 May 2026 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131208_5427_VAL_BAR_FC-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131208_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131208_5427_VAL_BAR_FC-Web.png",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131208_5427_VAL_BAR_FC-Web.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131208_5427_VAL_BAR_FC-App.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131208_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Valencia CF",
+                    "shortName": "VAL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#4F7DE5",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                },
+                {
+                    "name": "FC Barcelona",
+                    "shortName": "BAR",
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#E7B75C",
+                    "color": "#fee64e",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 2,
-                        "goals": [
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": true,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/131208_english_dash_20562_1drmta-di_h264/index.mpd",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/131208_english_dash_20562_1drmta-di_h264/index.mpd",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/131208_english_dash_20562_1drmta-di_h264/index.mpd",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/131208_english_dash_20562_1drmta-di_h264/index.mpd",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/131208_english_dash_20562_1drmta-di_h264/index.mpd",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "drm": {
+                    "keys": [
+                        "c131ae1498a64774b6e95487722c7132:9a17350805a2750c6695fd75410c8b63"
+                    ],
+                    "jwk": {
+                        "keys": [
                             {
-                                "id": "152399",
-                                "shortName": "E Pajor",
-                                "isOwnGoal": false,
-                                "goalTime": "69'"
-                            },
-                            {
-                                "id": "152399",
-                                "shortName": "E Pajor",
-                                "isOwnGoal": false,
-                                "goalTime": "55'"
+                                "k": "mhc1CAWidQxmlf11QQyLYw",
+                                "kid": "wTGuFJimR3S26VSHcixxMg",
+                                "kty": "oct"
                             }
-                        ]
+                        ],
+                        "type": "temporary"
                     },
+                    "clearkey": "c131ae1498a64774b6e95487722c7132:9a17350805a2750c6695fd75410c8b63"
+                }
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Real Madrid Vs Athletic Club",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 131206,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "24 May 2026 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131206_5427_RM_ATH_FC-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131206_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131206_5427_RM_ATH_FC-Web.png",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131206_5427_RM_ATH_FC-Web.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131206_5427_RM_ATH_FC-App.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131206_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Real Madrid",
+                    "shortName": "RM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RMA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#004996",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                },
+                {
+                    "name": "Athletic Club",
+                    "shortName": "ATH",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ff674d",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": true,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/131206_english_dash_71906_1drmta-di_h264/index.mpd",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/131206_english_dash_71906_1drmta-di_h264/index.mpd",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/131206_english_dash_71906_1drmta-di_h264/index.mpd",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/131206_english_dash_71906_1drmta-di_h264/index.mpd",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/131206_english_dash_71906_1drmta-di_h264/index.mpd",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "drm": {
+                    "keys": [
+                        "de6666a7ef1545deb55ff0fe12689dc5:ef3ff332bf817281daf1e0edbcdf39e7"
+                    ],
+                    "jwk": {
+                        "keys": [
+                            {
+                                "k": "7z_zMr-BcoHa8eDtvN855w",
+                                "kid": "3mZmp-8VRd61X_D-EmidxQ",
+                                "kty": "oct"
+                            }
+                        ],
+                        "type": "temporary"
+                    },
+                    "clearkey": "de6666a7ef1545deb55ff0fe12689dc5:ef3ff332bf817281daf1e0edbcdf39e7"
+                }
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Rcd Mallorca Vs Real Oviedo",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 131205,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "24 May 2026 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131205_5427_MRC_RO_FC-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131205_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131205_5427_MRC_RO_FC-Web.png",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131205_5427_MRC_RO_FC-Web.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131205_5427_MRC_RO_FC-App.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131205_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "RCD Mallorca",
+                    "shortName": "MRC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MRC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FBCCD1",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                },
+                {
+                    "name": "Real Oviedo",
+                    "shortName": "RO",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#A71C10",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": true,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/131205_english_dash_88367_1drmta-di_h264/index.mpd",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/131205_english_dash_88367_1drmta-di_h264/index.mpd",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/131205_english_dash_88367_1drmta-di_h264/index.mpd",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/131205_english_dash_88367_1drmta-di_h264/index.mpd",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/131205_english_dash_88367_1drmta-di_h264/index.mpd",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "drm": {
+                    "keys": [
+                        "ba4e5484900541fb86d54ba487aed209:eacf3e5443d9c8bf98d61d9308ea3740"
+                    ],
+                    "jwk": {
+                        "keys": [
+                            {
+                                "k": "6s8-VEPZyL-Y1h2TCOo3QA",
+                                "kid": "uk5UhJAFQfuG1Uukh67SCQ",
+                                "kty": "oct"
+                            }
+                        ],
+                        "type": "temporary"
+                    },
+                    "clearkey": "ba4e5484900541fb86d54ba487aed209:eacf3e5443d9c8bf98d61d9308ea3740"
+                }
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Getafe Cf Vs Ca Osasuna",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 131204,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "24 May 2026 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131204_5427_GEF_OSN_FC-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131204_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131204_5427_GEF_OSN_FC-Web.png",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131204_5427_GEF_OSN_FC-Web.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131204_5427_GEF_OSN_FC-App.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131204_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Getafe CF",
+                    "shortName": "GEF",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#e0d405",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                },
+                {
+                    "name": "CA Osasuna",
+                    "shortName": "OSN",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OSN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#F2DC85",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": true,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/131204_english_dash_10838_1drmta-di_h264/index.mpd",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/131204_english_dash_10838_1drmta-di_h264/index.mpd",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/131204_english_dash_10838_1drmta-di_h264/index.mpd",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/131204_english_dash_10838_1drmta-di_h264/index.mpd",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/131204_english_dash_10838_1drmta-di_h264/index.mpd",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "drm": {
+                    "keys": [
+                        "1696e156ea8b47d291aeb8e371a90be3:32470beb6ab876fc827b18f9a89343bd"
+                    ],
+                    "jwk": {
+                        "keys": [
+                            {
+                                "k": "MkcL62q4dvyCexj5qJNDvQ",
+                                "kid": "FpbhVuqLR9KRrrjjcakL4w",
+                                "kty": "oct"
+                            }
+                        ],
+                        "type": "temporary"
+                    },
+                    "clearkey": "1696e156ea8b47d291aeb8e371a90be3:32470beb6ab876fc827b18f9a89343bd"
+                }
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Rc Celta Vs Sevilla Fc",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 131202,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "24 May 2026 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131202_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-App.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131202_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "RC Celta",
+                    "shortName": "CEV",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b1d4f5",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                },
+                {
+                    "name": "Sevilla FC",
+                    "shortName": "SEV",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#daa335",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": true,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/131202_english_dash_74684_1drmta-di_h264/index.mpd",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/131202_english_dash_74684_1drmta-di_h264/index.mpd",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/131202_english_dash_74684_1drmta-di_h264/index.mpd",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/131202_english_dash_74684_1drmta-di_h264/index.mpd",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/131202_english_dash_74684_1drmta-di_h264/index.mpd",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "drm": {
+                    "keys": [
+                        "9f96dcd232844ebead1d5df2d9fe2bd0:40cfc1a0a345dd4a2616ca9aad0e7557"
+                    ],
+                    "jwk": {
+                        "keys": [
+                            {
+                                "k": "QM_BoKNF3UomFsqarQ51Vw",
+                                "kid": "n5bc0jKETr6tHV3y2f4r0A",
+                                "kty": "oct"
+                            }
+                        ],
+                        "type": "temporary"
+                    },
+                    "clearkey": "9f96dcd232844ebead1d5df2d9fe2bd0:40cfc1a0a345dd4a2616ca9aad0e7557"
+                }
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Real Betis Vs Levante",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 131201,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "24 May 2026 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131201_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-Web.png",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-Web.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-App.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131201_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Real Betis",
+                    "shortName": "RB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-REALB@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#19a661",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                },
+                {
+                    "name": "Levante",
+                    "shortName": "LE",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#598bc1",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": true,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/131201_english_dash_28372_1drmta-di_h264/index.mpd",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/131201_english_dash_28372_1drmta-di_h264/index.mpd",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/131201_english_dash_28372_1drmta-di_h264/index.mpd",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/131201_english_dash_28372_1drmta-di_h264/index.mpd",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/131201_english_dash_28372_1drmta-di_h264/index.mpd",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "drm": {
+                    "keys": [
+                        "b56cbb58069347d79bb858e32954ba67:529a4f71bfe0fc5fc405cefacf43eaf2"
+                    ],
+                    "jwk": {
+                        "keys": [
+                            {
+                                "k": "UppPcb_g_F_EBc76z0Pq8g",
+                                "kid": "tWy7WAaTR9ebuFjjKVS6Zw",
+                                "kty": "oct"
+                            }
+                        ],
+                        "type": "temporary"
+                    },
+                    "clearkey": "b56cbb58069347d79bb858e32954ba67:529a4f71bfe0fc5fc405cefacf43eaf2"
+                }
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Deportivo Alaves Vs Rayo Vallecano",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 131200,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "24 May 2026 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131200_5427_ALA_RVL_FC-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131200_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131200_5427_ALA_RVL_FC-Web.png",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131200_5427_ALA_RVL_FC-Web.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131200_5427_ALA_RVL_FC-App.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131200_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Deportivo Alaves",
+                    "shortName": "ALA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#537096",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                },
+                {
+                    "name": "Rayo Vallecano",
+                    "shortName": "RVL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAV@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#F77A1E",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": true,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/131200_english_dash_91481_1drmta-di_h264/index.mpd",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/131200_english_dash_91481_1drmta-di_h264/index.mpd",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/131200_english_dash_91481_1drmta-di_h264/index.mpd",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/131200_english_dash_91481_1drmta-di_h264/index.mpd",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/131200_english_dash_91481_1drmta-di_h264/index.mpd",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "drm": {
+                    "keys": [
+                        "89914be43bd6443f856a9923fc57796c:d0a1b22270703a3c90c413eb702a7371"
+                    ],
+                    "jwk": {
+                        "keys": [
+                            {
+                                "k": "0KGyInBwOjyQxBPrcCpzcQ",
+                                "kid": "iZFL5DvWRD-Fapkj_Fd5bA",
+                                "kty": "oct"
+                            }
+                        ],
+                        "type": "temporary"
+                    },
+                    "clearkey": "89914be43bd6443f856a9923fc57796c:d0a1b22270703a3c90c413eb702a7371"
+                }
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Girona Fc Vs Elche Cf",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 131209,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "24 May 2026 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131209_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-Web.png",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-Web.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-App.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131209_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Girona FC",
+                    "shortName": "GIR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GIR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FFB700",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -68,19 +721,16 @@
                     }
                 },
                 {
-                    "name": "Lyon Women",
-                    "shortName": "OLY-W",
+                    "name": "Elche CF",
+                    "shortName": "ELC",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LYN@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ELC-FT1@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#d15f6a",
+                    "color": "#253611",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 0,
-                        "goals": []
-                    },
+                    "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -92,32 +742,127 @@
             ],
             "language": "ENGLISH",
             "STREAMING_CDN": {
-                "is_drm": false,
-                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8",
-                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8",
-                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8",
-                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8",
+                "is_drm": true,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/131209_english_dash_99313_1drmta-di_h264/index.mpd",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/131209_english_dash_99313_1drmta-di_h264/index.mpd",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/131209_english_dash_99313_1drmta-di_h264/index.mpd",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/131209_english_dash_99313_1drmta-di_h264/index.mpd",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/131209_english_dash_99313_1drmta-di_h264/index.mpd",
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH",
                 "X-Served-By": "ROLEX",
-                "backup": {
-                    "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8",
-                    "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8"
+                "drm": {
+                    "keys": [
+                        "0ec6cf8ad8bc4e72821ffeeb8f91eaff:0470c7bf1d32cc28ec7e4706e11a9683"
+                    ],
+                    "jwk": {
+                        "keys": [
+                            {
+                                "k": "BHDHvx0yzCjsfkcG4RqWgw",
+                                "kid": "DsbPiti8TnKCH_7rj5Hq_w",
+                                "kty": "oct"
+                            }
+                        ],
+                        "type": "temporary"
+                    },
+                    "clearkey": "0ec6cf8ad8bc4e72821ffeeb8f91eaff:0470c7bf1d32cc28ec7e4706e11a9683"
                 }
             },
-            "auto_streams": [
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Rcd Espanyol Vs Real Sociedad",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 131203,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "24 May 2026 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131203_5427_ESL_RS_FC-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131203_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131203_5427_ESL_RS_FC-Web.png",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131203_5427_ESL_RS_FC-Web.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131203_5427_ESL_RS_FC-App.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131203_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/240p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/360p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/480p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/540p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/720p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/1080p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=5408736,AVERAGE-BANDWIDTH=5408736,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/1080p5.m3u8",
-                    "cookie": null,
-                    "cookie_valid": "1779637444",
-                    "create_date": "Saturday, May 23, 2026, 9:14:04 PM",
-                    "expire_date": "Sunday, May 24, 2026, 9:14:04 PM",
-                    "language": "ENGLISH"
+                    "name": "RCD Espanyol",
+                    "shortName": "ESL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#fff3db",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Real Sociedad",
+                    "shortName": "RS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ae7a05",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 }
-            ]
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": true,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/131203_english_dash_48846_1drmta-di_h264/index.mpd",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/131203_english_dash_48846_1drmta-di_h264/index.mpd",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/131203_english_dash_48846_1drmta-di_h264/index.mpd",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/131203_english_dash_48846_1drmta-di_h264/index.mpd",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/131203_english_dash_48846_1drmta-di_h264/index.mpd",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "drm": {
+                    "keys": [
+                        "76b7bd5496fb4daa83c78fe8814adb95:a38656055dc5da772b938ba7850f5a79"
+                    ],
+                    "jwk": {
+                        "keys": [
+                            {
+                                "k": "o4ZWBV3F2ncrk4unhQ9aeQ",
+                                "kid": "dre9VJb7TaqDx4_ogUrblQ",
+                                "kty": "oct"
+                            }
+                        ],
+                        "type": "temporary"
+                    },
+                    "clearkey": "76b7bd5496fb4daa83c78fe8814adb95:a38656055dc5da772b938ba7850f5a79"
+                }
+            },
+            "auto_streams": null
         },
         {
             "category": "Golf",
@@ -182,16 +927,16 @@
             "language": "ENGLISH",
             "STREAMING_CDN": {
                 "is_drm": false,
-                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8",
-                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8",
-                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8",
-                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8",
+                "Primary_Playback_URL": "https://in-mc-plive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-plive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8",
+                "fancode_bd_cdn": "https://bd-mc-plive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8",
+                "fancode_np_cdn": "https://np-mc-plive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8",
+                "fancode_lk_cdn": "https://lk-mc-plive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH",
-                "X-Served-By": "WALTER",
+                "X-Served-By": "LOKI",
                 "backup": {
                     "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8",
                     "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8"
@@ -199,11 +944,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/240p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/360p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/480p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/540p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/720p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/1080p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=5408736,AVERAGE-BANDWIDTH=5408736,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/1080p5.m3u8",
-                    "cookie": null,
-                    "cookie_valid": "1779633214",
-                    "create_date": "Saturday, May 23, 2026, 8:03:34 PM",
-                    "expire_date": "Sunday, May 24, 2026, 8:03:34 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/240p.m3u8?hdntl=Expires=1779647824~_GO=Generated~acl=/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/*~Signature=ASfvW0Xs5u65nV2RRqRdwxDvhPNKwrtbnr6tGwFmASowV6ca5ZS_v1WiEWGXRa_7yyqAt-CsgEMmAUKtaJbPwpe90fYA\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/360p.m3u8?hdntl=Expires=1779647824~_GO=Generated~acl=/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/*~Signature=ASfvW0Xs5u65nV2RRqRdwxDvhPNKwrtbnr6tGwFmASowV6ca5ZS_v1WiEWGXRa_7yyqAt-CsgEMmAUKtaJbPwpe90fYA\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/480p.m3u8?hdntl=Expires=1779647824~_GO=Generated~acl=/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/*~Signature=ASfvW0Xs5u65nV2RRqRdwxDvhPNKwrtbnr6tGwFmASowV6ca5ZS_v1WiEWGXRa_7yyqAt-CsgEMmAUKtaJbPwpe90fYA\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/540p.m3u8?hdntl=Expires=1779647824~_GO=Generated~acl=/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/*~Signature=ASfvW0Xs5u65nV2RRqRdwxDvhPNKwrtbnr6tGwFmASowV6ca5ZS_v1WiEWGXRa_7yyqAt-CsgEMmAUKtaJbPwpe90fYA\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/720p.m3u8?hdntl=Expires=1779647824~_GO=Generated~acl=/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/*~Signature=ASfvW0Xs5u65nV2RRqRdwxDvhPNKwrtbnr6tGwFmASowV6ca5ZS_v1WiEWGXRa_7yyqAt-CsgEMmAUKtaJbPwpe90fYA\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/1080p.m3u8?hdntl=Expires=1779647824~_GO=Generated~acl=/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/*~Signature=ASfvW0Xs5u65nV2RRqRdwxDvhPNKwrtbnr6tGwFmASowV6ca5ZS_v1WiEWGXRa_7yyqAt-CsgEMmAUKtaJbPwpe90fYA\n#EXT-X-STREAM-INF:BANDWIDTH=5408736,AVERAGE-BANDWIDTH=5408736,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-plive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1779647824~_GO=Generated~acl=/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/*~Signature=ASfvW0Xs5u65nV2RRqRdwxDvhPNKwrtbnr6tGwFmASowV6ca5ZS_v1WiEWGXRa_7yyqAt-CsgEMmAUKtaJbPwpe90fYA",
+                    "cookie": "hdntl=Expires=1779647824~_GO=Generated~acl=/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/*~Signature=ASfvW0Xs5u65nV2RRqRdwxDvhPNKwrtbnr6tGwFmASowV6ca5ZS_v1WiEWGXRa_7yyqAt-CsgEMmAUKtaJbPwpe90fYA",
+                    "cookie_valid": "1779647824",
+                    "create_date": "Sunday, May 24, 2026, 12:07:02 AM",
+                    "expire_date": "Monday, May 25, 2026, 12:07:04 AM",
                     "language": "ENGLISH"
                 }
             ]
@@ -565,6 +1310,218 @@
             ]
         },
         {
+            "category": "Motorsports",
+            "title": "Sprint Race",
+            "tournament": "F2 MONTREAL 2026",
+            "match_id": 142089,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "23 May 2026 11:40 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142089_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg",
+                "PLAYBACK": "",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/R9-Canada-GP-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Sporty_Match_card_2_1779102364862.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142089_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Sprint Race",
+                    "shortName": "Sprint Race",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#123456",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Canada",
+                    "shortName": "Canada",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#123456",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": true,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/142089_english_dash_27467_1drmta-di_h264/index.mpd",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142089_english_dash_27467_1drmta-di_h264/index.mpd",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/142089_english_dash_27467_1drmta-di_h264/index.mpd",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/142089_english_dash_27467_1drmta-di_h264/index.mpd",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/142089_english_dash_27467_1drmta-di_h264/index.mpd",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "drm": {
+                    "keys": [
+                        "34939ab87a6c4bef9569c9df36c7dbf8:55ab948dfe8063c09d9ea5857cf2ce02"
+                    ],
+                    "jwk": {
+                        "keys": [
+                            {
+                                "k": "VauUjf6AY8CdnqWFfPLOAg",
+                                "kid": "NJOauHpsS--VacnfNsfb-A",
+                                "kty": "oct"
+                            }
+                        ],
+                        "type": "temporary"
+                    },
+                    "clearkey": "34939ab87a6c4bef9569c9df36c7dbf8:55ab948dfe8063c09d9ea5857cf2ce02"
+                }
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Barcelona Women Vs Lyon Women",
+            "tournament": "UEFA Women's Champions League 2025-26",
+            "match_id": 142260,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "23 May 2026 09:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Women-vs-Lyon-Women_FC-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142260_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Women-vs-Lyon-Women_FC-web.jpg",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/WHL.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Women-vs-Lyon-Women_FC-web.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142260_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Barcelona Women",
+                    "shortName": "BAR-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#E7B75C",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 4,
+                        "goals": [
+                            {
+                                "id": "162493",
+                                "shortName": "S Paralluelo",
+                                "isOwnGoal": false,
+                                "goalTime": "90'"
+                            },
+                            {
+                                "id": "162493",
+                                "shortName": "S Paralluelo",
+                                "isOwnGoal": false,
+                                "goalTime": "90'"
+                            },
+                            {
+                                "id": "152399",
+                                "shortName": "E Pajor",
+                                "isOwnGoal": false,
+                                "goalTime": "69'"
+                            },
+                            {
+                                "id": "152399",
+                                "shortName": "E Pajor",
+                                "isOwnGoal": false,
+                                "goalTime": "55'"
+                            }
+                        ]
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Lyon Women",
+                    "shortName": "OLY-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LYN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d15f6a",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": false,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "backup": {
+                    "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8",
+                    "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8"
+                }
+            },
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/240p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/360p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/480p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/540p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/720p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/1080p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=5408736,AVERAGE-BANDWIDTH=5408736,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/1080p5.m3u8",
+                    "cookie": null,
+                    "cookie_valid": "1779637444",
+                    "create_date": "Saturday, May 23, 2026, 9:14:04 PM",
+                    "expire_date": "Sunday, May 24, 2026, 9:14:04 PM",
+                    "language": "ENGLISH"
+                }
+            ]
+        },
+        {
             "category": "Cricket",
             "title": "Boost Region Vs Speen Ghar Region",
             "tournament": "Supercola Regional List A Tournament, 2026",
@@ -633,73 +1590,6 @@
         },
         {
             "category": "Football",
-            "title": "Fc Bayern München Vs Vfb Stuttgart",
-            "tournament": "DFB Pokal 2025-26",
-            "match_id": 142281,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 May 2026 11:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1778484660700.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142281_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1778484660700.png",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/DFB-POKAL-Tour-Logo1.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1778484660700.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(2)_1778484660698.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142281_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "FC Bayern München",
-                    "shortName": "BAY",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BAYERN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#700c1f",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "VfB Stuttgart",
-                    "shortName": "STU",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STU@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ff4c4c",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
             "title": "Celtic Vs Dunfermline",
             "tournament": "Scottish Cup 2025-26",
             "match_id": 142515,
@@ -748,609 +1638,6 @@
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": null
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
-            "title": "Girona Fc Vs Elche Cf",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 131209,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 May 2026 12:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131209_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-Web.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-App.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131209_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Girona FC",
-                    "shortName": "GIR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GIR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FFB700",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Elche CF",
-                    "shortName": "ELC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ELC-FT1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#253611",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
-            "title": "Valencia Cf Vs Fc Barcelona",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 131208,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 May 2026 12:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131208_5427_VAL_BAR_FC-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131208_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131208_5427_VAL_BAR_FC-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131208_5427_VAL_BAR_FC-Web.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131208_5427_VAL_BAR_FC-App.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131208_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Valencia CF",
-                    "shortName": "VAL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#4F7DE5",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "FC Barcelona",
-                    "shortName": "BAR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#fee64e",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
-            "title": "Real Madrid Vs Athletic Club",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 131206,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 May 2026 12:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131206_5427_RM_ATH_FC-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131206_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131206_5427_RM_ATH_FC-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131206_5427_RM_ATH_FC-Web.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131206_5427_RM_ATH_FC-App.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131206_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Real Madrid",
-                    "shortName": "RM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RMA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#004996",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Athletic Club",
-                    "shortName": "ATH",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ff674d",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
-            "title": "Rcd Mallorca Vs Real Oviedo",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 131205,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 May 2026 12:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131205_5427_MRC_RO_FC-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131205_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131205_5427_MRC_RO_FC-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131205_5427_MRC_RO_FC-Web.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131205_5427_MRC_RO_FC-App.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131205_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "RCD Mallorca",
-                    "shortName": "MRC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MRC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FBCCD1",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Real Oviedo",
-                    "shortName": "RO",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#A71C10",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
-            "title": "Getafe Cf Vs Ca Osasuna",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 131204,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 May 2026 12:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131204_5427_GEF_OSN_FC-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131204_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131204_5427_GEF_OSN_FC-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131204_5427_GEF_OSN_FC-Web.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131204_5427_GEF_OSN_FC-App.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131204_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Getafe CF",
-                    "shortName": "GEF",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#e0d405",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "CA Osasuna",
-                    "shortName": "OSN",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OSN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#F2DC85",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
-            "title": "Rcd Espanyol Vs Real Sociedad",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 131203,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 May 2026 12:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131203_5427_ESL_RS_FC-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131203_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131203_5427_ESL_RS_FC-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131203_5427_ESL_RS_FC-Web.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131203_5427_ESL_RS_FC-App.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131203_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "RCD Espanyol",
-                    "shortName": "ESL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#fff3db",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Real Sociedad",
-                    "shortName": "RS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ae7a05",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
-            "title": "Rc Celta Vs Sevilla Fc",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 131202,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 May 2026 12:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131202_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-App.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131202_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "RC Celta",
-                    "shortName": "CEV",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b1d4f5",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Sevilla FC",
-                    "shortName": "SEV",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#daa335",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
-            "title": "Real Betis Vs Levante",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 131201,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 May 2026 12:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131201_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-Web.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-App.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131201_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Real Betis",
-                    "shortName": "RB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-REALB@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#19a661",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Levante",
-                    "shortName": "LE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#598bc1",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
-            "title": "Deportivo Alaves Vs Rayo Vallecano",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 131200,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 May 2026 12:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131200_5427_ALA_RVL_FC-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131200_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131200_5427_ALA_RVL_FC-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131200_5427_ALA_RVL_FC-Web.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131200_5427_ALA_RVL_FC-App.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131200_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Deportivo Alaves",
-                    "shortName": "ALA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#537096",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Rayo Vallecano",
-                    "shortName": "RVL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAV@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#F77A1E",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -1543,73 +1830,6 @@
                     "isWinner": null,
                     "color": "#151515",
                     "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Motorsports",
-            "title": "Sprint Race",
-            "tournament": "F2 MONTREAL 2026",
-            "match_id": 142089,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 May 2026 11:40 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142089_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/R9-Canada-GP-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Sporty_Match_card_2_1779102364862.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142089_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Sprint Race",
-                    "shortName": "Sprint Race",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#123456",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Canada",
-                    "shortName": "Canada",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#123456",
-                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2634,6 +2854,73 @@
             "auto_streams": null
         },
         {
+            "category": "Motorsports",
+            "title": "Day 3 Race 2   Zandvoort",
+            "tournament": "DTM 2026",
+            "match_id": 142534,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "24 May 2026 04:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142534_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/DTM-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports_2.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142534_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Day 3 Race 2 - Zandvoort",
+                    "shortName": "Day 3 Race 2 - Zandvoort",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FFCC00",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Netherlands",
+                    "shortName": "Netherlands",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#123456",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
             "category": "Cricket",
             "title": "Mis E Ainak Region Vs Amo Region",
             "tournament": "Supercola Regional List A Tournament, 2026",
@@ -2800,183 +3087,12 @@
             "auto_streams": null
         },
         {
-            "category": "Cricket",
-            "title": "France Cricket Vs Sweden",
-            "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
-            "match_id": 142445,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "23 May 2026 01:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1779508475492/142445_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142445_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1779508475492/142445_CASACARDS_APP.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Mens-T20-World-Cup-Sub-Regional-Europe-Qualifier-A.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1779508475492/142445_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1779508475492/142445_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142445_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "France Cricket",
-                    "shortName": "FRA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FRC@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#112d64",
-                    "cricketScore": [
-                        {
-                            "runs": 134,
-                            "overs": "19.4",
-                            "balls": "118",
-                            "status": "COMPLETED",
-                            "wickets": 10
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Sweden",
-                    "shortName": "SWE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWE@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#508be1",
-                    "cricketScore": [
-                        {
-                            "runs": 139,
-                            "overs": "18.1",
-                            "balls": "109",
-                            "status": "IN_PROGRESS",
-                            "wickets": 4
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
-            "title": "Barcelona Women Vs Lyon Women",
-            "tournament": "UEFA Women's Champions League 2025-26",
-            "short_name": "UEFA W-CL",
-            "match_id": 142260,
-            "status": "STARTED",
-            "startTime": "23 May 2026 09:30 PM",
-            "startDate": "07 October 2025 05:30 AM",
-            "endDate": "30 May 2026 05:30 AM",
-            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142260_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142260_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 2500,
-                    "name": "Barcelona Women",
-                    "shortName": "BAR-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png",
-                    "color": "#E7B75C"
-                },
-                {
-                    "id": 12062,
-                    "name": "Lyon Women",
-                    "shortName": "OLY-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LYN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LYN@2x.png",
-                    "color": "#d15f6a"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
-            "title": "Boost Region Vs Speen Ghar Region",
-            "tournament": "Supercola Regional List A Tournament, 2026",
-            "short_name": "e& Regional List A Tournament",
-            "match_id": 142746,
-            "status": "NOT_STARTED",
-            "startTime": "24 May 2026 10:00 AM",
-            "startDate": "17 May 2026 05:30 AM",
-            "endDate": "05 June 2026 01:30 AM",
-            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142746_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142746_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 7651,
-                    "name": "Boost Region",
-                    "shortName": "BOS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOS@2x.png",
-                    "color": "#ff8484"
-                },
-                {
-                    "id": 7648,
-                    "name": "Speen Ghar Region",
-                    "shortName": "SG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPG@2x.png",
-                    "color": "#00ff8d"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
             "category": "Football",
             "title": "Fc Bayern München Vs Vfb Stuttgart",
             "tournament": "DFB Pokal 2025-26",
             "short_name": "DFB Pokal",
             "match_id": 142281,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "23 May 2026 11:30 PM",
             "startDate": "15 August 2025 05:30 AM",
             "endDate": "31 May 2026 11:30 PM",
@@ -3016,55 +3132,11 @@
         },
         {
             "category": "Football",
-            "title": "Girona Fc Vs Elche Cf",
-            "tournament": "LALIGA 2025-26",
-            "short_name": "LALIGA 2025-26",
-            "match_id": 131209,
-            "status": "NOT_STARTED",
-            "startTime": "24 May 2026 12:30 AM",
-            "startDate": "15 August 2025 05:30 AM",
-            "endDate": "24 May 2026 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-App.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131209_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-App.png",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131209_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 881,
-                    "name": "Girona FC",
-                    "shortName": "GIR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GIR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GIR@2x.png",
-                    "color": "#FFB700"
-                },
-                {
-                    "id": 2740,
-                    "name": "Elche CF",
-                    "shortName": "ELC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ELC-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ELC-FT1@2x.png",
-                    "color": "#253611"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
             "title": "Valencia Cf Vs Fc Barcelona",
             "tournament": "LALIGA 2025-26",
             "short_name": "LALIGA 2025-26",
             "match_id": 131208,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "24 May 2026 12:30 AM",
             "startDate": "15 August 2025 05:30 AM",
             "endDate": "24 May 2026 11:45 PM",
@@ -3108,7 +3180,7 @@
             "tournament": "LALIGA 2025-26",
             "short_name": "LALIGA 2025-26",
             "match_id": 131206,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "24 May 2026 12:30 AM",
             "startDate": "15 August 2025 05:30 AM",
             "endDate": "24 May 2026 11:45 PM",
@@ -3152,7 +3224,7 @@
             "tournament": "LALIGA 2025-26",
             "short_name": "LALIGA 2025-26",
             "match_id": 131205,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "24 May 2026 12:30 AM",
             "startDate": "15 August 2025 05:30 AM",
             "endDate": "24 May 2026 11:45 PM",
@@ -3196,7 +3268,7 @@
             "tournament": "LALIGA 2025-26",
             "short_name": "LALIGA 2025-26",
             "match_id": 131204,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "24 May 2026 12:30 AM",
             "startDate": "15 August 2025 05:30 AM",
             "endDate": "24 May 2026 11:45 PM",
@@ -3223,6 +3295,182 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OSN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OSN@2x.png",
                     "color": "#F2DC85"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Rc Celta Vs Sevilla Fc",
+            "tournament": "LALIGA 2025-26",
+            "short_name": "LALIGA 2025-26",
+            "match_id": 131202,
+            "status": "STARTED",
+            "startTime": "24 May 2026 12:30 AM",
+            "startDate": "15 August 2025 05:30 AM",
+            "endDate": "24 May 2026 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-App.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131202_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-App.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131202_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 748,
+                    "name": "RC Celta",
+                    "shortName": "CEV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png",
+                    "color": "#b1d4f5"
+                },
+                {
+                    "id": 534,
+                    "name": "Sevilla FC",
+                    "shortName": "SEV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png",
+                    "color": "#daa335"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Real Betis Vs Levante",
+            "tournament": "LALIGA 2025-26",
+            "short_name": "LALIGA 2025-26",
+            "match_id": 131201,
+            "status": "STARTED",
+            "startTime": "24 May 2026 12:30 AM",
+            "startDate": "15 August 2025 05:30 AM",
+            "endDate": "24 May 2026 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-App.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131201_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-App.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131201_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 847,
+                    "name": "Real Betis",
+                    "shortName": "RB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-REALB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-REALB@2x.png",
+                    "color": "#19a661"
+                },
+                {
+                    "id": 11736,
+                    "name": "Levante",
+                    "shortName": "LE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png",
+                    "color": "#598bc1"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Deportivo Alaves Vs Rayo Vallecano",
+            "tournament": "LALIGA 2025-26",
+            "short_name": "LALIGA 2025-26",
+            "match_id": 131200,
+            "status": "STARTED",
+            "startTime": "24 May 2026 12:30 AM",
+            "startDate": "15 August 2025 05:30 AM",
+            "endDate": "24 May 2026 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131200_5427_ALA_RVL_FC-App.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131200_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131200_5427_ALA_RVL_FC-App.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131200_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 835,
+                    "name": "Deportivo Alaves",
+                    "shortName": "ALA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png",
+                    "color": "#537096"
+                },
+                {
+                    "id": 945,
+                    "name": "Rayo Vallecano",
+                    "shortName": "RVL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAV@2x.png",
+                    "color": "#F77A1E"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Barcelona Women Vs Lyon Women",
+            "tournament": "UEFA Women's Champions League 2025-26",
+            "short_name": "UEFA W-CL",
+            "match_id": 142260,
+            "status": "STARTED",
+            "startTime": "23 May 2026 09:30 PM",
+            "startDate": "07 October 2025 05:30 AM",
+            "endDate": "30 May 2026 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Women-vs-Lyon-Women_FC-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142260_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Women-vs-Lyon-Women_FC-web.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142260_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2500,
+                    "name": "Barcelona Women",
+                    "shortName": "BAR-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png",
+                    "color": "#E7B75C"
+                },
+                {
+                    "id": 12062,
+                    "name": "Lyon Women",
+                    "shortName": "OLY-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LYN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LYN@2x.png",
+                    "color": "#d15f6a"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -3443,6 +3691,50 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
                     "color": "#141414"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Motorsports",
+            "title": "Formula 2",
+            "tournament": "F2 MONTREAL 2026",
+            "short_name": "F2 MONTREAL",
+            "match_id": 142089,
+            "status": "STARTED",
+            "startTime": "23 May 2026 11:40 PM",
+            "startDate": "22 May 2026 05:30 AM",
+            "endDate": "24 May 2026 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142089_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142089_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8236,
+                    "name": "Sprint Race",
+                    "shortName": "F2",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
+                    "color": "#123456"
+                },
+                {
+                    "id": 8235,
+                    "name": "Canada",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "color": "#123456"
                 }
             ],
             "language": "BLOODY_SWEET",
