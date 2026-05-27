@@ -2,29 +2,741 @@
     "Author": "DOCTOR_STRANGE",
     "Telegram": "https://t.me/jitendraunatti_github",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:00:01 AM 27-05-2026",
+    "last_updated": "03:14:07 PM 27-05-2026",
     "headers": {
         "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 40,
-    "live_matches": 0,
-    "upcoming_matches": 40,
+    "total_matches": 52,
+    "live_matches": 6,
+    "upcoming_matches": 46,
     "matches": [
         {
+            "category": "Tennis",
+            "title": "Court Suzanne Lenglen",
+            "tournament": "Roland Garros 2026",
+            "match_id": 142660,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "27 May 2026 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142660_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Paris.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142660_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Court Suzanne-Lenglen",
+                    "shortName": "Court Suzanne-Lenglen",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#84E3C7",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Stade Roland Garros Paris, France",
+                    "shortName": "Stade Roland Garros Paris, France",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FF0000",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": false,
+                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8",
+                "fancode_cdn": "Unavailable",
+                "fancode_bd_cdn": "Unavailable",
+                "fancode_np_cdn": "Unavailable",
+                "fancode_lk_cdn": "Unavailable",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master.m3u8",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "backup": {
+                    "fancode_cdn": "Unavailable",
+                    "fancode_dai_cdn": "Unavailable"
+                }
+            },
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=516408,AVERAGE-BANDWIDTH=516408,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/hdntl=exp=1779957851~acl=%2f*~id=657d8c03-4eab-4b4f-b67a-18344503fb4f~data=hdntl~hmac=68903a0da3098abf29a29605ff33fa91ec61ac96f291f773fee8ca2ac88dcac7/master_350.m3u8?aka_me_session_id=AAAAAAAAAABbABhqAAAAAES+eg6ifdv6jwIg90LSAsb%2ff93yWWhGGi1Wnwg0R6M7+8bwHMQsBw7pWv9EZksFKOSVhjp5+ea5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/hdntl=exp=1779957851~acl=%2f*~id=657d8c03-4eab-4b4f-b67a-18344503fb4f~data=hdntl~hmac=68903a0da3098abf29a29605ff33fa91ec61ac96f291f773fee8ca2ac88dcac7/master_500.m3u8?aka_me_session_id=AAAAAAAAAABbABhqAAAAAES+eg6ifdv6jwIg90LSAsb%2ff93yWWhGGi1Wnwg0R6M7+8bwHMQsBw7pWv9EZksFKOSVhjp5+ea5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=906728,AVERAGE-BANDWIDTH=906728,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/hdntl=exp=1779957851~acl=%2f*~id=657d8c03-4eab-4b4f-b67a-18344503fb4f~data=hdntl~hmac=68903a0da3098abf29a29605ff33fa91ec61ac96f291f773fee8ca2ac88dcac7/master_700.m3u8?aka_me_session_id=AAAAAAAAAABbABhqAAAAAES+eg6ifdv6jwIg90LSAsb%2ff93yWWhGGi1Wnwg0R6M7+8bwHMQsBw7pWv9EZksFKOSVhjp5+ea5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1194872,AVERAGE-BANDWIDTH=1194872,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/hdntl=exp=1779957851~acl=%2f*~id=657d8c03-4eab-4b4f-b67a-18344503fb4f~data=hdntl~hmac=68903a0da3098abf29a29605ff33fa91ec61ac96f291f773fee8ca2ac88dcac7/master_950.m3u8?aka_me_session_id=AAAAAAAAAABbABhqAAAAAES+eg6ifdv6jwIg90LSAsb%2ff93yWWhGGi1Wnwg0R6M7+8bwHMQsBw7pWv9EZksFKOSVhjp5+ea5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1603544,AVERAGE-BANDWIDTH=1603544,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/hdntl=exp=1779957851~acl=%2f*~id=657d8c03-4eab-4b4f-b67a-18344503fb4f~data=hdntl~hmac=68903a0da3098abf29a29605ff33fa91ec61ac96f291f773fee8ca2ac88dcac7/master_1350.m3u8?aka_me_session_id=AAAAAAAAAABbABhqAAAAAES+eg6ifdv6jwIg90LSAsb%2ff93yWWhGGi1Wnwg0R6M7+8bwHMQsBw7pWv9EZksFKOSVhjp5+ea5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1646672,AVERAGE-BANDWIDTH=1646672,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/hdntl=exp=1779957851~acl=%2f*~id=657d8c03-4eab-4b4f-b67a-18344503fb4f~data=hdntl~hmac=68903a0da3098abf29a29605ff33fa91ec61ac96f291f773fee8ca2ac88dcac7/master_1400.m3u8?aka_me_session_id=AAAAAAAAAABbABhqAAAAAES+eg6ifdv6jwIg90LSAsb%2ff93yWWhGGi1Wnwg0R6M7+8bwHMQsBw7pWv9EZksFKOSVhjp5+ea5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2310816,AVERAGE-BANDWIDTH=2310816,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/hdntl=exp=1779957851~acl=%2f*~id=657d8c03-4eab-4b4f-b67a-18344503fb4f~data=hdntl~hmac=68903a0da3098abf29a29605ff33fa91ec61ac96f291f773fee8ca2ac88dcac7/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABbABhqAAAAAES+eg6ifdv6jwIg90LSAsb%2ff93yWWhGGi1Wnwg0R6M7+8bwHMQsBw7pWv9EZksFKOSVhjp5+ea5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/hdntl=exp=1779957851~acl=%2f*~id=657d8c03-4eab-4b4f-b67a-18344503fb4f~data=hdntl~hmac=68903a0da3098abf29a29605ff33fa91ec61ac96f291f773fee8ca2ac88dcac7/master_3000.m3u8?aka_me_session_id=AAAAAAAAAABbABhqAAAAAES+eg6ifdv6jwIg90LSAsb%2ff93yWWhGGi1Wnwg0R6M7+8bwHMQsBw7pWv9EZksFKOSVhjp5+ea5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4865152,AVERAGE-BANDWIDTH=4865152,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/hdntl=exp=1779957851~acl=%2f*~id=657d8c03-4eab-4b4f-b67a-18344503fb4f~data=hdntl~hmac=68903a0da3098abf29a29605ff33fa91ec61ac96f291f773fee8ca2ac88dcac7/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABbABhqAAAAAES+eg6ifdv6jwIg90LSAsb%2ff93yWWhGGi1Wnwg0R6M7+8bwHMQsBw7pWv9EZksFKOSVhjp5+ea5&aka_media_format_type=hls",
+                    "cookie": "hdntl=exp=1779957851~acl=%2f*~id=657d8c03-4eab-4b4f-b67a-18344503fb4f~data=hdntl~hmac=68903a0da3098abf29a29605ff33fa91ec61ac96f291f773fee8ca2ac88dcac7",
+                    "cookie_valid": "1779957851",
+                    "create_date": "Wednesday, May 27, 2026, 2:14:08 PM",
+                    "expire_date": "Thursday, May 28, 2026, 2:14:11 PM",
+                    "language": "ENGLISH"
+                }
+            ]
+        },
+        {
+            "category": "Tennis",
+            "title": "Court Simonne Mathieu",
+            "tournament": "Roland Garros 2026",
+            "match_id": 142659,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "27 May 2026 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142659_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Paris.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142659_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Court Simonne-Mathieu",
+                    "shortName": "Court Simonne-Mathieu",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#84E3C7",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Stade Roland Garros Paris, France",
+                    "shortName": "Stade Roland Garros Paris, France",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FF0000",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": false,
+                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/WXZSUDTrR_qEtB80K6n8fg/master.m3u8",
+                "fancode_cdn": "Unavailable",
+                "fancode_bd_cdn": "Unavailable",
+                "fancode_np_cdn": "Unavailable",
+                "fancode_lk_cdn": "Unavailable",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/WXZSUDTrR_qEtB80K6n8fg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master.m3u8",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "backup": {
+                    "fancode_cdn": "Unavailable",
+                    "fancode_dai_cdn": "Unavailable"
+                }
+            },
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=516408,AVERAGE-BANDWIDTH=516408,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/hdntl=exp=1779957855~acl=%2f*~id=478bcb8d-1bef-4f01-a865-96d8694eb8ed~data=hdntl~hmac=81533b92e4cfb9e262a447c45e6ae42ea2ad37e4ab68d47a6c9e5320b0cca276/master_350.m3u8?aka_me_session_id=AAAAAAAAAABfABhqAAAAAOtadWIaE+ib%2fVwz+k3PwNzs42JA9DcieXnYxAhRnsY7BhOvp9V3bddbegya00H79F8wXp6IzLI7&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/hdntl=exp=1779957855~acl=%2f*~id=478bcb8d-1bef-4f01-a865-96d8694eb8ed~data=hdntl~hmac=81533b92e4cfb9e262a447c45e6ae42ea2ad37e4ab68d47a6c9e5320b0cca276/master_500.m3u8?aka_me_session_id=AAAAAAAAAABfABhqAAAAAOtadWIaE+ib%2fVwz+k3PwNzs42JA9DcieXnYxAhRnsY7BhOvp9V3bddbegya00H79F8wXp6IzLI7&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=906728,AVERAGE-BANDWIDTH=906728,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/hdntl=exp=1779957855~acl=%2f*~id=478bcb8d-1bef-4f01-a865-96d8694eb8ed~data=hdntl~hmac=81533b92e4cfb9e262a447c45e6ae42ea2ad37e4ab68d47a6c9e5320b0cca276/master_700.m3u8?aka_me_session_id=AAAAAAAAAABfABhqAAAAAOtadWIaE+ib%2fVwz+k3PwNzs42JA9DcieXnYxAhRnsY7BhOvp9V3bddbegya00H79F8wXp6IzLI7&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1194872,AVERAGE-BANDWIDTH=1194872,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/hdntl=exp=1779957855~acl=%2f*~id=478bcb8d-1bef-4f01-a865-96d8694eb8ed~data=hdntl~hmac=81533b92e4cfb9e262a447c45e6ae42ea2ad37e4ab68d47a6c9e5320b0cca276/master_950.m3u8?aka_me_session_id=AAAAAAAAAABfABhqAAAAAOtadWIaE+ib%2fVwz+k3PwNzs42JA9DcieXnYxAhRnsY7BhOvp9V3bddbegya00H79F8wXp6IzLI7&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1603544,AVERAGE-BANDWIDTH=1603544,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/hdntl=exp=1779957855~acl=%2f*~id=478bcb8d-1bef-4f01-a865-96d8694eb8ed~data=hdntl~hmac=81533b92e4cfb9e262a447c45e6ae42ea2ad37e4ab68d47a6c9e5320b0cca276/master_1350.m3u8?aka_me_session_id=AAAAAAAAAABfABhqAAAAAOtadWIaE+ib%2fVwz+k3PwNzs42JA9DcieXnYxAhRnsY7BhOvp9V3bddbegya00H79F8wXp6IzLI7&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1646672,AVERAGE-BANDWIDTH=1646672,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/hdntl=exp=1779957855~acl=%2f*~id=478bcb8d-1bef-4f01-a865-96d8694eb8ed~data=hdntl~hmac=81533b92e4cfb9e262a447c45e6ae42ea2ad37e4ab68d47a6c9e5320b0cca276/master_1400.m3u8?aka_me_session_id=AAAAAAAAAABfABhqAAAAAOtadWIaE+ib%2fVwz+k3PwNzs42JA9DcieXnYxAhRnsY7BhOvp9V3bddbegya00H79F8wXp6IzLI7&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2310816,AVERAGE-BANDWIDTH=2310816,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/hdntl=exp=1779957855~acl=%2f*~id=478bcb8d-1bef-4f01-a865-96d8694eb8ed~data=hdntl~hmac=81533b92e4cfb9e262a447c45e6ae42ea2ad37e4ab68d47a6c9e5320b0cca276/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABfABhqAAAAAOtadWIaE+ib%2fVwz+k3PwNzs42JA9DcieXnYxAhRnsY7BhOvp9V3bddbegya00H79F8wXp6IzLI7&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/hdntl=exp=1779957855~acl=%2f*~id=478bcb8d-1bef-4f01-a865-96d8694eb8ed~data=hdntl~hmac=81533b92e4cfb9e262a447c45e6ae42ea2ad37e4ab68d47a6c9e5320b0cca276/master_3000.m3u8?aka_me_session_id=AAAAAAAAAABfABhqAAAAAOtadWIaE+ib%2fVwz+k3PwNzs42JA9DcieXnYxAhRnsY7BhOvp9V3bddbegya00H79F8wXp6IzLI7&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4865152,AVERAGE-BANDWIDTH=4865152,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/hdntl=exp=1779957855~acl=%2f*~id=478bcb8d-1bef-4f01-a865-96d8694eb8ed~data=hdntl~hmac=81533b92e4cfb9e262a447c45e6ae42ea2ad37e4ab68d47a6c9e5320b0cca276/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABfABhqAAAAAOtadWIaE+ib%2fVwz+k3PwNzs42JA9DcieXnYxAhRnsY7BhOvp9V3bddbegya00H79F8wXp6IzLI7&aka_media_format_type=hls",
+                    "cookie": "hdntl=exp=1779957855~acl=%2f*~id=478bcb8d-1bef-4f01-a865-96d8694eb8ed~data=hdntl~hmac=81533b92e4cfb9e262a447c45e6ae42ea2ad37e4ab68d47a6c9e5320b0cca276",
+                    "cookie_valid": "1779957855",
+                    "create_date": "Wednesday, May 27, 2026, 2:14:11 PM",
+                    "expire_date": "Thursday, May 28, 2026, 2:14:15 PM",
+                    "language": "ENGLISH"
+                }
+            ]
+        },
+        {
+            "category": "Tennis",
+            "title": "Court 14",
+            "tournament": "Roland Garros 2026",
+            "match_id": 142658,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "27 May 2026 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142658_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Paris.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142658_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Court 14",
+                    "shortName": "Court 14",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#84E3C7",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Stade Roland Garros Paris, France",
+                    "shortName": "Stade Roland Garros Paris, France",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FF0000",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": false,
+                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/rim5HfGeSVWCfnD_0YwbPA/master.m3u8",
+                "fancode_cdn": "Unavailable",
+                "fancode_bd_cdn": "Unavailable",
+                "fancode_np_cdn": "Unavailable",
+                "fancode_lk_cdn": "Unavailable",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/rim5HfGeSVWCfnD_0YwbPA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master.m3u8",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "backup": {
+                    "fancode_cdn": "Unavailable",
+                    "fancode_dai_cdn": "Unavailable"
+                }
+            },
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=516408,AVERAGE-BANDWIDTH=516408,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/hdntl=exp=1779957860~acl=%2f*~id=0f841f21-d4b2-44ae-990a-167fc384225b~data=hdntl~hmac=55147461534a806e666ef98f19ba4d65cfa2d9c571f44d5bb650023df57b65dc/master_350.m3u8?aka_me_session_id=AAAAAAAAAABkABhqAAAAAF%2f62bCBaGiVZN5oBIjXp81Q56Yudwv3Cq6TAE91ICgkT5rhXP2iPyu1JADByKp7mzrMf5cPmvhT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/hdntl=exp=1779957860~acl=%2f*~id=0f841f21-d4b2-44ae-990a-167fc384225b~data=hdntl~hmac=55147461534a806e666ef98f19ba4d65cfa2d9c571f44d5bb650023df57b65dc/master_500.m3u8?aka_me_session_id=AAAAAAAAAABkABhqAAAAAF%2f62bCBaGiVZN5oBIjXp81Q56Yudwv3Cq6TAE91ICgkT5rhXP2iPyu1JADByKp7mzrMf5cPmvhT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=906728,AVERAGE-BANDWIDTH=906728,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/hdntl=exp=1779957860~acl=%2f*~id=0f841f21-d4b2-44ae-990a-167fc384225b~data=hdntl~hmac=55147461534a806e666ef98f19ba4d65cfa2d9c571f44d5bb650023df57b65dc/master_700.m3u8?aka_me_session_id=AAAAAAAAAABkABhqAAAAAF%2f62bCBaGiVZN5oBIjXp81Q56Yudwv3Cq6TAE91ICgkT5rhXP2iPyu1JADByKp7mzrMf5cPmvhT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1194872,AVERAGE-BANDWIDTH=1194872,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/hdntl=exp=1779957860~acl=%2f*~id=0f841f21-d4b2-44ae-990a-167fc384225b~data=hdntl~hmac=55147461534a806e666ef98f19ba4d65cfa2d9c571f44d5bb650023df57b65dc/master_950.m3u8?aka_me_session_id=AAAAAAAAAABkABhqAAAAAF%2f62bCBaGiVZN5oBIjXp81Q56Yudwv3Cq6TAE91ICgkT5rhXP2iPyu1JADByKp7mzrMf5cPmvhT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1603544,AVERAGE-BANDWIDTH=1603544,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/hdntl=exp=1779957860~acl=%2f*~id=0f841f21-d4b2-44ae-990a-167fc384225b~data=hdntl~hmac=55147461534a806e666ef98f19ba4d65cfa2d9c571f44d5bb650023df57b65dc/master_1350.m3u8?aka_me_session_id=AAAAAAAAAABkABhqAAAAAF%2f62bCBaGiVZN5oBIjXp81Q56Yudwv3Cq6TAE91ICgkT5rhXP2iPyu1JADByKp7mzrMf5cPmvhT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1646672,AVERAGE-BANDWIDTH=1646672,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/hdntl=exp=1779957860~acl=%2f*~id=0f841f21-d4b2-44ae-990a-167fc384225b~data=hdntl~hmac=55147461534a806e666ef98f19ba4d65cfa2d9c571f44d5bb650023df57b65dc/master_1400.m3u8?aka_me_session_id=AAAAAAAAAABkABhqAAAAAF%2f62bCBaGiVZN5oBIjXp81Q56Yudwv3Cq6TAE91ICgkT5rhXP2iPyu1JADByKp7mzrMf5cPmvhT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2310816,AVERAGE-BANDWIDTH=2310816,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/hdntl=exp=1779957860~acl=%2f*~id=0f841f21-d4b2-44ae-990a-167fc384225b~data=hdntl~hmac=55147461534a806e666ef98f19ba4d65cfa2d9c571f44d5bb650023df57b65dc/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABkABhqAAAAAF%2f62bCBaGiVZN5oBIjXp81Q56Yudwv3Cq6TAE91ICgkT5rhXP2iPyu1JADByKp7mzrMf5cPmvhT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/hdntl=exp=1779957860~acl=%2f*~id=0f841f21-d4b2-44ae-990a-167fc384225b~data=hdntl~hmac=55147461534a806e666ef98f19ba4d65cfa2d9c571f44d5bb650023df57b65dc/master_3000.m3u8?aka_me_session_id=AAAAAAAAAABkABhqAAAAAF%2f62bCBaGiVZN5oBIjXp81Q56Yudwv3Cq6TAE91ICgkT5rhXP2iPyu1JADByKp7mzrMf5cPmvhT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4865152,AVERAGE-BANDWIDTH=4865152,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/hdntl=exp=1779957860~acl=%2f*~id=0f841f21-d4b2-44ae-990a-167fc384225b~data=hdntl~hmac=55147461534a806e666ef98f19ba4d65cfa2d9c571f44d5bb650023df57b65dc/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABkABhqAAAAAF%2f62bCBaGiVZN5oBIjXp81Q56Yudwv3Cq6TAE91ICgkT5rhXP2iPyu1JADByKp7mzrMf5cPmvhT&aka_media_format_type=hls",
+                    "cookie": "hdntl=exp=1779957860~acl=%2f*~id=0f841f21-d4b2-44ae-990a-167fc384225b~data=hdntl~hmac=55147461534a806e666ef98f19ba4d65cfa2d9c571f44d5bb650023df57b65dc",
+                    "cookie_valid": "1779957860",
+                    "create_date": "Wednesday, May 27, 2026, 2:14:17 PM",
+                    "expire_date": "Thursday, May 28, 2026, 2:14:20 PM",
+                    "language": "ENGLISH"
+                }
+            ]
+        },
+        {
+            "category": "Tennis",
+            "title": "Top Seeds In Action",
+            "tournament": "Roland Garros 2026",
+            "match_id": 142953,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "27 May 2026 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142953_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Paris.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142953_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Top seeds in action",
+                    "shortName": "Top seeds in action",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#84E3C7",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Stade Roland Garros Paris, France",
+                    "shortName": "Stade Roland Garros Paris, France",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FF0000",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": false,
+                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8",
+                "fancode_cdn": "Unavailable",
+                "fancode_bd_cdn": "Unavailable",
+                "fancode_np_cdn": "Unavailable",
+                "fancode_lk_cdn": "Unavailable",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master.m3u8",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "backup": {
+                    "fancode_cdn": "Unavailable",
+                    "fancode_dai_cdn": "Unavailable"
+                }
+            },
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=516408,AVERAGE-BANDWIDTH=516408,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/hdntl=exp=1779958268~acl=%2f*~id=01d6fcac-de5e-4c8a-825b-8e4e31a5d1a7~data=hdntl~hmac=5699d992a2803a6c98021423e15e19a30ff9d95f50dee6ed30869fe2ff9766c7/master_350.m3u8?aka_me_session_id=AAAAAAAAAAD8ARhqAAAAAOnxLYSSqJDk+jOQfa9mQjV8KAYEldPPkNnic28XP9+ArySyUTncrPRIAXesGFxEfC8%2fmie1bpGQ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/hdntl=exp=1779958268~acl=%2f*~id=01d6fcac-de5e-4c8a-825b-8e4e31a5d1a7~data=hdntl~hmac=5699d992a2803a6c98021423e15e19a30ff9d95f50dee6ed30869fe2ff9766c7/master_500.m3u8?aka_me_session_id=AAAAAAAAAAD8ARhqAAAAAOnxLYSSqJDk+jOQfa9mQjV8KAYEldPPkNnic28XP9+ArySyUTncrPRIAXesGFxEfC8%2fmie1bpGQ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=906728,AVERAGE-BANDWIDTH=906728,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/hdntl=exp=1779958268~acl=%2f*~id=01d6fcac-de5e-4c8a-825b-8e4e31a5d1a7~data=hdntl~hmac=5699d992a2803a6c98021423e15e19a30ff9d95f50dee6ed30869fe2ff9766c7/master_700.m3u8?aka_me_session_id=AAAAAAAAAAD8ARhqAAAAAOnxLYSSqJDk+jOQfa9mQjV8KAYEldPPkNnic28XP9+ArySyUTncrPRIAXesGFxEfC8%2fmie1bpGQ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1194872,AVERAGE-BANDWIDTH=1194872,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/hdntl=exp=1779958268~acl=%2f*~id=01d6fcac-de5e-4c8a-825b-8e4e31a5d1a7~data=hdntl~hmac=5699d992a2803a6c98021423e15e19a30ff9d95f50dee6ed30869fe2ff9766c7/master_950.m3u8?aka_me_session_id=AAAAAAAAAAD8ARhqAAAAAOnxLYSSqJDk+jOQfa9mQjV8KAYEldPPkNnic28XP9+ArySyUTncrPRIAXesGFxEfC8%2fmie1bpGQ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1603544,AVERAGE-BANDWIDTH=1603544,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/hdntl=exp=1779958268~acl=%2f*~id=01d6fcac-de5e-4c8a-825b-8e4e31a5d1a7~data=hdntl~hmac=5699d992a2803a6c98021423e15e19a30ff9d95f50dee6ed30869fe2ff9766c7/master_1350.m3u8?aka_me_session_id=AAAAAAAAAAD8ARhqAAAAAOnxLYSSqJDk+jOQfa9mQjV8KAYEldPPkNnic28XP9+ArySyUTncrPRIAXesGFxEfC8%2fmie1bpGQ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1646672,AVERAGE-BANDWIDTH=1646672,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/hdntl=exp=1779958268~acl=%2f*~id=01d6fcac-de5e-4c8a-825b-8e4e31a5d1a7~data=hdntl~hmac=5699d992a2803a6c98021423e15e19a30ff9d95f50dee6ed30869fe2ff9766c7/master_1400.m3u8?aka_me_session_id=AAAAAAAAAAD8ARhqAAAAAOnxLYSSqJDk+jOQfa9mQjV8KAYEldPPkNnic28XP9+ArySyUTncrPRIAXesGFxEfC8%2fmie1bpGQ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2310816,AVERAGE-BANDWIDTH=2310816,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/hdntl=exp=1779958268~acl=%2f*~id=01d6fcac-de5e-4c8a-825b-8e4e31a5d1a7~data=hdntl~hmac=5699d992a2803a6c98021423e15e19a30ff9d95f50dee6ed30869fe2ff9766c7/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAD8ARhqAAAAAOnxLYSSqJDk+jOQfa9mQjV8KAYEldPPkNnic28XP9+ArySyUTncrPRIAXesGFxEfC8%2fmie1bpGQ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/hdntl=exp=1779958268~acl=%2f*~id=01d6fcac-de5e-4c8a-825b-8e4e31a5d1a7~data=hdntl~hmac=5699d992a2803a6c98021423e15e19a30ff9d95f50dee6ed30869fe2ff9766c7/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAD8ARhqAAAAAOnxLYSSqJDk+jOQfa9mQjV8KAYEldPPkNnic28XP9+ArySyUTncrPRIAXesGFxEfC8%2fmie1bpGQ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4865152,AVERAGE-BANDWIDTH=4865152,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/hdntl=exp=1779958268~acl=%2f*~id=01d6fcac-de5e-4c8a-825b-8e4e31a5d1a7~data=hdntl~hmac=5699d992a2803a6c98021423e15e19a30ff9d95f50dee6ed30869fe2ff9766c7/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAD8ARhqAAAAAOnxLYSSqJDk+jOQfa9mQjV8KAYEldPPkNnic28XP9+ArySyUTncrPRIAXesGFxEfC8%2fmie1bpGQ&aka_media_format_type=hls",
+                    "cookie": "hdntl=exp=1779958268~acl=%2f*~id=01d6fcac-de5e-4c8a-825b-8e4e31a5d1a7~data=hdntl~hmac=5699d992a2803a6c98021423e15e19a30ff9d95f50dee6ed30869fe2ff9766c7",
+                    "cookie_valid": "1779958268",
+                    "create_date": "Wednesday, May 27, 2026, 2:21:05 PM",
+                    "expire_date": "Thursday, May 28, 2026, 2:21:08 PM",
+                    "language": "ENGLISH"
+                }
+            ]
+        },
+        {
+            "category": "Tennis",
+            "title": "Top Seeds In Action",
+            "tournament": "Roland Garros 2026",
+            "match_id": 142953,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "27 May 2026 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142953_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Paris.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142953_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Top seeds in action",
+                    "shortName": "Top seeds in action",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#84E3C7",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Stade Roland Garros Paris, France",
+                    "shortName": "Stade Roland Garros Paris, France",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FF0000",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "HINDI",
+            "STREAMING_CDN": {
+                "is_drm": false,
+                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/fE5fgIpRRwiue-26GG4XmA/master.m3u8",
+                "fancode_cdn": "Unavailable",
+                "fancode_bd_cdn": "Unavailable",
+                "fancode_np_cdn": "Unavailable",
+                "fancode_lk_cdn": "Unavailable",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/fE5fgIpRRwiue-26GG4XmA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCHIN/master.m3u8",
+                "language": "HINDI",
+                "X-Served-By": "ROLEX",
+                "backup": {
+                    "fancode_cdn": "Unavailable",
+                    "fancode_dai_cdn": "Unavailable"
+                }
+            },
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=516408,AVERAGE-BANDWIDTH=516408,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCHIN/hdntl=exp=1779958273~acl=%2f*~id=4fee3e16-a50b-4506-8dbe-6a98c13c7498~data=hdntl~hmac=de4c544dba0c044ff7c89648c9e02b6ae5dabeddae727aec34b7e3da6d0934b5/master_350.m3u8?aka_me_session_id=AAAAAAAAAAABAhhqAAAAADxlCX1nw+C91Vc0NapbNnjq6j7byi5t3tuiP9pM0wJinXUNwCueQdkdV3AzC2xoNeTQJz05Yxpq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCHIN/hdntl=exp=1779958273~acl=%2f*~id=4fee3e16-a50b-4506-8dbe-6a98c13c7498~data=hdntl~hmac=de4c544dba0c044ff7c89648c9e02b6ae5dabeddae727aec34b7e3da6d0934b5/master_500.m3u8?aka_me_session_id=AAAAAAAAAAABAhhqAAAAADxlCX1nw+C91Vc0NapbNnjq6j7byi5t3tuiP9pM0wJinXUNwCueQdkdV3AzC2xoNeTQJz05Yxpq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=906728,AVERAGE-BANDWIDTH=906728,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCHIN/hdntl=exp=1779958273~acl=%2f*~id=4fee3e16-a50b-4506-8dbe-6a98c13c7498~data=hdntl~hmac=de4c544dba0c044ff7c89648c9e02b6ae5dabeddae727aec34b7e3da6d0934b5/master_700.m3u8?aka_me_session_id=AAAAAAAAAAABAhhqAAAAADxlCX1nw+C91Vc0NapbNnjq6j7byi5t3tuiP9pM0wJinXUNwCueQdkdV3AzC2xoNeTQJz05Yxpq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1194872,AVERAGE-BANDWIDTH=1194872,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCHIN/hdntl=exp=1779958273~acl=%2f*~id=4fee3e16-a50b-4506-8dbe-6a98c13c7498~data=hdntl~hmac=de4c544dba0c044ff7c89648c9e02b6ae5dabeddae727aec34b7e3da6d0934b5/master_950.m3u8?aka_me_session_id=AAAAAAAAAAABAhhqAAAAADxlCX1nw+C91Vc0NapbNnjq6j7byi5t3tuiP9pM0wJinXUNwCueQdkdV3AzC2xoNeTQJz05Yxpq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1603544,AVERAGE-BANDWIDTH=1603544,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCHIN/hdntl=exp=1779958273~acl=%2f*~id=4fee3e16-a50b-4506-8dbe-6a98c13c7498~data=hdntl~hmac=de4c544dba0c044ff7c89648c9e02b6ae5dabeddae727aec34b7e3da6d0934b5/master_1350.m3u8?aka_me_session_id=AAAAAAAAAAABAhhqAAAAADxlCX1nw+C91Vc0NapbNnjq6j7byi5t3tuiP9pM0wJinXUNwCueQdkdV3AzC2xoNeTQJz05Yxpq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2310816,AVERAGE-BANDWIDTH=2310816,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCHIN/hdntl=exp=1779958273~acl=%2f*~id=4fee3e16-a50b-4506-8dbe-6a98c13c7498~data=hdntl~hmac=de4c544dba0c044ff7c89648c9e02b6ae5dabeddae727aec34b7e3da6d0934b5/master_1400.m3u8?aka_me_session_id=AAAAAAAAAAABAhhqAAAAADxlCX1nw+C91Vc0NapbNnjq6j7byi5t3tuiP9pM0wJinXUNwCueQdkdV3AzC2xoNeTQJz05Yxpq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCHIN/hdntl=exp=1779958273~acl=%2f*~id=4fee3e16-a50b-4506-8dbe-6a98c13c7498~data=hdntl~hmac=de4c544dba0c044ff7c89648c9e02b6ae5dabeddae727aec34b7e3da6d0934b5/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAABAhhqAAAAADxlCX1nw+C91Vc0NapbNnjq6j7byi5t3tuiP9pM0wJinXUNwCueQdkdV3AzC2xoNeTQJz05Yxpq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4980816,AVERAGE-BANDWIDTH=4980816,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCHIN/hdntl=exp=1779958273~acl=%2f*~id=4fee3e16-a50b-4506-8dbe-6a98c13c7498~data=hdntl~hmac=de4c544dba0c044ff7c89648c9e02b6ae5dabeddae727aec34b7e3da6d0934b5/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAABAhhqAAAAADxlCX1nw+C91Vc0NapbNnjq6j7byi5t3tuiP9pM0wJinXUNwCueQdkdV3AzC2xoNeTQJz05Yxpq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1646672,AVERAGE-BANDWIDTH=1646672,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCHIN/hdntl=exp=1779958273~acl=%2f*~id=4fee3e16-a50b-4506-8dbe-6a98c13c7498~data=hdntl~hmac=de4c544dba0c044ff7c89648c9e02b6ae5dabeddae727aec34b7e3da6d0934b5/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAABAhhqAAAAADxlCX1nw+C91Vc0NapbNnjq6j7byi5t3tuiP9pM0wJinXUNwCueQdkdV3AzC2xoNeTQJz05Yxpq&aka_media_format_type=hls",
+                    "cookie": "hdntl=exp=1779958273~acl=%2f*~id=4fee3e16-a50b-4506-8dbe-6a98c13c7498~data=hdntl~hmac=de4c544dba0c044ff7c89648c9e02b6ae5dabeddae727aec34b7e3da6d0934b5",
+                    "cookie_valid": "1779958273",
+                    "create_date": "Wednesday, May 27, 2026, 2:21:10 PM",
+                    "expire_date": "Thursday, May 28, 2026, 2:21:13 PM",
+                    "language": "HINDI"
+                }
+            ]
+        },
+        {
+            "category": "Tennis",
+            "title": "Top Seeds In Action",
+            "tournament": "Roland Garros 2026",
+            "match_id": 142953,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "27 May 2026 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142953_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Paris.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142953_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Top seeds in action",
+                    "shortName": "Top seeds in action",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#84E3C7",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Stade Roland Garros Paris, France",
+                    "shortName": "Stade Roland Garros Paris, France",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FF0000",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "TAMIL",
+            "STREAMING_CDN": {
+                "is_drm": false,
+                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/fl9QYciWQzGorh7RYdUx2Q/master.m3u8",
+                "fancode_cdn": "Unavailable",
+                "fancode_bd_cdn": "Unavailable",
+                "fancode_np_cdn": "Unavailable",
+                "fancode_lk_cdn": "Unavailable",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/fl9QYciWQzGorh7RYdUx2Q/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCTAM/master.m3u8",
+                "language": "TAMIL",
+                "X-Served-By": "ROLEX",
+                "backup": {
+                    "fancode_cdn": "Unavailable",
+                    "fancode_dai_cdn": "Unavailable"
+                }
+            },
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=516408,AVERAGE-BANDWIDTH=516408,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCTAM/hdntl=exp=1779958280~acl=%2f*~id=2443d4cc-4881-445c-bef8-0bf11e7440a4~data=hdntl~hmac=945d0077b22cec9442ae85fe8c4d0a2f0175c0e3ed6249e0230352a3890bdfed/master_350.m3u8?aka_me_session_id=AAAAAAAAAAAIAhhqAAAAAIWIaMRQv1MOQ86Yvf5dc4+KsaQ3ObUcpHCuAa5%2f4JW0rTUyYana5dQnCqCkgKQsOOlTQqDu8UBU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCTAM/hdntl=exp=1779958280~acl=%2f*~id=2443d4cc-4881-445c-bef8-0bf11e7440a4~data=hdntl~hmac=945d0077b22cec9442ae85fe8c4d0a2f0175c0e3ed6249e0230352a3890bdfed/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAIAhhqAAAAAIWIaMRQv1MOQ86Yvf5dc4+KsaQ3ObUcpHCuAa5%2f4JW0rTUyYana5dQnCqCkgKQsOOlTQqDu8UBU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=906728,AVERAGE-BANDWIDTH=906728,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCTAM/hdntl=exp=1779958280~acl=%2f*~id=2443d4cc-4881-445c-bef8-0bf11e7440a4~data=hdntl~hmac=945d0077b22cec9442ae85fe8c4d0a2f0175c0e3ed6249e0230352a3890bdfed/master_700.m3u8?aka_me_session_id=AAAAAAAAAAAIAhhqAAAAAIWIaMRQv1MOQ86Yvf5dc4+KsaQ3ObUcpHCuAa5%2f4JW0rTUyYana5dQnCqCkgKQsOOlTQqDu8UBU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1194872,AVERAGE-BANDWIDTH=1194872,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCTAM/hdntl=exp=1779958280~acl=%2f*~id=2443d4cc-4881-445c-bef8-0bf11e7440a4~data=hdntl~hmac=945d0077b22cec9442ae85fe8c4d0a2f0175c0e3ed6249e0230352a3890bdfed/master_950.m3u8?aka_me_session_id=AAAAAAAAAAAIAhhqAAAAAIWIaMRQv1MOQ86Yvf5dc4+KsaQ3ObUcpHCuAa5%2f4JW0rTUyYana5dQnCqCkgKQsOOlTQqDu8UBU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1603544,AVERAGE-BANDWIDTH=1603544,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCTAM/hdntl=exp=1779958280~acl=%2f*~id=2443d4cc-4881-445c-bef8-0bf11e7440a4~data=hdntl~hmac=945d0077b22cec9442ae85fe8c4d0a2f0175c0e3ed6249e0230352a3890bdfed/master_1350.m3u8?aka_me_session_id=AAAAAAAAAAAIAhhqAAAAAIWIaMRQv1MOQ86Yvf5dc4+KsaQ3ObUcpHCuAa5%2f4JW0rTUyYana5dQnCqCkgKQsOOlTQqDu8UBU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2310816,AVERAGE-BANDWIDTH=2310816,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCTAM/hdntl=exp=1779958280~acl=%2f*~id=2443d4cc-4881-445c-bef8-0bf11e7440a4~data=hdntl~hmac=945d0077b22cec9442ae85fe8c4d0a2f0175c0e3ed6249e0230352a3890bdfed/master_1400.m3u8?aka_me_session_id=AAAAAAAAAAAIAhhqAAAAAIWIaMRQv1MOQ86Yvf5dc4+KsaQ3ObUcpHCuAa5%2f4JW0rTUyYana5dQnCqCkgKQsOOlTQqDu8UBU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCTAM/hdntl=exp=1779958280~acl=%2f*~id=2443d4cc-4881-445c-bef8-0bf11e7440a4~data=hdntl~hmac=945d0077b22cec9442ae85fe8c4d0a2f0175c0e3ed6249e0230352a3890bdfed/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAIAhhqAAAAAIWIaMRQv1MOQ86Yvf5dc4+KsaQ3ObUcpHCuAa5%2f4JW0rTUyYana5dQnCqCkgKQsOOlTQqDu8UBU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4865152,AVERAGE-BANDWIDTH=4865152,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCTAM/hdntl=exp=1779958280~acl=%2f*~id=2443d4cc-4881-445c-bef8-0bf11e7440a4~data=hdntl~hmac=945d0077b22cec9442ae85fe8c4d0a2f0175c0e3ed6249e0230352a3890bdfed/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAAIAhhqAAAAAIWIaMRQv1MOQ86Yvf5dc4+KsaQ3ObUcpHCuAa5%2f4JW0rTUyYana5dQnCqCkgKQsOOlTQqDu8UBU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1646672,AVERAGE-BANDWIDTH=1646672,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2022317/RGFCTAM/hdntl=exp=1779958280~acl=%2f*~id=2443d4cc-4881-445c-bef8-0bf11e7440a4~data=hdntl~hmac=945d0077b22cec9442ae85fe8c4d0a2f0175c0e3ed6249e0230352a3890bdfed/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAIAhhqAAAAAIWIaMRQv1MOQ86Yvf5dc4+KsaQ3ObUcpHCuAa5%2f4JW0rTUyYana5dQnCqCkgKQsOOlTQqDu8UBU&aka_media_format_type=hls",
+                    "cookie": "hdntl=exp=1779958280~acl=%2f*~id=2443d4cc-4881-445c-bef8-0bf11e7440a4~data=hdntl~hmac=945d0077b22cec9442ae85fe8c4d0a2f0175c0e3ed6249e0230352a3890bdfed",
+                    "cookie_valid": "1779958280",
+                    "create_date": "Wednesday, May 27, 2026, 2:21:17 PM",
+                    "expire_date": "Thursday, May 28, 2026, 2:21:20 PM",
+                    "language": "TAMIL"
+                }
+            ]
+        },
+        {
+            "category": "Tennis",
+            "title": "Top Seeds In Action",
+            "tournament": "Roland Garros 2026",
+            "match_id": 142953,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "27 May 2026 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142953_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Paris.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142953_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Top seeds in action",
+                    "shortName": "Top seeds in action",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#84E3C7",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Stade Roland Garros Paris, France",
+                    "shortName": "Stade Roland Garros Paris, France",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FF0000",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "TELUGU",
+            "STREAMING_CDN": {
+                "is_drm": false,
+                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/1I2inQFKTc6hWKkkGtjkog/master.m3u8",
+                "fancode_cdn": "Unavailable",
+                "fancode_bd_cdn": "Unavailable",
+                "fancode_np_cdn": "Unavailable",
+                "fancode_lk_cdn": "Unavailable",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/1I2inQFKTc6hWKkkGtjkog/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/RGFCTEL/master.m3u8",
+                "language": "TELUGU",
+                "X-Served-By": "ROLEX",
+                "backup": {
+                    "fancode_cdn": "Unavailable",
+                    "fancode_dai_cdn": "Unavailable"
+                }
+            },
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=516408,AVERAGE-BANDWIDTH=516408,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037141/RGFCTEL/hdntl=exp=1779958285~acl=%2f*~id=7827e0f6-9df6-4ab7-9f50-ad2285f9a0e6~data=hdntl~hmac=9dc761a87acc4b8635befeb404c3786126b746ae56cbcb3ed60f8c6729dd10c9/master_350.m3u8?aka_me_session_id=AAAAAAAAAAANAhhqAAAAAP2eeZboPyOVaQS4lywfLClSLIB9D5z4fkYIAGA8H+NpJfJ1JdVs9JQh8VnJQIIGnuwjVNJ46e9a&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037141/RGFCTEL/hdntl=exp=1779958285~acl=%2f*~id=7827e0f6-9df6-4ab7-9f50-ad2285f9a0e6~data=hdntl~hmac=9dc761a87acc4b8635befeb404c3786126b746ae56cbcb3ed60f8c6729dd10c9/master_500.m3u8?aka_me_session_id=AAAAAAAAAAANAhhqAAAAAP2eeZboPyOVaQS4lywfLClSLIB9D5z4fkYIAGA8H+NpJfJ1JdVs9JQh8VnJQIIGnuwjVNJ46e9a&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=906728,AVERAGE-BANDWIDTH=906728,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037141/RGFCTEL/hdntl=exp=1779958285~acl=%2f*~id=7827e0f6-9df6-4ab7-9f50-ad2285f9a0e6~data=hdntl~hmac=9dc761a87acc4b8635befeb404c3786126b746ae56cbcb3ed60f8c6729dd10c9/master_700.m3u8?aka_me_session_id=AAAAAAAAAAANAhhqAAAAAP2eeZboPyOVaQS4lywfLClSLIB9D5z4fkYIAGA8H+NpJfJ1JdVs9JQh8VnJQIIGnuwjVNJ46e9a&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1194872,AVERAGE-BANDWIDTH=1194872,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037141/RGFCTEL/hdntl=exp=1779958285~acl=%2f*~id=7827e0f6-9df6-4ab7-9f50-ad2285f9a0e6~data=hdntl~hmac=9dc761a87acc4b8635befeb404c3786126b746ae56cbcb3ed60f8c6729dd10c9/master_950.m3u8?aka_me_session_id=AAAAAAAAAAANAhhqAAAAAP2eeZboPyOVaQS4lywfLClSLIB9D5z4fkYIAGA8H+NpJfJ1JdVs9JQh8VnJQIIGnuwjVNJ46e9a&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1603544,AVERAGE-BANDWIDTH=1603544,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037141/RGFCTEL/hdntl=exp=1779958285~acl=%2f*~id=7827e0f6-9df6-4ab7-9f50-ad2285f9a0e6~data=hdntl~hmac=9dc761a87acc4b8635befeb404c3786126b746ae56cbcb3ed60f8c6729dd10c9/master_1350.m3u8?aka_me_session_id=AAAAAAAAAAANAhhqAAAAAP2eeZboPyOVaQS4lywfLClSLIB9D5z4fkYIAGA8H+NpJfJ1JdVs9JQh8VnJQIIGnuwjVNJ46e9a&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2310816,AVERAGE-BANDWIDTH=2310816,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037141/RGFCTEL/hdntl=exp=1779958285~acl=%2f*~id=7827e0f6-9df6-4ab7-9f50-ad2285f9a0e6~data=hdntl~hmac=9dc761a87acc4b8635befeb404c3786126b746ae56cbcb3ed60f8c6729dd10c9/master_1400.m3u8?aka_me_session_id=AAAAAAAAAAANAhhqAAAAAP2eeZboPyOVaQS4lywfLClSLIB9D5z4fkYIAGA8H+NpJfJ1JdVs9JQh8VnJQIIGnuwjVNJ46e9a&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037141/RGFCTEL/hdntl=exp=1779958285~acl=%2f*~id=7827e0f6-9df6-4ab7-9f50-ad2285f9a0e6~data=hdntl~hmac=9dc761a87acc4b8635befeb404c3786126b746ae56cbcb3ed60f8c6729dd10c9/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAANAhhqAAAAAP2eeZboPyOVaQS4lywfLClSLIB9D5z4fkYIAGA8H+NpJfJ1JdVs9JQh8VnJQIIGnuwjVNJ46e9a&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4865152,AVERAGE-BANDWIDTH=4865152,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037141/RGFCTEL/hdntl=exp=1779958285~acl=%2f*~id=7827e0f6-9df6-4ab7-9f50-ad2285f9a0e6~data=hdntl~hmac=9dc761a87acc4b8635befeb404c3786126b746ae56cbcb3ed60f8c6729dd10c9/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAANAhhqAAAAAP2eeZboPyOVaQS4lywfLClSLIB9D5z4fkYIAGA8H+NpJfJ1JdVs9JQh8VnJQIIGnuwjVNJ46e9a&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1646672,AVERAGE-BANDWIDTH=1646672,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037141/RGFCTEL/hdntl=exp=1779958285~acl=%2f*~id=7827e0f6-9df6-4ab7-9f50-ad2285f9a0e6~data=hdntl~hmac=9dc761a87acc4b8635befeb404c3786126b746ae56cbcb3ed60f8c6729dd10c9/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAANAhhqAAAAAP2eeZboPyOVaQS4lywfLClSLIB9D5z4fkYIAGA8H+NpJfJ1JdVs9JQh8VnJQIIGnuwjVNJ46e9a&aka_media_format_type=hls",
+                    "cookie": "hdntl=exp=1779958285~acl=%2f*~id=7827e0f6-9df6-4ab7-9f50-ad2285f9a0e6~data=hdntl~hmac=9dc761a87acc4b8635befeb404c3786126b746ae56cbcb3ed60f8c6729dd10c9",
+                    "cookie_valid": "1779958285",
+                    "create_date": "Wednesday, May 27, 2026, 2:21:22 PM",
+                    "expire_date": "Thursday, May 28, 2026, 2:21:25 PM",
+                    "language": "TELUGU"
+                }
+            ]
+        },
+        {
+            "category": "Tennis",
+            "title": "Top Seeds In Action",
+            "tournament": "Roland Garros 2026",
+            "match_id": 142953,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "27 May 2026 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142953_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Paris.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142953_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Top seeds in action",
+                    "shortName": "Top seeds in action",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#84E3C7",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Stade Roland Garros Paris, France",
+                    "shortName": "Stade Roland Garros Paris, France",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FF0000",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "KANNADA",
+            "STREAMING_CDN": {
+                "is_drm": false,
+                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
+                "fancode_cdn": "Unavailable",
+                "fancode_bd_cdn": "Unavailable",
+                "fancode_np_cdn": "Unavailable",
+                "fancode_lk_cdn": "Unavailable",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/RGFCKAN/master.m3u8",
+                "language": "KANNADA",
+                "X-Served-By": "ROLEX",
+                "backup": {
+                    "fancode_cdn": "Unavailable",
+                    "fancode_dai_cdn": "Unavailable"
+                }
+            },
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=516408,AVERAGE-BANDWIDTH=516408,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005445/RGFCKAN/hdntl=exp=1779958291~acl=%2f*~id=33fdba2d-0147-478f-8090-e612bd30e845~data=hdntl~hmac=ab03cc66446d55a1a3aac89d1f655c8ded69b1ba40cd6a9ccb9bea7485b566bb/master_350.m3u8?aka_me_session_id=AAAAAAAAAAATAhhqAAAAAN4zfNlv3Swu9ERQguro3SY8lrPW80sWehwuVMEx14e6bL+2Ms2q%2fYMZMES0sgyh3qL5e9l%2fr9QV&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005445/RGFCKAN/hdntl=exp=1779958291~acl=%2f*~id=33fdba2d-0147-478f-8090-e612bd30e845~data=hdntl~hmac=ab03cc66446d55a1a3aac89d1f655c8ded69b1ba40cd6a9ccb9bea7485b566bb/master_500.m3u8?aka_me_session_id=AAAAAAAAAAATAhhqAAAAAN4zfNlv3Swu9ERQguro3SY8lrPW80sWehwuVMEx14e6bL+2Ms2q%2fYMZMES0sgyh3qL5e9l%2fr9QV&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=906728,AVERAGE-BANDWIDTH=906728,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005445/RGFCKAN/hdntl=exp=1779958291~acl=%2f*~id=33fdba2d-0147-478f-8090-e612bd30e845~data=hdntl~hmac=ab03cc66446d55a1a3aac89d1f655c8ded69b1ba40cd6a9ccb9bea7485b566bb/master_700.m3u8?aka_me_session_id=AAAAAAAAAAATAhhqAAAAAN4zfNlv3Swu9ERQguro3SY8lrPW80sWehwuVMEx14e6bL+2Ms2q%2fYMZMES0sgyh3qL5e9l%2fr9QV&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1194872,AVERAGE-BANDWIDTH=1194872,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005445/RGFCKAN/hdntl=exp=1779958291~acl=%2f*~id=33fdba2d-0147-478f-8090-e612bd30e845~data=hdntl~hmac=ab03cc66446d55a1a3aac89d1f655c8ded69b1ba40cd6a9ccb9bea7485b566bb/master_950.m3u8?aka_me_session_id=AAAAAAAAAAATAhhqAAAAAN4zfNlv3Swu9ERQguro3SY8lrPW80sWehwuVMEx14e6bL+2Ms2q%2fYMZMES0sgyh3qL5e9l%2fr9QV&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1603544,AVERAGE-BANDWIDTH=1603544,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005445/RGFCKAN/hdntl=exp=1779958291~acl=%2f*~id=33fdba2d-0147-478f-8090-e612bd30e845~data=hdntl~hmac=ab03cc66446d55a1a3aac89d1f655c8ded69b1ba40cd6a9ccb9bea7485b566bb/master_1350.m3u8?aka_me_session_id=AAAAAAAAAAATAhhqAAAAAN4zfNlv3Swu9ERQguro3SY8lrPW80sWehwuVMEx14e6bL+2Ms2q%2fYMZMES0sgyh3qL5e9l%2fr9QV&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2310816,AVERAGE-BANDWIDTH=2310816,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005445/RGFCKAN/hdntl=exp=1779958291~acl=%2f*~id=33fdba2d-0147-478f-8090-e612bd30e845~data=hdntl~hmac=ab03cc66446d55a1a3aac89d1f655c8ded69b1ba40cd6a9ccb9bea7485b566bb/master_1400.m3u8?aka_me_session_id=AAAAAAAAAAATAhhqAAAAAN4zfNlv3Swu9ERQguro3SY8lrPW80sWehwuVMEx14e6bL+2Ms2q%2fYMZMES0sgyh3qL5e9l%2fr9QV&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005445/RGFCKAN/hdntl=exp=1779958291~acl=%2f*~id=33fdba2d-0147-478f-8090-e612bd30e845~data=hdntl~hmac=ab03cc66446d55a1a3aac89d1f655c8ded69b1ba40cd6a9ccb9bea7485b566bb/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAATAhhqAAAAAN4zfNlv3Swu9ERQguro3SY8lrPW80sWehwuVMEx14e6bL+2Ms2q%2fYMZMES0sgyh3qL5e9l%2fr9QV&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4865152,AVERAGE-BANDWIDTH=4865152,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005445/RGFCKAN/hdntl=exp=1779958291~acl=%2f*~id=33fdba2d-0147-478f-8090-e612bd30e845~data=hdntl~hmac=ab03cc66446d55a1a3aac89d1f655c8ded69b1ba40cd6a9ccb9bea7485b566bb/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAATAhhqAAAAAN4zfNlv3Swu9ERQguro3SY8lrPW80sWehwuVMEx14e6bL+2Ms2q%2fYMZMES0sgyh3qL5e9l%2fr9QV&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1646672,AVERAGE-BANDWIDTH=1646672,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2005445/RGFCKAN/hdntl=exp=1779958291~acl=%2f*~id=33fdba2d-0147-478f-8090-e612bd30e845~data=hdntl~hmac=ab03cc66446d55a1a3aac89d1f655c8ded69b1ba40cd6a9ccb9bea7485b566bb/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAATAhhqAAAAAN4zfNlv3Swu9ERQguro3SY8lrPW80sWehwuVMEx14e6bL+2Ms2q%2fYMZMES0sgyh3qL5e9l%2fr9QV&aka_media_format_type=hls",
+                    "cookie": "hdntl=exp=1779958291~acl=%2f*~id=33fdba2d-0147-478f-8090-e612bd30e845~data=hdntl~hmac=ab03cc66446d55a1a3aac89d1f655c8ded69b1ba40cd6a9ccb9bea7485b566bb",
+                    "cookie_valid": "1779958291",
+                    "create_date": "Wednesday, May 27, 2026, 2:21:28 PM",
+                    "expire_date": "Thursday, May 28, 2026, 2:21:31 PM",
+                    "language": "KANNADA"
+                }
+            ]
+        },
+        {
             "category": "Cricket",
-            "title": "Ireland Vs New Zealand",
+            "title": "New Zealand Vs Ireland",
             "tournament": "New Zealand tour of Ireland, 2026",
             "match_id": 142980,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
             "startTime": "27 May 2026 03:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
+            "startDate": "27 May 2026 03:30 PM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1779782929363.png",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/142980_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1779782929363.png",
-                "PLAYBACK": null,
+                "PLAYBACK": "",
                 "LOGO": "https://fancode.com/skillup-uploads/prod-images/2022/07/IRE_vs_NZ.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1779782929363.png",
@@ -32,6 +744,33 @@
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142980_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "team": [
+                {
+                    "name": "New Zealand",
+                    "shortName": "NZ",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1d2c6b",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
                 {
                     "name": "Ireland",
                     "shortName": "IRE",
@@ -50,33 +789,36 @@
                             "isBatting": false
                         }
                     }
-                },
-                {
-                    "name": "New Zealand",
-                    "shortName": "NZ",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1d2c6b",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
                 }
             ],
-            "language": "BLOODY_SWEET",
+            "language": "ENGLISH",
             "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
+                "is_drm": false,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/index.m3u8",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/index.m3u8",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/index.m3u8",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "backup": {
+                    "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/index.m3u8",
+                    "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/index.m3u8"
+                }
             },
-            "auto_streams": null
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/240p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/360p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/480p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/540p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/720p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/1080p.m3u8",
+                    "cookie": null,
+                    "cookie_valid": "1779961443",
+                    "create_date": "Wednesday, May 27, 2026, 3:14:03 PM",
+                    "expire_date": "Thursday, May 28, 2026, 3:14:03 PM",
+                    "language": "ENGLISH"
+                }
+            ]
         },
         {
             "category": "Football",
@@ -150,15 +892,15 @@
             "title": "Court Philippe Chatrier",
             "tournament": "Roland Garros 2026",
             "match_id": 142661,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "27 May 2026 02:30 PM",
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "27 May 2026 03:30 PM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/142661_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-                "PLAYBACK": null,
+                "PLAYBACK": "",
                 "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Paris.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
@@ -205,280 +947,34 @@
                     }
                 }
             ],
-            "language": "BLOODY_SWEET",
+            "language": "ENGLISH",
             "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Tennis",
-            "title": "Court Suzanne Lenglen",
-            "tournament": "Roland Garros 2026",
-            "match_id": 142660,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "27 May 2026 02:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142660_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Paris.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142660_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Court Suzanne-Lenglen",
-                    "shortName": "Court Suzanne-Lenglen",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#84E3C7",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Stade Roland Garros Paris, France",
-                    "shortName": "Stade Roland Garros Paris, France",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FF0000",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                "is_drm": false,
+                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/alqtTrVWQeuxHd8fbw-Rmw/master.m3u8",
+                "fancode_cdn": "Unavailable",
+                "fancode_bd_cdn": "Unavailable",
+                "fancode_np_cdn": "Unavailable",
+                "fancode_lk_cdn": "Unavailable",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/alqtTrVWQeuxHd8fbw-Rmw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master.m3u8",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "backup": {
+                    "fancode_cdn": "Unavailable",
+                    "fancode_dai_cdn": "Unavailable"
                 }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
             },
-            "auto_streams": null
-        },
-        {
-            "category": "Tennis",
-            "title": "Court Simonne Mathieu",
-            "tournament": "Roland Garros 2026",
-            "match_id": 142659,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "27 May 2026 02:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142659_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Paris.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142659_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
+            "auto_streams": [
                 {
-                    "name": "Court Simonne-Mathieu",
-                    "shortName": "Court Simonne-Mathieu",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#84E3C7",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Stade Roland Garros Paris, France",
-                    "shortName": "Stade Roland Garros Paris, France",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FF0000",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=516408,AVERAGE-BANDWIDTH=516408,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/hdntl=exp=1779961450~acl=%2f*~id=40294a7c-2660-4ba3-b9a4-4176c12840a8~data=hdntl~hmac=c20b905c07c17fa5327472598a81a980aaad83a375e8e95985e07b216730efdb/master_350.m3u8?aka_me_session_id=AAAAAAAAAABqDhhqAAAAAIe3Q0Hp1ZlS5JSqWpD8U519zQWyl2NQ%2fpXjvKiozz0E6Cds3122w7qxYwdvOcf+8oom+TOODnAz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/hdntl=exp=1779961450~acl=%2f*~id=40294a7c-2660-4ba3-b9a4-4176c12840a8~data=hdntl~hmac=c20b905c07c17fa5327472598a81a980aaad83a375e8e95985e07b216730efdb/master_500.m3u8?aka_me_session_id=AAAAAAAAAABqDhhqAAAAAIe3Q0Hp1ZlS5JSqWpD8U519zQWyl2NQ%2fpXjvKiozz0E6Cds3122w7qxYwdvOcf+8oom+TOODnAz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=906728,AVERAGE-BANDWIDTH=906728,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/hdntl=exp=1779961450~acl=%2f*~id=40294a7c-2660-4ba3-b9a4-4176c12840a8~data=hdntl~hmac=c20b905c07c17fa5327472598a81a980aaad83a375e8e95985e07b216730efdb/master_700.m3u8?aka_me_session_id=AAAAAAAAAABqDhhqAAAAAIe3Q0Hp1ZlS5JSqWpD8U519zQWyl2NQ%2fpXjvKiozz0E6Cds3122w7qxYwdvOcf+8oom+TOODnAz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1194872,AVERAGE-BANDWIDTH=1194872,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/hdntl=exp=1779961450~acl=%2f*~id=40294a7c-2660-4ba3-b9a4-4176c12840a8~data=hdntl~hmac=c20b905c07c17fa5327472598a81a980aaad83a375e8e95985e07b216730efdb/master_950.m3u8?aka_me_session_id=AAAAAAAAAABqDhhqAAAAAIe3Q0Hp1ZlS5JSqWpD8U519zQWyl2NQ%2fpXjvKiozz0E6Cds3122w7qxYwdvOcf+8oom+TOODnAz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1603544,AVERAGE-BANDWIDTH=1603544,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/hdntl=exp=1779961450~acl=%2f*~id=40294a7c-2660-4ba3-b9a4-4176c12840a8~data=hdntl~hmac=c20b905c07c17fa5327472598a81a980aaad83a375e8e95985e07b216730efdb/master_1350.m3u8?aka_me_session_id=AAAAAAAAAABqDhhqAAAAAIe3Q0Hp1ZlS5JSqWpD8U519zQWyl2NQ%2fpXjvKiozz0E6Cds3122w7qxYwdvOcf+8oom+TOODnAz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1646672,AVERAGE-BANDWIDTH=1646672,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/hdntl=exp=1779961450~acl=%2f*~id=40294a7c-2660-4ba3-b9a4-4176c12840a8~data=hdntl~hmac=c20b905c07c17fa5327472598a81a980aaad83a375e8e95985e07b216730efdb/master_1400.m3u8?aka_me_session_id=AAAAAAAAAABqDhhqAAAAAIe3Q0Hp1ZlS5JSqWpD8U519zQWyl2NQ%2fpXjvKiozz0E6Cds3122w7qxYwdvOcf+8oom+TOODnAz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2310816,AVERAGE-BANDWIDTH=2310816,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/hdntl=exp=1779961450~acl=%2f*~id=40294a7c-2660-4ba3-b9a4-4176c12840a8~data=hdntl~hmac=c20b905c07c17fa5327472598a81a980aaad83a375e8e95985e07b216730efdb/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABqDhhqAAAAAIe3Q0Hp1ZlS5JSqWpD8U519zQWyl2NQ%2fpXjvKiozz0E6Cds3122w7qxYwdvOcf+8oom+TOODnAz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/hdntl=exp=1779961450~acl=%2f*~id=40294a7c-2660-4ba3-b9a4-4176c12840a8~data=hdntl~hmac=c20b905c07c17fa5327472598a81a980aaad83a375e8e95985e07b216730efdb/master_3000.m3u8?aka_me_session_id=AAAAAAAAAABqDhhqAAAAAIe3Q0Hp1ZlS5JSqWpD8U519zQWyl2NQ%2fpXjvKiozz0E6Cds3122w7qxYwdvOcf+8oom+TOODnAz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4865152,AVERAGE-BANDWIDTH=4865152,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/hdntl=exp=1779961450~acl=%2f*~id=40294a7c-2660-4ba3-b9a4-4176c12840a8~data=hdntl~hmac=c20b905c07c17fa5327472598a81a980aaad83a375e8e95985e07b216730efdb/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABqDhhqAAAAAIe3Q0Hp1ZlS5JSqWpD8U519zQWyl2NQ%2fpXjvKiozz0E6Cds3122w7qxYwdvOcf+8oom+TOODnAz&aka_media_format_type=hls",
+                    "cookie": "hdntl=exp=1779961450~acl=%2f*~id=40294a7c-2660-4ba3-b9a4-4176c12840a8~data=hdntl~hmac=c20b905c07c17fa5327472598a81a980aaad83a375e8e95985e07b216730efdb",
+                    "cookie_valid": "1779961450",
+                    "create_date": "Wednesday, May 27, 2026, 3:14:06 PM",
+                    "expire_date": "Thursday, May 28, 2026, 3:14:10 PM",
+                    "language": "ENGLISH"
                 }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Tennis",
-            "title": "Court 14",
-            "tournament": "Roland Garros 2026",
-            "match_id": 142658,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "27 May 2026 02:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142658_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Paris.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142658_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Court 14",
-                    "shortName": "Court 14",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#84E3C7",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Stade Roland Garros Paris, France",
-                    "shortName": "Stade Roland Garros Paris, France",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FF0000",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Tennis",
-            "title": "Top Seeds In Action",
-            "tournament": "Roland Garros 2026",
-            "match_id": 142953,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "27 May 2026 02:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142953_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Paris.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142953_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Top seeds in action",
-                    "shortName": "Top seeds in action",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#84E3C7",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Stade Roland Garros Paris, France",
-                    "shortName": "Stade Roland Garros Paris, France",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FF0000",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
+            ]
         },
         {
             "category": "Cricket",
@@ -509,7 +1005,7 @@
                     },
                     "isWinner": null,
                     "color": "#54ba1d",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -528,7 +1024,7 @@
                     },
                     "isWinner": null,
                     "color": "#227de0",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -576,7 +1072,7 @@
                     },
                     "isWinner": null,
                     "color": "#5ba1ed",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -595,7 +1091,7 @@
                     },
                     "isWinner": null,
                     "color": "#c16419",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -690,15 +1186,15 @@
             "streamingStatus": "NOT_STARTED",
             "startTime": "28 May 2026 05:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://images.fancode.com/aig/match/v1779856184585/143002_CASACARDS_APP.png",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/143002_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "APP": "https://images.fancode.com/aig/match/v1779856184585/143002_CASACARDS_APP.png",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2019/11/default-tour-logo.png",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC-(2).png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1779856184585/143002_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1779856184585/143002_CASACARDS_SPORTY_APP.png",
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143002_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "team": [
@@ -729,6 +1225,73 @@
                     },
                     "isWinner": null,
                     "color": "#2c5ab3",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Tennis",
+            "title": "Court 13",
+            "tournament": "Roland Garros 2026",
+            "match_id": 143169,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "27 May 2026 06:20 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143169_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Paris.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143169_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Court 13",
+                    "shortName": "Court 13",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#84E3C7",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Stade Roland Garros Paris, France",
+                    "shortName": "Stade Roland Garros Paris, France",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FF0000",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -796,6 +1359,140 @@
                     },
                     "isWinner": null,
                     "color": "#177ed5",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "Ireland Women Vs West Indies Women",
+            "tournament": "Women's T20I Tri-Series in Ireland 2026",
+            "match_id": 143052,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "28 May 2026 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143052_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2019/11/default-tour-logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143052_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Ireland Women",
+                    "shortName": "IR-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#32752E",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "West Indies Women",
+                    "shortName": "WI-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#91033c",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Bangladesh Women Vs Maldives Women",
+            "tournament": "SAFF Women's Championship 2026",
+            "match_id": 142938,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "28 May 2026 07:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/142938_6089_BDW_MDW_FC-Web_1779706389508.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142938_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/142938_6089_BDW_MDW_FC-Web_1779706389508.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/SAFF-Women_s-Championship-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/142938_6089_BDW_MDW_FC-Web_1779706389508.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142938_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Bangladesh Women",
+                    "shortName": "BDW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BAN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#054466",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Maldives Women",
+                    "shortName": "MDW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MDW@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#e4222a",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1131,140 +1828,6 @@
                     },
                     "isWinner": null,
                     "color": "#FF0000",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
-            "title": "Ireland Women Vs West Indies Women",
-            "tournament": "Women's T20I Tri-Series in Ireland 2026",
-            "match_id": 143052,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "28 May 2026 08:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143052_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2019/11/default-tour-logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143052_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Ireland Women",
-                    "shortName": "IR-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#32752E",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "West Indies Women",
-                    "shortName": "WI-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#91033c",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
-            "title": "Bangladesh Women Vs Maldives Women",
-            "tournament": "SAFF Women's Championship 2026",
-            "match_id": 142938,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "28 May 2026 07:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/142938_6089_BDW_MDW_FC-Web_1779706389508.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142938_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/142938_6089_BDW_MDW_FC-Web_1779706389508.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/SAFF-Women_s-Championship-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/142938_6089_BDW_MDW_FC-Web_1779706389508.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142938_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Bangladesh Women",
-                    "shortName": "BDW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BAN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#054466",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Maldives Women",
-                    "shortName": "MDW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MDW@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#e4222a",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2626,65 +3189,350 @@
         },
         {
             "category": "Cricket",
-            "title": "Mis E Ainak Region Vs Speen Ghar Region",
-            "tournament": "Supercola Regional List A Tournament, 2026",
-            "match_id": 142748,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "30 May 2026 10:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
+            "title": "Ireland Vs New Zealand",
+            "tournament": "New Zealand tour of Ireland, 2026",
+            "short_name": "IRE vs NZ",
+            "match_id": 142980,
+            "status": "STARTED",
+            "startTime": "27 May 2026 03:30 PM",
+            "startDate": "27 May 2026 05:30 AM",
+            "endDate": "31 May 2026 04:30 AM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142748_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142980_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-List-A-tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142748_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142980_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
-            "team": [
+            "teams": [
                 {
-                    "name": "Mis-e-Ainak Region",
-                    "shortName": "MAK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MISA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ffbb78",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "id": 69,
+                    "name": "Ireland",
+                    "shortName": "IRE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
+                    "color": "#ba6a15"
                 },
                 {
-                    "name": "Speen Ghar Region",
-                    "shortName": "SG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#00ff8d",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "id": 186,
+                    "name": "New Zealand",
+                    "shortName": "NZ",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+                    "color": "#1d2c6b"
                 }
             ],
             "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Tennis",
+            "title": "Court Suzanne Lenglen",
+            "tournament": "Roland Garros 2026",
+            "short_name": "French Open",
+            "match_id": 142660,
+            "status": "STARTED",
+            "startTime": "27 May 2026 02:30 PM",
+            "startDate": "24 May 2026 05:30 AM",
+            "endDate": "07 June 2026 11:45 PM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142660_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142660_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 12259,
+                    "name": "Court Suzanne-Lenglen",
+                    "shortName": "RG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
+                    "color": "#84E3C7"
+                },
+                {
+                    "id": 12122,
+                    "name": "Stade Roland Garros Paris, France",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                    "color": "#FF0000"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Tennis",
+            "title": "Court Simonne Mathieu",
+            "tournament": "Roland Garros 2026",
+            "short_name": "French Open",
+            "match_id": 142659,
+            "status": "STARTED",
+            "startTime": "27 May 2026 02:30 PM",
+            "startDate": "24 May 2026 05:30 AM",
+            "endDate": "07 June 2026 11:45 PM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142659_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142659_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 12259,
+                    "name": "Court Simonne-Mathieu",
+                    "shortName": "RG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
+                    "color": "#84E3C7"
+                },
+                {
+                    "id": 12122,
+                    "name": "Stade Roland Garros Paris, France",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                    "color": "#FF0000"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Tennis",
+            "title": "Court 14",
+            "tournament": "Roland Garros 2026",
+            "short_name": "French Open",
+            "match_id": 142658,
+            "status": "STARTED",
+            "startTime": "27 May 2026 02:30 PM",
+            "startDate": "24 May 2026 05:30 AM",
+            "endDate": "07 June 2026 11:45 PM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142658_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142658_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 12259,
+                    "name": "Court 14",
+                    "shortName": "RG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
+                    "color": "#84E3C7"
+                },
+                {
+                    "id": 12122,
+                    "name": "Stade Roland Garros Paris, France",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                    "color": "#FF0000"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Tennis",
+            "title": "Top Seeds In Action",
+            "tournament": "Roland Garros 2026",
+            "short_name": "French Open",
+            "match_id": 142953,
+            "status": "STARTED",
+            "startTime": "27 May 2026 02:30 PM",
+            "startDate": "24 May 2026 05:30 AM",
+            "endDate": "07 June 2026 11:45 PM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142953_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142953_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 12259,
+                    "name": "Top seeds in action",
+                    "shortName": "RG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
+                    "color": "#84E3C7"
+                },
+                {
+                    "id": 12122,
+                    "name": "Stade Roland Garros Paris, France",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                    "color": "#FF0000"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Tennis",
+            "title": "Court Philippe Chatrier",
+            "tournament": "Roland Garros 2026",
+            "short_name": "French Open",
+            "match_id": 142661,
+            "status": "STARTED",
+            "startTime": "27 May 2026 03:30 PM",
+            "startDate": "24 May 2026 05:30 AM",
+            "endDate": "07 June 2026 11:45 PM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142661_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142661_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 12259,
+                    "name": "Court Philippe-Chatrier",
+                    "shortName": "RG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
+                    "color": "#84E3C7"
+                },
+                {
+                    "id": 12122,
+                    "name": "Stade Roland Garros Paris, France",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                    "color": "#FF0000"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "India Vs Jamaica",
+            "tournament": "Unity Cup 2026",
+            "short_name": "Unity Cup",
+            "match_id": 142667,
+            "status": "NOT_STARTED",
+            "startTime": "28 May 2026 12:00 AM",
+            "startDate": "26 May 2026 05:30 AM",
+            "endDate": "31 May 2026 01:30 AM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142667_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142667_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 935,
+                    "name": "India",
+                    "shortName": "IND",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-INDN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-INDN@2x.png",
+                    "color": "#06038D"
+                },
+                {
+                    "id": 516,
+                    "name": "Jamaica",
+                    "shortName": "JMC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FT-JAM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FT-JAM@2x.png",
+                    "color": "#096A16"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Tennis",
+            "title": "Court 13",
+            "tournament": "Roland Garros 2026",
+            "short_name": "French Open",
+            "match_id": 143169,
+            "status": "NOT_STARTED",
+            "startTime": "27 May 2026 06:20 PM",
+            "startDate": "24 May 2026 05:30 AM",
+            "endDate": "07 June 2026 11:45 PM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143169_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143169_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 12259,
+                    "name": "Court 13",
+                    "shortName": "RG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
+                    "color": "#84E3C7"
+                },
+                {
+                    "id": 12122,
+                    "name": "Stade Roland Garros Paris, France",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                    "color": "#FF0000"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
                 "language": "BLOODY_SWEET",
                 "Primary_Playback_URL": null
