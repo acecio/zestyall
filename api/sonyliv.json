@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:38:20 28-05-2026",
+    "last update time": "10:00:25 28-05-2026",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090530926_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017794/1778070904528681_LIV_Golf_South_Korea_2026_DAY-1_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "LIV Golf",
+            "match_name": "South Korea - Day 1 - 28 May 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_Sou2805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779985825~acl=/*~id=20138010918395853017201402841624~hmac=705f32dc261430b583ee3107ee8b366630f4843a07dc97ee75a06537c6a5c740",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_Sou2805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779985825~acl=/*~id=20138010918395853017201402841624~hmac=705f32dc261430b583ee3107ee8b366630f4843a07dc97ee75a06537c6a5c740",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_Sou2805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779985825~acl=/*~id=20138010918395853017201402841624~hmac=705f32dc261430b583ee3107ee8b366630f4843a07dc97ee75a06537c6a5c740"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
