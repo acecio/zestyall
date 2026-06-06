@@ -2,14 +2,14 @@
     "Author": "DOCTOR_STRANGE",
     "Telegram": "https://t.me/jitendraunatti_github",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:35:05 AM 07-06-2026",
+    "last_updated": "02:00:04 AM 07-06-2026",
     "headers": {
         "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 45,
-    "live_matches": 6,
-    "upcoming_matches": 39,
+    "live_matches": 7,
+    "upcoming_matches": 38,
     "matches": [
         {
             "category": "Cricket",
@@ -42,11 +42,11 @@
                     "color": "#d01909",
                     "cricketScore": [
                         {
-                            "runs": 126,
-                            "overs": "26.3",
-                            "balls": "159",
+                            "runs": 221,
+                            "overs": "44.2",
+                            "balls": "267",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -110,7 +110,7 @@
         },
         {
             "category": "Cricket",
-            "title": "West Indies Vs Sri Lanka",
+            "title": "Sri Lanka Vs West Indies",
             "tournament": "Sri Lanka tour of West Indies 2026",
             "match_id": 142973,
             "status": "LIVE",
@@ -130,25 +130,6 @@
             },
             "team": [
                 {
-                    "name": "West Indies",
-                    "shortName": "WI",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#7B0041",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Sri Lanka",
                     "shortName": "SL",
                     "flag": {
@@ -156,6 +137,33 @@
                     },
                     "isWinner": null,
                     "color": "#164fad",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "West Indies",
+                    "shortName": "WI",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#7B0041",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -193,6 +201,87 @@
                     "cookie_valid": "1780859102",
                     "create_date": "Sunday, June 7, 2026, 12:35:02 AM",
                     "expire_date": "Monday, June 8, 2026, 12:35:02 AM",
+                    "language": "ENGLISH"
+                }
+            ]
+        },
+        {
+            "category": "Football",
+            "title": "Bolivia Vs Scotland",
+            "tournament": "International Friendlies 2026",
+            "match_id": 143341,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "07 June 2026 01:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/143341_6020_BOL_SCO_FC-WEB.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143341_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/143341_6020_BOL_SCO_FC-WEB.jpg",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/FIFA-SERIES-26.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/143341_6020_BOL_SCO_FC-WEB.jpg",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1780742459455/143341_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143341_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Bolivia",
+                    "shortName": "BOL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BOLV@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#DAAA3D",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                },
+                {
+                    "name": "Scotland",
+                    "shortName": "SCO",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SCO-FT1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#4d94d6",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": null
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": false,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/index.m3u8",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/index.m3u8",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/index.m3u8",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH",
+                "X-Served-By": "ROLEX",
+                "backup": {
+                    "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/index.m3u8",
+                    "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143341_english_hls_790eb0c40e1081_1ta-di_h264/index.m3u8"
+                }
+            },
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/240p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/360p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/480p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/540p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/720p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/1080p.m3u8",
+                    "cookie": null,
+                    "cookie_valid": "1780861862",
+                    "create_date": "Sunday, June 7, 2026, 1:21:02 AM",
+                    "expire_date": "Monday, June 8, 2026, 1:21:02 AM",
                     "language": "ENGLISH"
                 }
             ]
@@ -527,16 +616,16 @@
             "language": "ENGLISH",
             "STREAMING_CDN": {
                 "is_drm": false,
-                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/index.m3u8",
-                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/index.m3u8",
-                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/index.m3u8",
-                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/index.m3u8",
+                "Primary_Playback_URL": "https://in-mc-plive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-plive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/index.m3u8",
+                "fancode_bd_cdn": "https://bd-mc-plive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/index.m3u8",
+                "fancode_np_cdn": "https://np-mc-plive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/index.m3u8",
+                "fancode_lk_cdn": "https://lk-mc-plive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH",
-                "X-Served-By": "ROLEX",
+                "X-Served-By": "LOKI",
                 "backup": {
                     "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/index.m3u8",
                     "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143048_english_hls_27749d150662511_1ta-di_h264/index.m3u8"
@@ -544,11 +633,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/240p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/360p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/480p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/540p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/720p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/1080p.m3u8",
-                    "cookie": null,
-                    "cookie_valid": "1780849564",
-                    "create_date": "Saturday, June 6, 2026, 9:56:04 PM",
-                    "expire_date": "Sunday, June 7, 2026, 9:56:04 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/240p.m3u8?hdntl=Expires=1780864204~_GO=Generated~acl=/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/*~Signature=AVb4nkwXfEYsy9EuVOAMsDty6Y75zn01I3Efht6v587Onfg59eUCceNlfzsk6Py9K9LYfWvgS_OH84iO64lY5ktjoAIG\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/360p.m3u8?hdntl=Expires=1780864204~_GO=Generated~acl=/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/*~Signature=AVb4nkwXfEYsy9EuVOAMsDty6Y75zn01I3Efht6v587Onfg59eUCceNlfzsk6Py9K9LYfWvgS_OH84iO64lY5ktjoAIG\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/480p.m3u8?hdntl=Expires=1780864204~_GO=Generated~acl=/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/*~Signature=AVb4nkwXfEYsy9EuVOAMsDty6Y75zn01I3Efht6v587Onfg59eUCceNlfzsk6Py9K9LYfWvgS_OH84iO64lY5ktjoAIG\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/540p.m3u8?hdntl=Expires=1780864204~_GO=Generated~acl=/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/*~Signature=AVb4nkwXfEYsy9EuVOAMsDty6Y75zn01I3Efht6v587Onfg59eUCceNlfzsk6Py9K9LYfWvgS_OH84iO64lY5ktjoAIG\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/720p.m3u8?hdntl=Expires=1780864204~_GO=Generated~acl=/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/*~Signature=AVb4nkwXfEYsy9EuVOAMsDty6Y75zn01I3Efht6v587Onfg59eUCceNlfzsk6Py9K9LYfWvgS_OH84iO64lY5ktjoAIG\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/1080p.m3u8?hdntl=Expires=1780864204~_GO=Generated~acl=/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/*~Signature=AVb4nkwXfEYsy9EuVOAMsDty6Y75zn01I3Efht6v587Onfg59eUCceNlfzsk6Py9K9LYfWvgS_OH84iO64lY5ktjoAIG",
+                    "cookie": "hdntl=Expires=1780864204~_GO=Generated~acl=/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/*~Signature=AVb4nkwXfEYsy9EuVOAMsDty6Y75zn01I3Efht6v587Onfg59eUCceNlfzsk6Py9K9LYfWvgS_OH84iO64lY5ktjoAIG",
+                    "cookie_valid": "1780864204",
+                    "create_date": "Sunday, June 7, 2026, 2:00:03 AM",
+                    "expire_date": "Monday, June 8, 2026, 2:00:04 AM",
                     "language": "ENGLISH"
                 }
             ]
@@ -823,81 +912,6 @@
         },
         {
             "category": "Cricket",
-            "title": "India Vs Afghanistan",
-            "tournament": "Afghanistan tour of India, 2026",
-            "match_id": 143243,
-            "status": "LIVE",
-            "streamingStatus": "PAUSED",
-            "startTime": "06 June 2026 09:30 AM",
-            "startDate": "07 June 2026 09:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card-(1).png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143243_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card-(1).png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card-(1).png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143243_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "India",
-                    "shortName": "IND",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0f60de",
-                    "cricketScore": [
-                        {
-                            "runs": 368,
-                            "overs": "85",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 3
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Afghanistan",
-                    "shortName": "AFG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#2f5ddf",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
             "title": "Jb Bruges Vs Ghent Gladiators",
             "tournament": "EUT20 Belgium, 2026",
             "match_id": 143151,
@@ -964,54 +978,62 @@
             "auto_streams": null
         },
         {
-            "category": "Football",
-            "title": "Bolivia Vs Scotland",
-            "tournament": "International Friendlies 2026",
-            "match_id": 143341,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "07 June 2026 01:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/143341_6020_BOL_SCO_FC-WEB.jpg",
+            "category": "Cricket",
+            "title": "India Vs Afghanistan",
+            "tournament": "Afghanistan tour of India, 2026",
+            "match_id": 143243,
+            "status": "LIVE",
+            "streamingStatus": "PAUSED",
+            "startTime": "06 June 2026 09:30 AM",
+            "startDate": "07 June 2026 09:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card-(1).png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143341_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/143341_6020_BOL_SCO_FC-WEB.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143243_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card-(1).png",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/FIFA-SERIES-26.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/143341_6020_BOL_SCO_FC-WEB.jpg",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1780742459455/143341_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143341_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card-(1).png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143243_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "team": [
                 {
-                    "name": "Bolivia",
-                    "shortName": "BOL",
+                    "name": "India",
+                    "shortName": "IND",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BOLV@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#DAAA3D",
-                    "cricketScore": null,
+                    "color": "#0f60de",
+                    "cricketScore": [
+                        {
+                            "runs": 368,
+                            "overs": "85",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 3
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
                 {
-                    "name": "Scotland",
-                    "shortName": "SCO",
+                    "name": "Afghanistan",
+                    "shortName": "AFG",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SCO-FT1@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#4d94d6",
-                    "cricketScore": null,
+                    "color": "#2f5ddf",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1165,73 +1187,6 @@
             "auto_streams": null
         },
         {
-            "category": "Football",
-            "title": "Brazil Vs Egypt",
-            "tournament": "International Friendlies 2026",
-            "match_id": 141609,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "07 June 2026 03:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/141609_6020_BRZ_EGY_FC-WEB.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/141609_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/141609_6020_BRZ_EGY_FC-WEB.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/FIFA-SERIES-26.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141609_6020_BRZ_EGY_FC-WEB.jpg",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1780742459423/141609_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141609_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Brazil",
-                    "shortName": "BRZ",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#fdf251",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Egypt",
-                    "shortName": "EGY",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-EGYP@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b99530",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
             "category": "Cricket",
             "title": "Gwalior Shernis Vs Bundelkhand Bulls Women",
             "tournament": "Madhya Pradesh League T20 Women's 2026",
@@ -1300,6 +1255,73 @@
         },
         {
             "category": "Football",
+            "title": "Brazil Vs Egypt",
+            "tournament": "International Friendlies 2026",
+            "match_id": 141609,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "07 June 2026 03:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/141609_6020_BRZ_EGY_FC-WEB.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/141609_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/141609_6020_BRZ_EGY_FC-WEB.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/FIFA-SERIES-26.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141609_6020_BRZ_EGY_FC-WEB.jpg",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1780742459423/141609_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141609_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Brazil",
+                    "shortName": "BRZ",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#fdf251",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Egypt",
+                    "shortName": "EGY",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-EGYP@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b99530",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
             "title": "Argentina Vs Honduras",
             "tournament": "International Friendlies 2026",
             "match_id": 143342,
@@ -1307,14 +1329,14 @@
             "streamingStatus": "NOT_STARTED",
             "startTime": "07 June 2026 05:30 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1780742459454/143342_CASACARDS_APP.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/143342_6020_ARG_HON_FC-WEB.jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/143342_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1780742459454/143342_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/143342_6020_ARG_HON_FC-WEB.jpg",
                 "PLAYBACK": null,
                 "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/FIFA-SERIES-26.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1780742459454/143342_CASACARDS_APP.png",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/143342_6020_ARG_HON_FC-WEB.jpg",
                 "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1780742459454/143342_CASACARDS_SPORTY_APP.png",
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143342_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
@@ -1567,73 +1589,6 @@
             "auto_streams": null
         },
         {
-            "category": "Football",
-            "title": "Morocco Vs Norway",
-            "tournament": "International Friendlies 2026",
-            "match_id": 143343,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "08 June 2026 12:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1780742459449/143343_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143343_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1780742459449/143343_CASACARDS_APP.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/FIFA-SERIES-26.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1780742459449/143343_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1780742459449/143343_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143343_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Morocco",
-                    "shortName": "MOR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#672020",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Norway",
-                    "shortName": "NRW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NRW-FT1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#506c98",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
             "category": "Golf",
             "title": "Day 3",
             "tournament": "US Women's Open 2026",
@@ -1681,6 +1636,73 @@
                     },
                     "isWinner": null,
                     "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Morocco Vs Norway",
+            "tournament": "International Friendlies 2026",
+            "match_id": 143343,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "08 June 2026 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1780742459449/143343_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143343_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1780742459449/143343_CASACARDS_APP.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/FIFA-SERIES-26.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1780742459449/143343_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1780742459449/143343_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143343_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Morocco",
+                    "shortName": "MOR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#672020",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Norway",
+                    "shortName": "NRW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NRW-FT1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#506c98",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2103,6 +2125,207 @@
             "auto_streams": null
         },
         {
+            "category": "Motorsports",
+            "title": "F1 Kids 2026",
+            "tournament": "F1 Kids 2026",
+            "match_id": 143310,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "07 June 2026 06:25 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143310_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+                "PLAYBACK": null,
+                "LOGO": "",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports_2.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143310_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "F1 Kids 2026",
+                    "shortName": "F1 Kids 2026",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#B8142D",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Monaco",
+                    "shortName": "Monaco",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#123456",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Formula 1",
+            "title": "Race",
+            "tournament": "F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026",
+            "match_id": 139451,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "07 June 2026 06:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/139451_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Monaco.jpg",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139451_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Race",
+                    "shortName": "RC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#EE0000",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Monaco",
+                    "shortName": "Monaco",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Golf",
+            "title": "Main Feed   Day 4",
+            "tournament": "the Memorial Tournament presented by Workday 2026",
+            "match_id": 143115,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "07 June 2026 06:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143115_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tour_logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143115_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Main Feed - Day 4",
+                    "shortName": "Main Feed - Day 4",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Muirfield Village Golf Club - Dublin, Ohio ",
+                    "shortName": "Muirfield Village Golf Club - Dublin, Ohio ",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
             "category": "Cricket",
             "title": "Gujarat Diamonds Vs Up Brij Stars",
             "tournament": "Big Cricket League Season 2",
@@ -2324,207 +2547,6 @@
                     "status": {
                         "cricket": {
                             "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Motorsports",
-            "title": "F1 Kids 2026",
-            "tournament": "F1 Kids 2026",
-            "match_id": 143310,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "07 June 2026 06:25 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143310_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-                "PLAYBACK": null,
-                "LOGO": "",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports_2.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143310_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "F1 Kids 2026",
-                    "shortName": "F1 Kids 2026",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#B8142D",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Monaco",
-                    "shortName": "Monaco",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#123456",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Formula 1",
-            "title": "Race",
-            "tournament": "F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026",
-            "match_id": 139451,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "07 June 2026 06:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/139451_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Monaco.jpg",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139451_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Race",
-                    "shortName": "RC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#EE0000",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Monaco",
-                    "shortName": "Monaco",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Golf",
-            "title": "Main Feed   Day 4",
-            "tournament": "the Memorial Tournament presented by Workday 2026",
-            "match_id": 143115,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "07 June 2026 06:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143115_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tour_logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143115_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Main Feed - Day 4",
-                    "shortName": "Main Feed - Day 4",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Muirfield Village Golf Club - Dublin, Ohio ",
-                    "shortName": "Muirfield Village Golf Club - Dublin, Ohio ",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
                         }
                     }
                 }
@@ -2826,6 +2848,50 @@
             "auto_streams": null
         },
         {
+            "category": "Football",
+            "title": "Bolivia Vs Scotland",
+            "tournament": "International Friendlies 2026",
+            "short_name": "Friendlies",
+            "match_id": 143341,
+            "status": "STARTED",
+            "startTime": "07 June 2026 01:30 AM",
+            "startDate": "26 March 2026 05:30 AM",
+            "endDate": "10 June 2026 11:30 PM",
+            "image": "https://images.fancode.com/aig/match/v1780742459455/143341_CASACARDS_SPORTY_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143341_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1780742459455/143341_CASACARDS_SPORTY_APP.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143341_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 515,
+                    "name": "Bolivia",
+                    "shortName": "BOL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BOLV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BOLV@2x.png",
+                    "color": "#DAAA3D"
+                },
+                {
+                    "id": 556,
+                    "name": "Scotland",
+                    "shortName": "SCO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SCO-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SCO-FT1@2x.png",
+                    "color": "#4d94d6"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
             "category": "Golf",
             "title": "Main Feed   Day 3",
             "tournament": "the Memorial Tournament presented by Workday 2026",
@@ -2990,50 +3056,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
                     "color": "#141414"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
-            "title": "Liege Red Lions Vs Ghent Gladiators",
-            "tournament": "EUT20 Belgium, 2026",
-            "short_name": "EUT20 Belgium",
-            "match_id": 143150,
-            "status": "COMPLETED",
-            "startTime": "06 June 2026 08:00 PM",
-            "startDate": "06 June 2026 05:30 AM",
-            "endDate": "15 June 2026 12:30 AM",
-            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143150_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143150_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 12311,
-                    "name": "Liege Red Lions",
-                    "shortName": "LRL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LRL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LRL@2x.png",
-                    "color": "#e78028"
-                },
-                {
-                    "id": 12309,
-                    "name": "Ghent Gladiators",
-                    "shortName": "GG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png",
-                    "color": "#1f6da3"
                 }
             ],
             "language": "BLOODY_SWEET",
