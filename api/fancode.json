@@ -2,105 +2,15 @@
     "Author": "DOCTOR_STRANGE",
     "Telegram": "https://t.me/jitendraunatti_github",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:28:03 PM 11-06-2026",
+    "last_updated": "01:42:02 AM 12-06-2026",
     "headers": {
         "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 51,
-    "live_matches": 6,
-    "upcoming_matches": 45,
+    "live_matches": 5,
+    "upcoming_matches": 46,
     "matches": [
-        {
-            "category": "Tennis",
-            "title": "Day 4   Center Court",
-            "tournament": "ATP 250 - BOSS OPEN 2026",
-            "match_id": 143121,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "11 June 2026 02:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143121_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
-                "PLAYBACK": "",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Tour-&-Team-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143121_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Day 4 - Center Court",
-                    "shortName": "Day 4 - Center Court",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FF0000",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Stuttgart, Germany",
-                    "shortName": "Stuttgart, Germany",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FF0000",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "STREAMING_CDN": {
-                "is_drm": false,
-                "Primary_Playback_URL": "https://in-mc-plive.fancode.com/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-plive.fancode.com/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/index.m3u8",
-                "fancode_bd_cdn": "https://bd-mc-plive.fancode.com/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/index.m3u8",
-                "fancode_np_cdn": "https://np-mc-plive.fancode.com/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/index.m3u8",
-                "fancode_lk_cdn": "https://lk-mc-plive.fancode.com/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "sony_cdn": "Unavailable",
-                "language": "ENGLISH",
-                "X-Served-By": "LOKI",
-                "backup": {
-                    "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/index.m3u8",
-                    "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/index.m3u8",
-                    "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143121_english_hls_48cb2ff58780838_1ta-di_h264/index.m3u8"
-                }
-            },
-            "auto_streams": [
-                {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/240p.m3u8?hdntl=Expires=1781283905~_GO=Generated~acl=/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/*~Signature=ATZ0w6cwL2pkUi0VMhnkgkPThfDo8P6YiwpFJMaxAlfiNDNp3ZO-4IkviX5QBcP4MC7uRf7x69QkmyHNuu4qsAXybOMI\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/360p.m3u8?hdntl=Expires=1781283905~_GO=Generated~acl=/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/*~Signature=ATZ0w6cwL2pkUi0VMhnkgkPThfDo8P6YiwpFJMaxAlfiNDNp3ZO-4IkviX5QBcP4MC7uRf7x69QkmyHNuu4qsAXybOMI\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/480p.m3u8?hdntl=Expires=1781283905~_GO=Generated~acl=/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/*~Signature=ATZ0w6cwL2pkUi0VMhnkgkPThfDo8P6YiwpFJMaxAlfiNDNp3ZO-4IkviX5QBcP4MC7uRf7x69QkmyHNuu4qsAXybOMI\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/540p.m3u8?hdntl=Expires=1781283905~_GO=Generated~acl=/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/*~Signature=ATZ0w6cwL2pkUi0VMhnkgkPThfDo8P6YiwpFJMaxAlfiNDNp3ZO-4IkviX5QBcP4MC7uRf7x69QkmyHNuu4qsAXybOMI\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/720p.m3u8?hdntl=Expires=1781283905~_GO=Generated~acl=/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/*~Signature=ATZ0w6cwL2pkUi0VMhnkgkPThfDo8P6YiwpFJMaxAlfiNDNp3ZO-4IkviX5QBcP4MC7uRf7x69QkmyHNuu4qsAXybOMI\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781283905~_GO=Generated~acl=/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/*~Signature=ATZ0w6cwL2pkUi0VMhnkgkPThfDo8P6YiwpFJMaxAlfiNDNp3ZO-4IkviX5QBcP4MC7uRf7x69QkmyHNuu4qsAXybOMI",
-                    "cookie": "hdntl=Expires=1781283905~_GO=Generated~acl=/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/*~Signature=ATZ0w6cwL2pkUi0VMhnkgkPThfDo8P6YiwpFJMaxAlfiNDNp3ZO-4IkviX5QBcP4MC7uRf7x69QkmyHNuu4qsAXybOMI",
-                    "cookie_valid": "1781283905",
-                    "create_date": "Thursday, June 11, 2026, 10:35:03 PM",
-                    "expire_date": "Friday, June 12, 2026, 10:35:05 PM",
-                    "language": "ENGLISH"
-                }
-            ]
-        },
         {
             "category": "Golf",
             "title": "Day 1   Main Feed",
@@ -182,11 +92,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/240p.m3u8?hdntl=Expires=1781276289~_GO=Generated~acl=/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/*~Signature=ATZ0w6d028SaZ58SbTZ9lID968b2AyhL1OeTj4ySlQ01l0aoewnmapi5VJYI_icMXTjoFrJUPFZsmUIPsgzy7H0pouUI\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/360p.m3u8?hdntl=Expires=1781276289~_GO=Generated~acl=/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/*~Signature=ATZ0w6d028SaZ58SbTZ9lID968b2AyhL1OeTj4ySlQ01l0aoewnmapi5VJYI_icMXTjoFrJUPFZsmUIPsgzy7H0pouUI\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/480p.m3u8?hdntl=Expires=1781276289~_GO=Generated~acl=/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/*~Signature=ATZ0w6d028SaZ58SbTZ9lID968b2AyhL1OeTj4ySlQ01l0aoewnmapi5VJYI_icMXTjoFrJUPFZsmUIPsgzy7H0pouUI\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/540p.m3u8?hdntl=Expires=1781276289~_GO=Generated~acl=/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/*~Signature=ATZ0w6d028SaZ58SbTZ9lID968b2AyhL1OeTj4ySlQ01l0aoewnmapi5VJYI_icMXTjoFrJUPFZsmUIPsgzy7H0pouUI\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/720p.m3u8?hdntl=Expires=1781276289~_GO=Generated~acl=/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/*~Signature=ATZ0w6d028SaZ58SbTZ9lID968b2AyhL1OeTj4ySlQ01l0aoewnmapi5VJYI_icMXTjoFrJUPFZsmUIPsgzy7H0pouUI\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781276289~_GO=Generated~acl=/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/*~Signature=ATZ0w6d028SaZ58SbTZ9lID968b2AyhL1OeTj4ySlQ01l0aoewnmapi5VJYI_icMXTjoFrJUPFZsmUIPsgzy7H0pouUI",
-                    "cookie": "hdntl=Expires=1781276289~_GO=Generated~acl=/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/*~Signature=ATZ0w6d028SaZ58SbTZ9lID968b2AyhL1OeTj4ySlQ01l0aoewnmapi5VJYI_icMXTjoFrJUPFZsmUIPsgzy7H0pouUI",
-                    "cookie_valid": "1781276289",
-                    "create_date": "Thursday, June 11, 2026, 8:28:06 PM",
-                    "expire_date": "Friday, June 12, 2026, 8:28:09 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/240p.m3u8?hdntl=Expires=1781291525~_GO=Generated~acl=/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/*~Signature=ATZ0w6cuqBIUJciCX7eLWNh6iP1rneZQTo33WC2kmB4-_F5OKXKM869s9u5k31YcwkAeVWPOQkJn6DfBycjh2kVLpQkF\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/360p.m3u8?hdntl=Expires=1781291525~_GO=Generated~acl=/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/*~Signature=ATZ0w6cuqBIUJciCX7eLWNh6iP1rneZQTo33WC2kmB4-_F5OKXKM869s9u5k31YcwkAeVWPOQkJn6DfBycjh2kVLpQkF\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/480p.m3u8?hdntl=Expires=1781291525~_GO=Generated~acl=/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/*~Signature=ATZ0w6cuqBIUJciCX7eLWNh6iP1rneZQTo33WC2kmB4-_F5OKXKM869s9u5k31YcwkAeVWPOQkJn6DfBycjh2kVLpQkF\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/540p.m3u8?hdntl=Expires=1781291525~_GO=Generated~acl=/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/*~Signature=ATZ0w6cuqBIUJciCX7eLWNh6iP1rneZQTo33WC2kmB4-_F5OKXKM869s9u5k31YcwkAeVWPOQkJn6DfBycjh2kVLpQkF\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/720p.m3u8?hdntl=Expires=1781291525~_GO=Generated~acl=/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/*~Signature=ATZ0w6cuqBIUJciCX7eLWNh6iP1rneZQTo33WC2kmB4-_F5OKXKM869s9u5k31YcwkAeVWPOQkJn6DfBycjh2kVLpQkF\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781291525~_GO=Generated~acl=/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/*~Signature=ATZ0w6cuqBIUJciCX7eLWNh6iP1rneZQTo33WC2kmB4-_F5OKXKM869s9u5k31YcwkAeVWPOQkJn6DfBycjh2kVLpQkF",
+                    "cookie": "hdntl=Expires=1781291525~_GO=Generated~acl=/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/*~Signature=ATZ0w6cuqBIUJciCX7eLWNh6iP1rneZQTo33WC2kmB4-_F5OKXKM869s9u5k31YcwkAeVWPOQkJn6DfBycjh2kVLpQkF",
+                    "cookie_valid": "1781291525",
+                    "create_date": "Friday, June 12, 2026, 12:42:03 AM",
+                    "expire_date": "Saturday, June 13, 2026, 12:42:05 AM",
                     "language": "ENGLISH"
                 }
             ]
@@ -272,11 +182,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/240p.m3u8?hdntl=Expires=1781277127~_GO=Generated~acl=/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/*~Signature=ATZ0w6dGqnScRBvC1eTnQqn8Mt43V5beQa2UktPoWCZWAR4bCh3Flv_RSrUYxcRrIdIKYilvMN5-PhfIrSnyaWbblWUM\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/360p.m3u8?hdntl=Expires=1781277127~_GO=Generated~acl=/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/*~Signature=ATZ0w6dGqnScRBvC1eTnQqn8Mt43V5beQa2UktPoWCZWAR4bCh3Flv_RSrUYxcRrIdIKYilvMN5-PhfIrSnyaWbblWUM\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/480p.m3u8?hdntl=Expires=1781277127~_GO=Generated~acl=/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/*~Signature=ATZ0w6dGqnScRBvC1eTnQqn8Mt43V5beQa2UktPoWCZWAR4bCh3Flv_RSrUYxcRrIdIKYilvMN5-PhfIrSnyaWbblWUM\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/540p.m3u8?hdntl=Expires=1781277127~_GO=Generated~acl=/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/*~Signature=ATZ0w6dGqnScRBvC1eTnQqn8Mt43V5beQa2UktPoWCZWAR4bCh3Flv_RSrUYxcRrIdIKYilvMN5-PhfIrSnyaWbblWUM\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/720p.m3u8?hdntl=Expires=1781277127~_GO=Generated~acl=/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/*~Signature=ATZ0w6dGqnScRBvC1eTnQqn8Mt43V5beQa2UktPoWCZWAR4bCh3Flv_RSrUYxcRrIdIKYilvMN5-PhfIrSnyaWbblWUM\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781277127~_GO=Generated~acl=/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/*~Signature=ATZ0w6dGqnScRBvC1eTnQqn8Mt43V5beQa2UktPoWCZWAR4bCh3Flv_RSrUYxcRrIdIKYilvMN5-PhfIrSnyaWbblWUM",
-                    "cookie": "hdntl=Expires=1781277127~_GO=Generated~acl=/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/*~Signature=ATZ0w6dGqnScRBvC1eTnQqn8Mt43V5beQa2UktPoWCZWAR4bCh3Flv_RSrUYxcRrIdIKYilvMN5-PhfIrSnyaWbblWUM",
-                    "cookie_valid": "1781277127",
-                    "create_date": "Thursday, June 11, 2026, 8:42:04 PM",
-                    "expire_date": "Friday, June 12, 2026, 8:42:07 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/240p.m3u8?hdntl=Expires=1781291946~_GO=Generated~acl=/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/*~Signature=ATZ0w6fuUjxXJbByQ2O-n3PvdO4XziHjfG4Hn9F_qw6IdBfZBtFPNo-xZZf99t41yfIjb6CQkIj33iWV8uqp883bpMMF\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/360p.m3u8?hdntl=Expires=1781291946~_GO=Generated~acl=/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/*~Signature=ATZ0w6fuUjxXJbByQ2O-n3PvdO4XziHjfG4Hn9F_qw6IdBfZBtFPNo-xZZf99t41yfIjb6CQkIj33iWV8uqp883bpMMF\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/480p.m3u8?hdntl=Expires=1781291946~_GO=Generated~acl=/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/*~Signature=ATZ0w6fuUjxXJbByQ2O-n3PvdO4XziHjfG4Hn9F_qw6IdBfZBtFPNo-xZZf99t41yfIjb6CQkIj33iWV8uqp883bpMMF\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/540p.m3u8?hdntl=Expires=1781291946~_GO=Generated~acl=/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/*~Signature=ATZ0w6fuUjxXJbByQ2O-n3PvdO4XziHjfG4Hn9F_qw6IdBfZBtFPNo-xZZf99t41yfIjb6CQkIj33iWV8uqp883bpMMF\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/720p.m3u8?hdntl=Expires=1781291946~_GO=Generated~acl=/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/*~Signature=ATZ0w6fuUjxXJbByQ2O-n3PvdO4XziHjfG4Hn9F_qw6IdBfZBtFPNo-xZZf99t41yfIjb6CQkIj33iWV8uqp883bpMMF\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781291946~_GO=Generated~acl=/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/*~Signature=ATZ0w6fuUjxXJbByQ2O-n3PvdO4XziHjfG4Hn9F_qw6IdBfZBtFPNo-xZZf99t41yfIjb6CQkIj33iWV8uqp883bpMMF",
+                    "cookie": "hdntl=Expires=1781291946~_GO=Generated~acl=/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/*~Signature=ATZ0w6fuUjxXJbByQ2O-n3PvdO4XziHjfG4Hn9F_qw6IdBfZBtFPNo-xZZf99t41yfIjb6CQkIj33iWV8uqp883bpMMF",
+                    "cookie_valid": "1781291946",
+                    "create_date": "Friday, June 12, 2026, 12:49:03 AM",
+                    "expire_date": "Saturday, June 13, 2026, 12:49:06 AM",
                     "language": "ENGLISH"
                 }
             ]
@@ -362,11 +272,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/240p.m3u8?hdntl=Expires=1781277965~_GO=Generated~acl=/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/*~Signature=ATZ0w6d9SunONbzs93AzcV3OW3GJlE4CyWzwDZZrQp1cngTjdDRG3NYU9cBajlW-gL_EtM_ikbeVibmLFSxTyahVqvwB\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/360p.m3u8?hdntl=Expires=1781277965~_GO=Generated~acl=/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/*~Signature=ATZ0w6d9SunONbzs93AzcV3OW3GJlE4CyWzwDZZrQp1cngTjdDRG3NYU9cBajlW-gL_EtM_ikbeVibmLFSxTyahVqvwB\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/480p.m3u8?hdntl=Expires=1781277965~_GO=Generated~acl=/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/*~Signature=ATZ0w6d9SunONbzs93AzcV3OW3GJlE4CyWzwDZZrQp1cngTjdDRG3NYU9cBajlW-gL_EtM_ikbeVibmLFSxTyahVqvwB\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/540p.m3u8?hdntl=Expires=1781277965~_GO=Generated~acl=/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/*~Signature=ATZ0w6d9SunONbzs93AzcV3OW3GJlE4CyWzwDZZrQp1cngTjdDRG3NYU9cBajlW-gL_EtM_ikbeVibmLFSxTyahVqvwB\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/720p.m3u8?hdntl=Expires=1781277965~_GO=Generated~acl=/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/*~Signature=ATZ0w6d9SunONbzs93AzcV3OW3GJlE4CyWzwDZZrQp1cngTjdDRG3NYU9cBajlW-gL_EtM_ikbeVibmLFSxTyahVqvwB\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781277965~_GO=Generated~acl=/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/*~Signature=ATZ0w6d9SunONbzs93AzcV3OW3GJlE4CyWzwDZZrQp1cngTjdDRG3NYU9cBajlW-gL_EtM_ikbeVibmLFSxTyahVqvwB",
-                    "cookie": "hdntl=Expires=1781277965~_GO=Generated~acl=/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/*~Signature=ATZ0w6d9SunONbzs93AzcV3OW3GJlE4CyWzwDZZrQp1cngTjdDRG3NYU9cBajlW-gL_EtM_ikbeVibmLFSxTyahVqvwB",
-                    "cookie_valid": "1781277965",
-                    "create_date": "Thursday, June 11, 2026, 8:56:02 PM",
-                    "expire_date": "Friday, June 12, 2026, 8:56:05 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/240p.m3u8?hdntl=Expires=1781292605~_GO=Generated~acl=/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/*~Signature=ATZ0w6esJutxzOuqd8t-WvgXQkq2oFmbZxyZ8lp7Wkq0CHZSDFnueaYERBa8I9Anc4wgmZ_HbIzUT1OAFAme9wzT_38I\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/360p.m3u8?hdntl=Expires=1781292605~_GO=Generated~acl=/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/*~Signature=ATZ0w6esJutxzOuqd8t-WvgXQkq2oFmbZxyZ8lp7Wkq0CHZSDFnueaYERBa8I9Anc4wgmZ_HbIzUT1OAFAme9wzT_38I\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/480p.m3u8?hdntl=Expires=1781292605~_GO=Generated~acl=/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/*~Signature=ATZ0w6esJutxzOuqd8t-WvgXQkq2oFmbZxyZ8lp7Wkq0CHZSDFnueaYERBa8I9Anc4wgmZ_HbIzUT1OAFAme9wzT_38I\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/540p.m3u8?hdntl=Expires=1781292605~_GO=Generated~acl=/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/*~Signature=ATZ0w6esJutxzOuqd8t-WvgXQkq2oFmbZxyZ8lp7Wkq0CHZSDFnueaYERBa8I9Anc4wgmZ_HbIzUT1OAFAme9wzT_38I\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/720p.m3u8?hdntl=Expires=1781292605~_GO=Generated~acl=/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/*~Signature=ATZ0w6esJutxzOuqd8t-WvgXQkq2oFmbZxyZ8lp7Wkq0CHZSDFnueaYERBa8I9Anc4wgmZ_HbIzUT1OAFAme9wzT_38I\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781292605~_GO=Generated~acl=/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/*~Signature=ATZ0w6esJutxzOuqd8t-WvgXQkq2oFmbZxyZ8lp7Wkq0CHZSDFnueaYERBa8I9Anc4wgmZ_HbIzUT1OAFAme9wzT_38I",
+                    "cookie": "hdntl=Expires=1781292605~_GO=Generated~acl=/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/*~Signature=ATZ0w6esJutxzOuqd8t-WvgXQkq2oFmbZxyZ8lp7Wkq0CHZSDFnueaYERBa8I9Anc4wgmZ_HbIzUT1OAFAme9wzT_38I",
+                    "cookie_valid": "1781292605",
+                    "create_date": "Friday, June 12, 2026, 1:00:02 AM",
+                    "expire_date": "Saturday, June 13, 2026, 1:00:05 AM",
                     "language": "ENGLISH"
                 }
             ]
@@ -452,11 +362,101 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/240p.m3u8?hdntl=Expires=1781277972~_GO=Generated~acl=/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/*~Signature=ATZ0w6eK9Al4fyMYHAduNuP46o-yZ25nGKsIg_w_iwM4K1Bsukm01j5Ld0nbRzVTYP35Mh0z85KOVBbKtoWTxWn2rPML\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/360p.m3u8?hdntl=Expires=1781277972~_GO=Generated~acl=/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/*~Signature=ATZ0w6eK9Al4fyMYHAduNuP46o-yZ25nGKsIg_w_iwM4K1Bsukm01j5Ld0nbRzVTYP35Mh0z85KOVBbKtoWTxWn2rPML\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/480p.m3u8?hdntl=Expires=1781277972~_GO=Generated~acl=/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/*~Signature=ATZ0w6eK9Al4fyMYHAduNuP46o-yZ25nGKsIg_w_iwM4K1Bsukm01j5Ld0nbRzVTYP35Mh0z85KOVBbKtoWTxWn2rPML\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/540p.m3u8?hdntl=Expires=1781277972~_GO=Generated~acl=/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/*~Signature=ATZ0w6eK9Al4fyMYHAduNuP46o-yZ25nGKsIg_w_iwM4K1Bsukm01j5Ld0nbRzVTYP35Mh0z85KOVBbKtoWTxWn2rPML\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/720p.m3u8?hdntl=Expires=1781277972~_GO=Generated~acl=/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/*~Signature=ATZ0w6eK9Al4fyMYHAduNuP46o-yZ25nGKsIg_w_iwM4K1Bsukm01j5Ld0nbRzVTYP35Mh0z85KOVBbKtoWTxWn2rPML\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781277972~_GO=Generated~acl=/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/*~Signature=ATZ0w6eK9Al4fyMYHAduNuP46o-yZ25nGKsIg_w_iwM4K1Bsukm01j5Ld0nbRzVTYP35Mh0z85KOVBbKtoWTxWn2rPML",
-                    "cookie": "hdntl=Expires=1781277972~_GO=Generated~acl=/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/*~Signature=ATZ0w6eK9Al4fyMYHAduNuP46o-yZ25nGKsIg_w_iwM4K1Bsukm01j5Ld0nbRzVTYP35Mh0z85KOVBbKtoWTxWn2rPML",
-                    "cookie_valid": "1781277972",
-                    "create_date": "Thursday, June 11, 2026, 8:56:09 PM",
-                    "expire_date": "Friday, June 12, 2026, 8:56:12 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/240p.m3u8?hdntl=Expires=1781292607~_GO=Generated~acl=/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/*~Signature=ATZ0w6eIfb9QTGrjQLxrApWLeNzHba6Lt9bZJeQdtT4Mxh1Tkls7dyzNA21nkzGNA0Zg2jxgj1K3-QsaEIQYTIN0sJIF\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/360p.m3u8?hdntl=Expires=1781292607~_GO=Generated~acl=/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/*~Signature=ATZ0w6eIfb9QTGrjQLxrApWLeNzHba6Lt9bZJeQdtT4Mxh1Tkls7dyzNA21nkzGNA0Zg2jxgj1K3-QsaEIQYTIN0sJIF\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/480p.m3u8?hdntl=Expires=1781292607~_GO=Generated~acl=/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/*~Signature=ATZ0w6eIfb9QTGrjQLxrApWLeNzHba6Lt9bZJeQdtT4Mxh1Tkls7dyzNA21nkzGNA0Zg2jxgj1K3-QsaEIQYTIN0sJIF\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/540p.m3u8?hdntl=Expires=1781292607~_GO=Generated~acl=/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/*~Signature=ATZ0w6eIfb9QTGrjQLxrApWLeNzHba6Lt9bZJeQdtT4Mxh1Tkls7dyzNA21nkzGNA0Zg2jxgj1K3-QsaEIQYTIN0sJIF\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/720p.m3u8?hdntl=Expires=1781292607~_GO=Generated~acl=/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/*~Signature=ATZ0w6eIfb9QTGrjQLxrApWLeNzHba6Lt9bZJeQdtT4Mxh1Tkls7dyzNA21nkzGNA0Zg2jxgj1K3-QsaEIQYTIN0sJIF\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781292607~_GO=Generated~acl=/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/*~Signature=ATZ0w6eIfb9QTGrjQLxrApWLeNzHba6Lt9bZJeQdtT4Mxh1Tkls7dyzNA21nkzGNA0Zg2jxgj1K3-QsaEIQYTIN0sJIF",
+                    "cookie": "hdntl=Expires=1781292607~_GO=Generated~acl=/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/*~Signature=ATZ0w6eIfb9QTGrjQLxrApWLeNzHba6Lt9bZJeQdtT4Mxh1Tkls7dyzNA21nkzGNA0Zg2jxgj1K3-QsaEIQYTIN0sJIF",
+                    "cookie_valid": "1781292607",
+                    "create_date": "Friday, June 12, 2026, 1:00:04 AM",
+                    "expire_date": "Saturday, June 13, 2026, 1:00:07 AM",
+                    "language": "ENGLISH"
+                }
+            ]
+        },
+        {
+            "category": "Golf",
+            "title": "Day 1   World Feed",
+            "tournament": "RBC Canadian Open 2026",
+            "match_id": 143201,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "12 June 2026 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143201_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_RBC-Canadian-Open.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143201_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Day 1 - World Feed",
+                    "shortName": "Day 1 - World Feed",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "TPC Toronto at Osprey Valley, Caledon, Ontario",
+                    "shortName": "TPC Toronto at Osprey Valley, Caledon, Ontario",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": false,
+                "Primary_Playback_URL": "https://in-mc-plive.fancode.com/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-plive.fancode.com/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/index.m3u8",
+                "fancode_bd_cdn": "https://bd-mc-plive.fancode.com/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/index.m3u8",
+                "fancode_np_cdn": "https://np-mc-plive.fancode.com/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/index.m3u8",
+                "fancode_lk_cdn": "https://lk-mc-plive.fancode.com/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH",
+                "X-Served-By": "LOKI",
+                "backup": {
+                    "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/index.m3u8",
+                    "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/index.m3u8",
+                    "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143201_english_hls_03ef1dee1e1652_1ta-di_h264/index.m3u8"
+                }
+            },
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/240p.m3u8?hdntl=Expires=1781289846~_GO=Generated~acl=/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/*~Signature=ATZ0w6eCSZYd2y3MiggwSloH08jrU4juUzhE8nTOkuyyEDAlCz1ZnJrI8P2XXqbGladqZ6W00yS9PhORZ8him7TlV-AA\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/360p.m3u8?hdntl=Expires=1781289846~_GO=Generated~acl=/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/*~Signature=ATZ0w6eCSZYd2y3MiggwSloH08jrU4juUzhE8nTOkuyyEDAlCz1ZnJrI8P2XXqbGladqZ6W00yS9PhORZ8him7TlV-AA\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/480p.m3u8?hdntl=Expires=1781289846~_GO=Generated~acl=/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/*~Signature=ATZ0w6eCSZYd2y3MiggwSloH08jrU4juUzhE8nTOkuyyEDAlCz1ZnJrI8P2XXqbGladqZ6W00yS9PhORZ8him7TlV-AA\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/540p.m3u8?hdntl=Expires=1781289846~_GO=Generated~acl=/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/*~Signature=ATZ0w6eCSZYd2y3MiggwSloH08jrU4juUzhE8nTOkuyyEDAlCz1ZnJrI8P2XXqbGladqZ6W00yS9PhORZ8him7TlV-AA\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/720p.m3u8?hdntl=Expires=1781289846~_GO=Generated~acl=/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/*~Signature=ATZ0w6eCSZYd2y3MiggwSloH08jrU4juUzhE8nTOkuyyEDAlCz1ZnJrI8P2XXqbGladqZ6W00yS9PhORZ8him7TlV-AA\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781289846~_GO=Generated~acl=/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/*~Signature=ATZ0w6eCSZYd2y3MiggwSloH08jrU4juUzhE8nTOkuyyEDAlCz1ZnJrI8P2XXqbGladqZ6W00yS9PhORZ8him7TlV-AA",
+                    "cookie": "hdntl=Expires=1781289846~_GO=Generated~acl=/mumbai/143201_english_hls_03ef1dee1e1652_1ta-di_h264/*~Signature=ATZ0w6eCSZYd2y3MiggwSloH08jrU4juUzhE8nTOkuyyEDAlCz1ZnJrI8P2XXqbGladqZ6W00yS9PhORZ8him7TlV-AA",
+                    "cookie_valid": "1781289846",
+                    "create_date": "Friday, June 12, 2026, 12:14:03 AM",
+                    "expire_date": "Saturday, June 13, 2026, 12:14:06 AM",
                     "language": "ENGLISH"
                 }
             ]
@@ -1132,73 +1132,6 @@
             "auto_streams": null
         },
         {
-            "category": "Golf",
-            "title": "Day 1   World Feed",
-            "tournament": "RBC Canadian Open 2026",
-            "match_id": 143201,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "12 June 2026 12:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143201_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_RBC-Canadian-Open.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143201_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Day 1 - World Feed",
-                    "shortName": "Day 1 - World Feed",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "TPC Toronto at Osprey Valley, Caledon, Ontario",
-                    "shortName": "TPC Toronto at Osprey Valley, Caledon, Ontario",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
             "category": "Motorsports",
             "title": "Practice Session",
             "tournament": "F3 BARCELONA 2026",
@@ -1467,43 +1400,35 @@
             "auto_streams": null
         },
         {
-            "category": "Cricket",
-            "title": "Gujarat Diamonds Vs Northern Challengers",
-            "tournament": "Big Cricket League Season 2",
-            "match_id": 142996,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "10 June 2026 07:00 PM",
+            "category": "Golf",
+            "title": "Day 2   Main Feed",
+            "tournament": "RBC Canadian Open 2026",
+            "match_id": 143207,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "12 June 2026 04:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/142996_6094_GD_NC_FC-WEB_1780318029118.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142996_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/142996_6094_GD_NC_FC-WEB_1780318029118.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143207_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Big-Cricket-League-Season-2.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/142996_6094_GD_NC_FC-WEB_1780318029118.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142996_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_RBC-Canadian-Open.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143207_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "team": [
                 {
-                    "name": "Gujarat Diamonds",
-                    "shortName": "GD",
+                    "name": "Day 2 - Main Feed",
+                    "shortName": "Day 2 - Main Feed",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
                     },
-                    "isWinner": true,
-                    "color": "#886122",
-                    "cricketScore": [
-                        {
-                            "runs": 217,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 4
-                        }
-                    ],
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1515,29 +1440,356 @@
                     }
                 },
                 {
-                    "name": "Northern Challengers",
-                    "shortName": "NC",
+                    "name": "TPC Toronto at Osprey Valley, Caledon, Ontario",
+                    "shortName": "TPC Toronto at Osprey Valley, Caledon, Ontario",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
                     },
-                    "isWinner": false,
-                    "color": "#1f9723",
-                    "cricketScore": [
-                        {
-                            "runs": 180,
-                            "overs": "19",
-                            "balls": "114",
-                            "status": "IN_PROGRESS",
-                            "wickets": 9
-                        }
-                    ],
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Golf",
+            "title": "Day 2   Featured Holes",
+            "tournament": "RBC Canadian Open 2026",
+            "match_id": 143209,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "12 June 2026 04:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143209_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_RBC-Canadian-Open.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143209_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Day 2 - Featured Holes",
+                    "shortName": "Day 2 - Featured Holes",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "TPC Toronto at Osprey Valley, Caledo, Ontario",
+                    "shortName": "TPC Toronto at Osprey Valley, Caledo, Ontario",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Formula 1",
+            "title": "Practice 1",
+            "tournament": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
+            "match_id": 139452,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "12 June 2026 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/139452_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona.jpg",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139452_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Practice 1",
+                    "shortName": "P1",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#EE0000",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Barcelona",
+                    "shortName": "Barcelona",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Golf",
+            "title": "Day 2   Featured Groups",
+            "tournament": "RBC Canadian Open 2026",
+            "match_id": 143210,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "12 June 2026 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143210_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_RBC-Canadian-Open.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143210_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Day 2 - Featured Groups",
+                    "shortName": "Day 2 - Featured Groups",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
+                    "shortName": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Golf",
+            "title": "Day 2   Marquee Group",
+            "tournament": "RBC Canadian Open 2026",
+            "match_id": 143208,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "12 June 2026 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143208_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_RBC-Canadian-Open.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143208_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Day 2 - Marquee Group",
+                    "shortName": "Day 2 - Marquee Group",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "TPC Toronto at Osprey Valley, Caledo, Ontario",
+                    "shortName": "TPC Toronto at Osprey Valley, Caledo, Ontario",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Motorsports",
+            "title": "Qualifying Session",
+            "tournament": "F3 BARCELONA 2026",
+            "match_id": 139718,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "12 June 2026 06:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/139718_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona_1769074955154.jpg",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports_2.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139718_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Qualifying Session",
+                    "shortName": "Qualifying Session",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ff5800",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Barcelona",
+                    "shortName": "Barcelona",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#123456",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
                         }
                     }
                 }
@@ -1882,73 +2134,6 @@
             "auto_streams": null
         },
         {
-            "category": "Golf",
-            "title": "Day 2   Main Feed",
-            "tournament": "RBC Canadian Open 2026",
-            "match_id": 143207,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "12 June 2026 04:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143207_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_RBC-Canadian-Open.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143207_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Day 2 - Main Feed",
-                    "shortName": "Day 2 - Main Feed",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "TPC Toronto at Osprey Valley, Caledon, Ontario",
-                    "shortName": "TPC Toronto at Osprey Valley, Caledon, Ontario",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
             "category": "Cricket",
             "title": "Mp Tigers Vs Northern Challengers",
             "tournament": "Big Cricket League Season 2",
@@ -2064,341 +2249,6 @@
                     "isWinner": null,
                     "color": "#1f6da3",
                     "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Golf",
-            "title": "Day 2   Featured Holes",
-            "tournament": "RBC Canadian Open 2026",
-            "match_id": 143209,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "12 June 2026 04:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143209_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_RBC-Canadian-Open.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143209_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Day 2 - Featured Holes",
-                    "shortName": "Day 2 - Featured Holes",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "TPC Toronto at Osprey Valley, Caledo, Ontario",
-                    "shortName": "TPC Toronto at Osprey Valley, Caledo, Ontario",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Formula 1",
-            "title": "Practice 1",
-            "tournament": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
-            "match_id": 139452,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "12 June 2026 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/139452_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona.jpg",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139452_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Practice 1",
-                    "shortName": "P1",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#EE0000",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Barcelona",
-                    "shortName": "Barcelona",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Golf",
-            "title": "Day 2   Featured Groups",
-            "tournament": "RBC Canadian Open 2026",
-            "match_id": 143210,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "12 June 2026 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143210_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_RBC-Canadian-Open.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143210_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Day 2 - Featured Groups",
-                    "shortName": "Day 2 - Featured Groups",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
-                    "shortName": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Golf",
-            "title": "Day 2   Marquee Group",
-            "tournament": "RBC Canadian Open 2026",
-            "match_id": 143208,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "12 June 2026 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143208_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_RBC-Canadian-Open.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143208_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Day 2 - Marquee Group",
-                    "shortName": "Day 2 - Marquee Group",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "TPC Toronto at Osprey Valley, Caledo, Ontario",
-                    "shortName": "TPC Toronto at Osprey Valley, Caledo, Ontario",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Motorsports",
-            "title": "Qualifying Session",
-            "tournament": "F3 BARCELONA 2026",
-            "match_id": 139718,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "12 June 2026 06:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/139718_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona_1769074955154.jpg",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports_2.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139718_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Qualifying Session",
-                    "shortName": "Qualifying Session",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ff5800",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Barcelona",
-                    "shortName": "Barcelona",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#123456",
-                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2821,37 +2671,238 @@
         },
         {
             "category": "Cricket",
-            "title": "Gwalior Cheetahs Vs Chambal Ghariyals",
+            "title": "Bundelkhand Bulls Vs Gwalior Cheetahs",
             "tournament": "Madhya Pradesh League T20, 2026",
-            "short_name": "MPL",
-            "match_id": 143076,
-            "status": "STARTED",
-            "startTime": "11 June 2026 07:30 PM",
-            "startDate": "03 June 2026 05:30 AM",
-            "endDate": "26 June 2026 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1780469022414/143076_CASACARDS_SPORTY_APP.png",
+            "match_id": 143081,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 June 2026 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/143081_6102_BBS_GC_FC-WEB.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143076_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1780469022414/143076_CASACARDS_SPORTY_APP.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143081_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/143081_6102_BBS_GC_FC-WEB.jpg",
                 "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143076_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/143081_6102_BBS_GC_FC-WEB.jpg",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1780469022389/143081_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143081_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Bundelkhand Bulls",
+                    "shortName": "BBS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ee3e26",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Gwalior Cheetahs",
+                    "shortName": "GC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#e7820d",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "Ujjain Falcons Vs Rewa Jaguars",
+            "tournament": "Madhya Pradesh League T20, 2026",
+            "match_id": 143082,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 June 2026 03:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/143082_6102_UJF_RW_FC-WEB.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143082_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/143082_6102_UJF_RW_FC-WEB.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/143082_6102_UJF_RW_FC-WEB.jpg",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1780469022398/143082_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143082_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Ujjain Falcons",
+                    "shortName": "UJF",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-UJF@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ff4800",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Rewa Jaguars",
+                    "shortName": "RW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#862900",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "Tbc Vs Tbc",
+            "tournament": "Big Cricket League Season 2",
+            "match_id": 143001,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 June 2026 07:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143001_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Big-Cricket-League-Season-2.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143001_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "TBC",
+                    "shortName": "TBC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#dcdcdc",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "TBC",
+                    "shortName": "TBC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#dcdcdc",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Golf",
+            "title": "Day 1   Main Feed",
+            "tournament": "RBC Canadian Open 2026",
+            "short_name": "RBC Canadian Open",
+            "match_id": 143202,
+            "status": "STARTED",
+            "startTime": "11 June 2026 04:30 PM",
+            "startDate": "11 June 2026 05:30 AM",
+            "endDate": "15 June 2026 08:30 AM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143202_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143202_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 11577,
-                    "name": "Gwalior Cheetahs",
-                    "shortName": "GC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png",
-                    "color": "#e7820d"
+                    "id": 5941,
+                    "name": "Day 1 - Main Feed",
+                    "shortName": "PGA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                    "color": "#141414"
                 },
                 {
-                    "id": 11581,
-                    "name": "Chambal Ghariyals",
-                    "shortName": "CGS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                    "color": "#22c13a"
+                    "id": 5942,
+                    "name": "TPC Toronto at Osprey Valley, Caledon, Ontario",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -2864,38 +2915,38 @@
             "auto_streams": null
         },
         {
-            "category": "Tennis",
-            "title": "Day 4   Center Court",
-            "tournament": "ATP 250 - BOSS OPEN 2026",
-            "short_name": "BOSS OPEN",
-            "match_id": 143121,
+            "category": "Golf",
+            "title": "Day 1   Featured Holes",
+            "tournament": "RBC Canadian Open 2026",
+            "short_name": "RBC Canadian Open",
+            "match_id": 143204,
             "status": "STARTED",
-            "startTime": "11 June 2026 02:30 PM",
-            "startDate": "08 June 2026 05:30 AM",
-            "endDate": "14 June 2026 11:30 PM",
-            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+            "startTime": "11 June 2026 04:45 PM",
+            "startDate": "11 June 2026 05:30 AM",
+            "endDate": "15 June 2026 08:30 AM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143121_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143204_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
                 "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143121_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143204_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 12121,
-                    "name": "Day 4 - Center Court",
-                    "shortName": "ATP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-                    "color": "#FF0000"
+                    "id": 5941,
+                    "name": "Day 1 - Featured Holes",
+                    "shortName": "PGA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                    "color": "#141414"
                 },
                 {
-                    "id": 12122,
-                    "name": "Stuttgart, Germany",
+                    "id": 5942,
+                    "name": "TPC Toronto at Osprey Valley, Caledo, Ontario",
                     "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-                    "color": "#FF0000"
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -3173,94 +3224,6 @@
         },
         {
             "category": "Golf",
-            "title": "Day 1   Main Feed",
-            "tournament": "RBC Canadian Open 2026",
-            "short_name": "RBC Canadian Open",
-            "match_id": 143202,
-            "status": "STARTED",
-            "startTime": "11 June 2026 04:30 PM",
-            "startDate": "11 June 2026 05:30 AM",
-            "endDate": "15 June 2026 08:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143202_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143202_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 5941,
-                    "name": "Day 1 - Main Feed",
-                    "shortName": "PGA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "color": "#141414"
-                },
-                {
-                    "id": 5942,
-                    "name": "TPC Toronto at Osprey Valley, Caledon, Ontario",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Golf",
-            "title": "Day 1   Featured Holes",
-            "tournament": "RBC Canadian Open 2026",
-            "short_name": "RBC Canadian Open",
-            "match_id": 143204,
-            "status": "STARTED",
-            "startTime": "11 June 2026 04:45 PM",
-            "startDate": "11 June 2026 05:30 AM",
-            "endDate": "15 June 2026 08:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143204_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143204_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 5941,
-                    "name": "Day 1 - Featured Holes",
-                    "shortName": "PGA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "color": "#141414"
-                },
-                {
-                    "id": 5942,
-                    "name": "TPC Toronto at Osprey Valley, Caledo, Ontario",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Golf",
             "title": "Day 1   Featured Groups",
             "tournament": "RBC Canadian Open 2026",
             "short_name": "RBC Canadian Open",
@@ -3332,6 +3295,50 @@
                 {
                     "id": 5942,
                     "name": "TPC Toronto at Osprey Valley, Caledo, Ontario",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Golf",
+            "title": "Day 1   World Feed",
+            "tournament": "RBC Canadian Open 2026",
+            "short_name": "RBC Canadian Open",
+            "match_id": 143201,
+            "status": "STARTED",
+            "startTime": "12 June 2026 12:30 AM",
+            "startDate": "11 June 2026 05:30 AM",
+            "endDate": "15 June 2026 08:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143201_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143201_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 5941,
+                    "name": "Day 1 - World Feed",
+                    "shortName": "PGA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                    "color": "#141414"
+                },
+                {
+                    "id": 5942,
+                    "name": "TPC Toronto at Osprey Valley, Caledon, Ontario",
                     "shortName": "LOC",
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
