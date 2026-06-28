@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:02:31 28-06-2026",
+    "last update time": "15:14:59 28-06-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090535665_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019939/1782323551352153_ENGvsNZ_3rd_test_day4_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "New Zealand Tour of England 2026",
+            "match_name": "3rd Test - Day 4 - 28 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Englandv2806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782683098~acl=/*~id=35235897054769967546118700310641~hmac=1b9d38389a759647d4b26fadf1437c725727432b9616edef36a153fd7f890b24",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Englandv2806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782683098~acl=/*~id=35235897054769967546118700310641~hmac=1b9d38389a759647d4b26fadf1437c725727432b9616edef36a153fd7f890b24",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Englandv2806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782683098~acl=/*~id=35235897054769967546118700310641~hmac=1b9d38389a759647d4b26fadf1437c725727432b9616edef36a153fd7f890b24"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090535674_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018953/1780272150365972_DP_World_Tour_Open_dItalia_day4_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Open d'Italia - Day 4 - 28 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Open_dIt2806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782683098~acl=/*~id=35235897054769967546118700310641~hmac=1b9d38389a759647d4b26fadf1437c725727432b9616edef36a153fd7f890b24",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Open_dIt2806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782683098~acl=/*~id=35235897054769967546118700310641~hmac=1b9d38389a759647d4b26fadf1437c725727432b9616edef36a153fd7f890b24",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Open_dIt2806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782683098~acl=/*~id=35235897054769967546118700310641~hmac=1b9d38389a759647d4b26fadf1437c725727432b9616edef36a153fd7f890b24"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
