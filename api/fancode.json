@@ -2,7 +2,7 @@
     "Author": "DOCTOR_STRANGE",
     "Telegram": "https://t.me/jitendraunatti_github",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:21:11 PM 15-08-2026",
+    "last_updated": "05:42:10 PM 15-08-2026",
     "headers": {
         "User-Agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
         "Referer": "https://fancode.com/"
@@ -71,11 +71,11 @@
                     "color": "#1aa231",
                     "cricketScore": [
                         {
-                            "runs": 2,
-                            "overs": "1.2",
-                            "balls": "8",
+                            "runs": 23,
+                            "overs": "4.4",
+                            "balls": "28",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -111,11 +111,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/240p.m3u8?hdntl=Expires=1786795001~_GO=Generated~acl=/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/*~Signature=AVMBkTU0S86Cs-7bLMdx1nUThe1v7DGTmagTEHEiB5Q7KnufXpcAoGPad3m8G1eVTu1P0FQVzWTC1dkUO5V794G3d1kG\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/360p.m3u8?hdntl=Expires=1786795001~_GO=Generated~acl=/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/*~Signature=AVMBkTU0S86Cs-7bLMdx1nUThe1v7DGTmagTEHEiB5Q7KnufXpcAoGPad3m8G1eVTu1P0FQVzWTC1dkUO5V794G3d1kG\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/480p.m3u8?hdntl=Expires=1786795001~_GO=Generated~acl=/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/*~Signature=AVMBkTU0S86Cs-7bLMdx1nUThe1v7DGTmagTEHEiB5Q7KnufXpcAoGPad3m8G1eVTu1P0FQVzWTC1dkUO5V794G3d1kG\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/540p.m3u8?hdntl=Expires=1786795001~_GO=Generated~acl=/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/*~Signature=AVMBkTU0S86Cs-7bLMdx1nUThe1v7DGTmagTEHEiB5Q7KnufXpcAoGPad3m8G1eVTu1P0FQVzWTC1dkUO5V794G3d1kG\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/720p.m3u8?hdntl=Expires=1786795001~_GO=Generated~acl=/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/*~Signature=AVMBkTU0S86Cs-7bLMdx1nUThe1v7DGTmagTEHEiB5Q7KnufXpcAoGPad3m8G1eVTu1P0FQVzWTC1dkUO5V794G3d1kG\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786795001~_GO=Generated~acl=/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/*~Signature=AVMBkTU0S86Cs-7bLMdx1nUThe1v7DGTmagTEHEiB5Q7KnufXpcAoGPad3m8G1eVTu1P0FQVzWTC1dkUO5V794G3d1kG",
-                    "cookie": "hdntl=Expires=1786795001~_GO=Generated~acl=/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/*~Signature=AVMBkTU0S86Cs-7bLMdx1nUThe1v7DGTmagTEHEiB5Q7KnufXpcAoGPad3m8G1eVTu1P0FQVzWTC1dkUO5V794G3d1kG",
-                    "cookie_valid": "1786795001",
-                    "create_date": "Saturday, August 15, 2026, 5:21:11 PM",
-                    "expire_date": "Saturday, August 15, 2026, 5:26:41 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/240p.m3u8?hdntl=Expires=1786796259~_GO=Generated~acl=/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/*~Signature=AVMBkTWiKRTQsb4XJeACgAecT04w0mI9UkMgzC0a_IVa9hK3vfnNY9L3ZpT1IlPvQ_ecoK0uHVVAj_jzERtCnGlg7HsK\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/360p.m3u8?hdntl=Expires=1786796259~_GO=Generated~acl=/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/*~Signature=AVMBkTWiKRTQsb4XJeACgAecT04w0mI9UkMgzC0a_IVa9hK3vfnNY9L3ZpT1IlPvQ_ecoK0uHVVAj_jzERtCnGlg7HsK\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/480p.m3u8?hdntl=Expires=1786796259~_GO=Generated~acl=/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/*~Signature=AVMBkTWiKRTQsb4XJeACgAecT04w0mI9UkMgzC0a_IVa9hK3vfnNY9L3ZpT1IlPvQ_ecoK0uHVVAj_jzERtCnGlg7HsK\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/540p.m3u8?hdntl=Expires=1786796259~_GO=Generated~acl=/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/*~Signature=AVMBkTWiKRTQsb4XJeACgAecT04w0mI9UkMgzC0a_IVa9hK3vfnNY9L3ZpT1IlPvQ_ecoK0uHVVAj_jzERtCnGlg7HsK\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/720p.m3u8?hdntl=Expires=1786796259~_GO=Generated~acl=/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/*~Signature=AVMBkTWiKRTQsb4XJeACgAecT04w0mI9UkMgzC0a_IVa9hK3vfnNY9L3ZpT1IlPvQ_ecoK0uHVVAj_jzERtCnGlg7HsK\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786796259~_GO=Generated~acl=/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/*~Signature=AVMBkTWiKRTQsb4XJeACgAecT04w0mI9UkMgzC0a_IVa9hK3vfnNY9L3ZpT1IlPvQ_ecoK0uHVVAj_jzERtCnGlg7HsK",
+                    "cookie": "hdntl=Expires=1786796259~_GO=Generated~acl=/mumbai/4248335_hindi_hls_725bccd7ad50493_1ta-di_h264/*~Signature=AVMBkTWiKRTQsb4XJeACgAecT04w0mI9UkMgzC0a_IVa9hK3vfnNY9L3ZpT1IlPvQ_ecoK0uHVVAj_jzERtCnGlg7HsK",
+                    "cookie_valid": "1786796259",
+                    "create_date": "Saturday, August 15, 2026, 5:42:09 PM",
+                    "expire_date": "Saturday, August 15, 2026, 5:47:39 PM",
                     "language": "HINDI"
                 }
             ]
@@ -180,11 +180,11 @@
                     "color": "#1aa231",
                     "cricketScore": [
                         {
-                            "runs": 2,
-                            "overs": "1.2",
-                            "balls": "8",
+                            "runs": 23,
+                            "overs": "4.4",
+                            "balls": "28",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -220,11 +220,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/240p.m3u8?hdntl=Expires=1786795002~_GO=Generated~acl=/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/*~Signature=AVMBkTWorfpwf8Z9nw-TbCY16XOgPbJkwhCjkE9sehWKewo7LBTnfy9WAr3oCuGs9XGuv0mXpB-ccCcv5IrJWn6myqUC\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/360p.m3u8?hdntl=Expires=1786795002~_GO=Generated~acl=/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/*~Signature=AVMBkTWorfpwf8Z9nw-TbCY16XOgPbJkwhCjkE9sehWKewo7LBTnfy9WAr3oCuGs9XGuv0mXpB-ccCcv5IrJWn6myqUC\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/480p.m3u8?hdntl=Expires=1786795002~_GO=Generated~acl=/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/*~Signature=AVMBkTWorfpwf8Z9nw-TbCY16XOgPbJkwhCjkE9sehWKewo7LBTnfy9WAr3oCuGs9XGuv0mXpB-ccCcv5IrJWn6myqUC\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/540p.m3u8?hdntl=Expires=1786795002~_GO=Generated~acl=/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/*~Signature=AVMBkTWorfpwf8Z9nw-TbCY16XOgPbJkwhCjkE9sehWKewo7LBTnfy9WAr3oCuGs9XGuv0mXpB-ccCcv5IrJWn6myqUC\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/720p.m3u8?hdntl=Expires=1786795002~_GO=Generated~acl=/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/*~Signature=AVMBkTWorfpwf8Z9nw-TbCY16XOgPbJkwhCjkE9sehWKewo7LBTnfy9WAr3oCuGs9XGuv0mXpB-ccCcv5IrJWn6myqUC\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786795002~_GO=Generated~acl=/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/*~Signature=AVMBkTWorfpwf8Z9nw-TbCY16XOgPbJkwhCjkE9sehWKewo7LBTnfy9WAr3oCuGs9XGuv0mXpB-ccCcv5IrJWn6myqUC",
-                    "cookie": "hdntl=Expires=1786795002~_GO=Generated~acl=/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/*~Signature=AVMBkTWorfpwf8Z9nw-TbCY16XOgPbJkwhCjkE9sehWKewo7LBTnfy9WAr3oCuGs9XGuv0mXpB-ccCcv5IrJWn6myqUC",
-                    "cookie_valid": "1786795002",
-                    "create_date": "Saturday, August 15, 2026, 5:21:11 PM",
-                    "expire_date": "Saturday, August 15, 2026, 5:26:42 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/240p.m3u8?hdntl=Expires=1786796260~_GO=Generated~acl=/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/*~Signature=AVMBkTUSkPmqmnUU6YrYcZbkNiiqLM3j9fMuG70QYBBrS_dDk8JnA29c7AphtPkpQ2e_4U9Ivb0vBjrRNnrk4YcyyeAF\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/360p.m3u8?hdntl=Expires=1786796260~_GO=Generated~acl=/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/*~Signature=AVMBkTUSkPmqmnUU6YrYcZbkNiiqLM3j9fMuG70QYBBrS_dDk8JnA29c7AphtPkpQ2e_4U9Ivb0vBjrRNnrk4YcyyeAF\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/480p.m3u8?hdntl=Expires=1786796260~_GO=Generated~acl=/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/*~Signature=AVMBkTUSkPmqmnUU6YrYcZbkNiiqLM3j9fMuG70QYBBrS_dDk8JnA29c7AphtPkpQ2e_4U9Ivb0vBjrRNnrk4YcyyeAF\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/540p.m3u8?hdntl=Expires=1786796260~_GO=Generated~acl=/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/*~Signature=AVMBkTUSkPmqmnUU6YrYcZbkNiiqLM3j9fMuG70QYBBrS_dDk8JnA29c7AphtPkpQ2e_4U9Ivb0vBjrRNnrk4YcyyeAF\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/720p.m3u8?hdntl=Expires=1786796260~_GO=Generated~acl=/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/*~Signature=AVMBkTUSkPmqmnUU6YrYcZbkNiiqLM3j9fMuG70QYBBrS_dDk8JnA29c7AphtPkpQ2e_4U9Ivb0vBjrRNnrk4YcyyeAF\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786796260~_GO=Generated~acl=/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/*~Signature=AVMBkTUSkPmqmnUU6YrYcZbkNiiqLM3j9fMuG70QYBBrS_dDk8JnA29c7AphtPkpQ2e_4U9Ivb0vBjrRNnrk4YcyyeAF",
+                    "cookie": "hdntl=Expires=1786796260~_GO=Generated~acl=/mumbai/4248335_bhojpuri_hls_f5e8e701b546876_1ta-di_h264/*~Signature=AVMBkTUSkPmqmnUU6YrYcZbkNiiqLM3j9fMuG70QYBBrS_dDk8JnA29c7AphtPkpQ2e_4U9Ivb0vBjrRNnrk4YcyyeAF",
+                    "cookie_valid": "1786796260",
+                    "create_date": "Saturday, August 15, 2026, 5:42:09 PM",
+                    "expire_date": "Saturday, August 15, 2026, 5:47:40 PM",
                     "language": "BHOJPURI"
                 }
             ]
@@ -262,9 +262,9 @@
                     "color": "#ba6a15",
                     "cricketScore": [
                         {
-                            "runs": 131,
-                            "overs": "27.2",
-                            "balls": "164",
+                            "runs": 152,
+                            "overs": "32.3",
+                            "balls": "195",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -390,9 +390,9 @@
                     "color": "#677166",
                     "cricketScore": [
                         {
-                            "runs": 48,
-                            "overs": "9",
-                            "balls": "54",
+                            "runs": 74,
+                            "overs": "13.3",
+                            "balls": "81",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -468,7 +468,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#ff5142",
                     "cricketScore": [
                         {
@@ -495,13 +495,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#f9d94b",
                     "cricketScore": [
                         {
-                            "runs": 101,
-                            "overs": "23.1",
-                            "balls": "139",
+                            "runs": 120,
+                            "overs": "27.2",
+                            "balls": "164",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -1145,75 +1145,6 @@
         },
         {
             "category": "Cricket",
-            "title": "North Delhi Strikers Vs Central Delhi Kings",
-            "tournament": "Delhi Premier League, 2026",
-            "short_name": null,
-            "match_id": 4247990,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "16 August 2026 01:30 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4247990_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League-2026-Mens.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4247990_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "North Delhi Strikers",
-                    "shortName": "NDS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#4686c7",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Central Delhi Kings",
-                    "shortName": "CDK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0082cb",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
             "title": "Finland Vs Bulgaria",
             "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
             "short_name": null,
@@ -1331,6 +1262,75 @@
                     },
                     "isWinner": null,
                     "color": "#43663b",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "North Delhi Strikers Vs Central Delhi Kings",
+            "tournament": "Delhi Premier League, 2026",
+            "short_name": null,
+            "match_id": 4247990,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "16 August 2026 01:30 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4247990_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League-2026-Mens.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4247990_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "North Delhi Strikers",
+                    "shortName": "NDS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#4686c7",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Central Delhi Kings",
+                    "shortName": "CDK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0082cb",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2110,6 +2110,75 @@
             "auto_streams": null
         },
         {
+            "category": "Motorsports",
+            "title": "Race 1",
+            "tournament": "DTM 2026",
+            "short_name": null,
+            "match_id": 143818,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "15 August 2026 06:40 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143818_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/DTM-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports_2.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143818_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Race 1",
+                    "shortName": "Race 1",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-ADAC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f9eb01",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Nurburgring, Germany",
+                    "shortName": "Nurburgring, Germany",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#123456",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
             "category": "Cricket",
             "title": "Gaur Gorakhpur Lions Vs Meerut Mavericks",
             "tournament": "Uttar Pradesh T20 League, 2026",
@@ -2228,75 +2297,6 @@
                     },
                     "isWinner": null,
                     "color": "#de4d5f",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Motorsports",
-            "title": "Race 1",
-            "tournament": "DTM 2026",
-            "short_name": null,
-            "match_id": 143818,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "15 August 2026 06:40 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143818_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/DTM-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports_2.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143818_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Race 1",
-                    "shortName": "Race 1",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-ADAC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#f9eb01",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Nurburgring, Germany",
-                    "shortName": "Nurburgring, Germany",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#123456",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2662,75 +2662,6 @@
             "auto_streams": null
         },
         {
-            "category": "Cricket",
-            "title": "Jamaica Kingsmen Vs Trinbago Knight Riders",
-            "tournament": "Caribbean Premier League, 2026",
-            "short_name": null,
-            "match_id": 4248289,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "16 August 2026 05:30 AM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248289_53026_JK_TKR_FC-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248289_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248289_53026_JK_TKR_FC-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/CPLT20_Caribbean-Premier-League.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248289_53026_JK_TKR_FC-Web.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248289_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Jamaica Kingsmen",
-                    "shortName": "JK",
-                    "flag": {
-                        "src": "https://www.fancode.com/skillup-uploads/cms-media/Jamaica-Kingsmen.png"
-                    },
-                    "isWinner": null,
-                    "color": "#DCDCDC",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Trinbago Knight Riders",
-                    "shortName": "TKR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TKRD@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#311659",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
             "category": "Football",
             "title": "Burnley Vs West Ham United",
             "tournament": "EFL Championship 2026-27",
@@ -2919,6 +2850,75 @@
                     "isWinner": null,
                     "color": "#004996",
                     "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "Jamaica Kingsmen Vs Trinbago Knight Riders",
+            "tournament": "Caribbean Premier League, 2026",
+            "short_name": null,
+            "match_id": 4248289,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "16 August 2026 05:30 AM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248289_53026_JK_TKR_FC-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248289_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248289_53026_JK_TKR_FC-Web.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/CPLT20_Caribbean-Premier-League.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248289_53026_JK_TKR_FC-Web.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248289_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Jamaica Kingsmen",
+                    "shortName": "JK",
+                    "flag": {
+                        "src": "https://www.fancode.com/skillup-uploads/cms-media/Jamaica-Kingsmen.png"
+                    },
+                    "isWinner": null,
+                    "color": "#DCDCDC",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Trinbago Knight Riders",
+                    "shortName": "TKR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TKRD@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#311659",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
