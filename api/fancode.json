@@ -2,7 +2,7 @@
     "Author": "DOCTOR_STRANGE",
     "Telegram": "https://t.me/jitendraunatti_github",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:49:11 PM 20-08-2026",
+    "last_updated": "09:21:13 PM 20-08-2026",
     "headers": {
         "User-Agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
         "Referer": "https://fancode.com/"
@@ -44,9 +44,9 @@
                     "color": "#b46f2a",
                     "cricketScore": [
                         {
-                            "runs": 46,
-                            "overs": "7.2",
-                            "balls": "44",
+                            "runs": 98,
+                            "overs": "14.1",
+                            "balls": "85",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -103,11 +103,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/240p.m3u8?hdntl=Expires=1787239481~_GO=Generated~acl=/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/*~Signature=ARceAWOieecBV831dsJwAXUwUFuN_tB-LnC4GNNkihws9v4b3xzFvkMPfrRfv0g7dA9PgpLTnpBatSyk62FAL8d_YG0L\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/360p.m3u8?hdntl=Expires=1787239481~_GO=Generated~acl=/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/*~Signature=ARceAWOieecBV831dsJwAXUwUFuN_tB-LnC4GNNkihws9v4b3xzFvkMPfrRfv0g7dA9PgpLTnpBatSyk62FAL8d_YG0L\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/480p.m3u8?hdntl=Expires=1787239481~_GO=Generated~acl=/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/*~Signature=ARceAWOieecBV831dsJwAXUwUFuN_tB-LnC4GNNkihws9v4b3xzFvkMPfrRfv0g7dA9PgpLTnpBatSyk62FAL8d_YG0L\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/540p.m3u8?hdntl=Expires=1787239481~_GO=Generated~acl=/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/*~Signature=ARceAWOieecBV831dsJwAXUwUFuN_tB-LnC4GNNkihws9v4b3xzFvkMPfrRfv0g7dA9PgpLTnpBatSyk62FAL8d_YG0L\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/720p.m3u8?hdntl=Expires=1787239481~_GO=Generated~acl=/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/*~Signature=ARceAWOieecBV831dsJwAXUwUFuN_tB-LnC4GNNkihws9v4b3xzFvkMPfrRfv0g7dA9PgpLTnpBatSyk62FAL8d_YG0L\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787239481~_GO=Generated~acl=/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/*~Signature=ARceAWOieecBV831dsJwAXUwUFuN_tB-LnC4GNNkihws9v4b3xzFvkMPfrRfv0g7dA9PgpLTnpBatSyk62FAL8d_YG0L",
-                    "cookie": "hdntl=Expires=1787239481~_GO=Generated~acl=/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/*~Signature=ARceAWOieecBV831dsJwAXUwUFuN_tB-LnC4GNNkihws9v4b3xzFvkMPfrRfv0g7dA9PgpLTnpBatSyk62FAL8d_YG0L",
-                    "cookie_valid": "1787239481",
-                    "create_date": "Thursday, August 20, 2026, 8:49:11 PM",
-                    "expire_date": "Thursday, August 20, 2026, 8:54:41 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/240p.m3u8?hdntl=Expires=1787241403~_GO=Generated~acl=/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/*~Signature=ARceAWNh95kcEUbxe6y70d3ULVx8-XsaZXgYCMlGH0eIzVmv0VlOrmqjDgL867vkjTrl3XYiqL64RQvcmxtrlfwAb7gK\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/360p.m3u8?hdntl=Expires=1787241403~_GO=Generated~acl=/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/*~Signature=ARceAWNh95kcEUbxe6y70d3ULVx8-XsaZXgYCMlGH0eIzVmv0VlOrmqjDgL867vkjTrl3XYiqL64RQvcmxtrlfwAb7gK\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/480p.m3u8?hdntl=Expires=1787241403~_GO=Generated~acl=/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/*~Signature=ARceAWNh95kcEUbxe6y70d3ULVx8-XsaZXgYCMlGH0eIzVmv0VlOrmqjDgL867vkjTrl3XYiqL64RQvcmxtrlfwAb7gK\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/540p.m3u8?hdntl=Expires=1787241403~_GO=Generated~acl=/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/*~Signature=ARceAWNh95kcEUbxe6y70d3ULVx8-XsaZXgYCMlGH0eIzVmv0VlOrmqjDgL867vkjTrl3XYiqL64RQvcmxtrlfwAb7gK\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/720p.m3u8?hdntl=Expires=1787241403~_GO=Generated~acl=/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/*~Signature=ARceAWNh95kcEUbxe6y70d3ULVx8-XsaZXgYCMlGH0eIzVmv0VlOrmqjDgL867vkjTrl3XYiqL64RQvcmxtrlfwAb7gK\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787241403~_GO=Generated~acl=/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/*~Signature=ARceAWNh95kcEUbxe6y70d3ULVx8-XsaZXgYCMlGH0eIzVmv0VlOrmqjDgL867vkjTrl3XYiqL64RQvcmxtrlfwAb7gK",
+                    "cookie": "hdntl=Expires=1787241403~_GO=Generated~acl=/mumbai/4248339_hindi_hls_7d48be994982529_1ta-di_h264/*~Signature=ARceAWNh95kcEUbxe6y70d3ULVx8-XsaZXgYCMlGH0eIzVmv0VlOrmqjDgL867vkjTrl3XYiqL64RQvcmxtrlfwAb7gK",
+                    "cookie_valid": "1787241403",
+                    "create_date": "Thursday, August 20, 2026, 9:21:13 PM",
+                    "expire_date": "Thursday, August 20, 2026, 9:26:43 PM",
                     "language": "HINDI"
                 }
             ]
@@ -145,9 +145,9 @@
                     "color": "#b46f2a",
                     "cricketScore": [
                         {
-                            "runs": 46,
-                            "overs": "7.2",
-                            "balls": "44",
+                            "runs": 98,
+                            "overs": "14.1",
+                            "balls": "85",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -204,18 +204,18 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/240p.m3u8?hdntl=Expires=1787239482~_GO=Generated~acl=/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/*~Signature=ARceAWNYdnCK1lciR9I-B2idCnr9AvMm3-LQNZBSaFNszc7U9toSXKBSUMvmAJwc-WvHcpLT9SLlL4Qeo1nnBHWgKk4O\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/360p.m3u8?hdntl=Expires=1787239482~_GO=Generated~acl=/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/*~Signature=ARceAWNYdnCK1lciR9I-B2idCnr9AvMm3-LQNZBSaFNszc7U9toSXKBSUMvmAJwc-WvHcpLT9SLlL4Qeo1nnBHWgKk4O\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/480p.m3u8?hdntl=Expires=1787239482~_GO=Generated~acl=/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/*~Signature=ARceAWNYdnCK1lciR9I-B2idCnr9AvMm3-LQNZBSaFNszc7U9toSXKBSUMvmAJwc-WvHcpLT9SLlL4Qeo1nnBHWgKk4O\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/540p.m3u8?hdntl=Expires=1787239482~_GO=Generated~acl=/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/*~Signature=ARceAWNYdnCK1lciR9I-B2idCnr9AvMm3-LQNZBSaFNszc7U9toSXKBSUMvmAJwc-WvHcpLT9SLlL4Qeo1nnBHWgKk4O\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/720p.m3u8?hdntl=Expires=1787239482~_GO=Generated~acl=/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/*~Signature=ARceAWNYdnCK1lciR9I-B2idCnr9AvMm3-LQNZBSaFNszc7U9toSXKBSUMvmAJwc-WvHcpLT9SLlL4Qeo1nnBHWgKk4O\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787239482~_GO=Generated~acl=/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/*~Signature=ARceAWNYdnCK1lciR9I-B2idCnr9AvMm3-LQNZBSaFNszc7U9toSXKBSUMvmAJwc-WvHcpLT9SLlL4Qeo1nnBHWgKk4O",
-                    "cookie": "hdntl=Expires=1787239482~_GO=Generated~acl=/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/*~Signature=ARceAWNYdnCK1lciR9I-B2idCnr9AvMm3-LQNZBSaFNszc7U9toSXKBSUMvmAJwc-WvHcpLT9SLlL4Qeo1nnBHWgKk4O",
-                    "cookie_valid": "1787239482",
-                    "create_date": "Thursday, August 20, 2026, 8:49:11 PM",
-                    "expire_date": "Thursday, August 20, 2026, 8:54:42 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/240p.m3u8?hdntl=Expires=1787241404~_GO=Generated~acl=/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/*~Signature=ARceAWNQz25YxLQ9RHkO-40g9k9gj3lZyrqTHWV7LFT9VwC8-1pCHw-jRtQqzHG8lTShqnY_L3-zs2QKLhCEi1CvUooH\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/360p.m3u8?hdntl=Expires=1787241404~_GO=Generated~acl=/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/*~Signature=ARceAWNQz25YxLQ9RHkO-40g9k9gj3lZyrqTHWV7LFT9VwC8-1pCHw-jRtQqzHG8lTShqnY_L3-zs2QKLhCEi1CvUooH\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/480p.m3u8?hdntl=Expires=1787241404~_GO=Generated~acl=/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/*~Signature=ARceAWNQz25YxLQ9RHkO-40g9k9gj3lZyrqTHWV7LFT9VwC8-1pCHw-jRtQqzHG8lTShqnY_L3-zs2QKLhCEi1CvUooH\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/540p.m3u8?hdntl=Expires=1787241404~_GO=Generated~acl=/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/*~Signature=ARceAWNQz25YxLQ9RHkO-40g9k9gj3lZyrqTHWV7LFT9VwC8-1pCHw-jRtQqzHG8lTShqnY_L3-zs2QKLhCEi1CvUooH\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/720p.m3u8?hdntl=Expires=1787241404~_GO=Generated~acl=/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/*~Signature=ARceAWNQz25YxLQ9RHkO-40g9k9gj3lZyrqTHWV7LFT9VwC8-1pCHw-jRtQqzHG8lTShqnY_L3-zs2QKLhCEi1CvUooH\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787241404~_GO=Generated~acl=/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/*~Signature=ARceAWNQz25YxLQ9RHkO-40g9k9gj3lZyrqTHWV7LFT9VwC8-1pCHw-jRtQqzHG8lTShqnY_L3-zs2QKLhCEi1CvUooH",
+                    "cookie": "hdntl=Expires=1787241404~_GO=Generated~acl=/mumbai/4248339_bhojpuri_hls_35a47427f865596_1ta-di_h264/*~Signature=ARceAWNQz25YxLQ9RHkO-40g9k9gj3lZyrqTHWV7LFT9VwC8-1pCHw-jRtQqzHG8lTShqnY_L3-zs2QKLhCEi1CvUooH",
+                    "cookie_valid": "1787241404",
+                    "create_date": "Thursday, August 20, 2026, 9:21:13 PM",
+                    "expire_date": "Thursday, August 20, 2026, 9:26:44 PM",
                     "language": "BHOJPURI"
                 }
             ]
         },
         {
             "category": "Cricket",
-            "title": "Greece Vs Israel",
+            "title": "Israel Vs Greece",
             "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
             "short_name": null,
             "match_id": 4248388,
@@ -237,25 +237,6 @@
             },
             "team": [
                 {
-                    "name": "Greece",
-                    "shortName": "GRE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GREE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1c50b1",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Israel",
                     "shortName": "ISR",
                     "flag": {
@@ -263,6 +244,33 @@
                     },
                     "isWinner": null,
                     "color": "#6583EF",
+                    "cricketScore": [
+                        {
+                            "runs": 36,
+                            "overs": "4",
+                            "balls": "24",
+                            "status": "IN_PROGRESS",
+                            "wickets": 2
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Greece",
+                    "shortName": "GRE",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GREE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1c50b1",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -339,10 +347,10 @@
                     "color": "#921b36",
                     "cricketScore": [
                         {
-                            "runs": 152,
-                            "overs": "19.4",
-                            "balls": "118",
-                            "status": "IN_PROGRESS",
+                            "runs": 156,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
                             "wickets": 5
                         }
                     ],
@@ -352,7 +360,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -364,14 +372,22 @@
                     },
                     "isWinner": null,
                     "color": "#3aae2a",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 14,
+                            "overs": "3.2",
+                            "balls": "20",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -570,6 +586,75 @@
             "auto_streams": null
         },
         {
+            "category": "Cricket",
+            "title": "Outer Delhi Warriors Vs East Delhi Riders",
+            "tournament": "Delhi Premier League, 2026",
+            "short_name": null,
+            "match_id": 4247999,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "21 August 2026 07:00 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247999_53005_ODW_EDR_fc-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4247999_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4247999_53005_ODW_EDR_fc-Web.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League-2026-Mens.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4247999_53005_ODW_EDR_fc-Web.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4247999_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Outer Delhi Warriors",
+                    "shortName": "ODW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ODW@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0a2346",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "East Delhi Riders",
+                    "shortName": "EDR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#e7993a",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
             "category": "Football",
             "title": "Al Fayha Fc Vs Al Hilal Sfc",
             "tournament": "Roshn Saudi League 2026-2027",
@@ -689,75 +774,6 @@
                     "isWinner": null,
                     "color": "#537096",
                     "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
-            "title": "Outer Delhi Warriors Vs East Delhi Riders",
-            "tournament": "Delhi Premier League, 2026",
-            "short_name": null,
-            "match_id": 4247999,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "21 August 2026 07:00 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247999_53005_ODW_EDR_fc-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4247999_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4247999_53005_ODW_EDR_fc-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League-2026-Mens.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4247999_53005_ODW_EDR_fc-Web.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4247999_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Outer Delhi Warriors",
-                    "shortName": "ODW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ODW@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0a2346",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "East Delhi Riders",
-                    "shortName": "EDR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#e7993a",
-                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1053,6 +1069,75 @@
             "auto_streams": null
         },
         {
+            "category": "Tennis",
+            "title": "Men's Doubles Ft. Ram",
+            "tournament": "ATP Masters Cincinnati Open 2026",
+            "short_name": null,
+            "match_id": 4248135,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "20 August 2026 10:00 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248135_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ATP_TourTeam-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248135_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Men's Doubles ft. Ram",
+                    "shortName": "Men's Doubles ft. Ram",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FF0000",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Cincinnati, United States",
+                    "shortName": "Cincinnati, United States",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FF0000",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
             "category": "Cricket",
             "title": "Tbc Vs Tbc",
             "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
@@ -1260,36 +1345,36 @@
             "auto_streams": null
         },
         {
-            "category": "Tennis",
-            "title": "Men's Doubles Ft. Ram",
-            "tournament": "ATP Masters Cincinnati Open 2026",
+            "category": "Football",
+            "title": "Al Qadisiyah Vs Al Ittihad",
+            "tournament": "Roshn Saudi League 2026-2027",
             "short_name": null,
-            "match_id": 4248135,
+            "match_id": 4248272,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "20 August 2026 10:00 PM",
+            "startTime": "21 August 2026 11:30 PM",
             "startDate": null,
             "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248272_53025_ALQ_ITT_FC-Web.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248135_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248272_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248272_53025_ALQ_ITT_FC-Web.png",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ATP_TourTeam-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248135_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/RSL-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248272_53025_ALQ_ITT_FC-Web.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248272_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "team": [
                 {
-                    "name": "Men's Doubles ft. Ram",
-                    "shortName": "Men's Doubles ft. Ram",
+                    "name": "Al Qadisiyah",
+                    "shortName": "ALQ",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-QAD@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#FF0000",
+                    "color": "#1234",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1302,13 +1387,13 @@
                     }
                 },
                 {
-                    "name": "Cincinnati, United States",
-                    "shortName": "Cincinnati, United States",
+                    "name": "Al-Ittihad",
+                    "shortName": "ITT",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ITT@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#FF0000",
+                    "color": "#00334d",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1447,75 +1532,6 @@
                     },
                     "isWinner": null,
                     "color": "#FF0000",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
-            "title": "Al Qadisiyah Vs Al Ittihad",
-            "tournament": "Roshn Saudi League 2026-2027",
-            "short_name": null,
-            "match_id": 4248272,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "21 August 2026 11:30 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248272_53025_ALQ_ITT_FC-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248272_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248272_53025_ALQ_ITT_FC-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/RSL-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248272_53025_ALQ_ITT_FC-Web.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248272_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Al Qadisiyah",
-                    "shortName": "ALQ",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-QAD@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1234",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Al-Ittihad",
-                    "shortName": "ITT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ITT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#00334d",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1739,75 +1755,6 @@
             "auto_streams": null
         },
         {
-            "category": "Cricket",
-            "title": "Australian Capital Territory Vs Hyderabad Kingsmen",
-            "tournament": "Top End T20 Series, 2026",
-            "short_name": null,
-            "match_id": 4248428,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "21 August 2026 11:00 AM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://images.fancode.com/aig/match/v1787120232576/4248428_CASACARDS_SPORTY_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248428_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1787120232576/4248428_CASACARDS_SPORTY_APP.png",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Top-End-Series-T20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1787120232576/4248428_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1787120232576/4248428_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248428_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Australian Capital Territory",
-                    "shortName": "ACT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACY@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#D9C113",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Hyderabad Kingsmen",
-                    "shortName": "HYK",
-                    "flag": {
-                        "src": "https://www.fancode.com/skillup-uploads/cms-media/default_squad_image.png"
-                    },
-                    "isWinner": null,
-                    "color": "#DCDCDC",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
             "category": "Football",
             "title": "Real Betis Vs Real Sociedad",
             "tournament": "LALIGA 2026-27",
@@ -1878,6 +1825,75 @@
         },
         {
             "category": "Cricket",
+            "title": "Australian Capital Territory Vs Hyderabad Kingsmen",
+            "tournament": "Top End T20 Series, 2026",
+            "short_name": null,
+            "match_id": 4248428,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "21 August 2026 11:00 AM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://images.fancode.com/aig/match/v1787120232576/4248428_CASACARDS_SPORTY_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248428_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1787120232576/4248428_CASACARDS_SPORTY_APP.png",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Top-End-Series-T20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1787120232576/4248428_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1787120232576/4248428_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248428_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Australian Capital Territory",
+                    "shortName": "ACT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACY@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#D9C113",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Hyderabad Kingsmen",
+                    "shortName": "HYK",
+                    "flag": {
+                        "src": "https://www.fancode.com/skillup-uploads/cms-media/default_squad_image.png"
+                    },
+                    "isWinner": null,
+                    "color": "#DCDCDC",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
             "title": "North Delhi Strikers Women Vs East Delhi Riders Women",
             "tournament": "Women's Delhi Premier League, 2026",
             "short_name": null,
@@ -1926,6 +1942,75 @@
                     },
                     "isWinner": null,
                     "color": "#e7993a",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "Northern Territory Strike Vs Nepal",
+            "tournament": "Top End T20 Series, 2026",
+            "short_name": null,
+            "match_id": 4248426,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "21 August 2026 02:00 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://images.fancode.com/aig/match/v1787120232573/4248426_CASACARDS_SPORTY_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248426_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1787120232573/4248426_CASACARDS_SPORTY_APP.png",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Top-End-Series-T20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1787120232573/4248426_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1787120232573/4248426_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248426_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Northern Territory Strike",
+                    "shortName": "NTS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NTC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ea9a3d",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Nepal",
+                    "shortName": "NEP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0f266e",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2019,75 +2104,6 @@
                     "status": {
                         "cricket": {
                             "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
-            "title": "Northern Territory Strike Vs Nepal",
-            "tournament": "Top End T20 Series, 2026",
-            "short_name": null,
-            "match_id": 4248426,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "21 August 2026 02:00 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://images.fancode.com/aig/match/v1787120232573/4248426_CASACARDS_SPORTY_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248426_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1787120232573/4248426_CASACARDS_SPORTY_APP.png",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Top-End-Series-T20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1787120232573/4248426_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1787120232573/4248426_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248426_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Northern Territory Strike",
-                    "shortName": "NTS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NTC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ea9a3d",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Nepal",
-                    "shortName": "NEP",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0f266e",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
                         }
                     }
                 }
