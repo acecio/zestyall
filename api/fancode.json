@@ -2,7 +2,7 @@
     "Author": "DOCTOR_STRANGE",
     "Telegram": "https://t.me/jitendraunatti_github",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:21:10 AM 20-08-2026",
+    "last_updated": "06:21:10 AM 20-08-2026",
     "headers": {
         "User-Agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
         "Referer": "https://fancode.com/"
@@ -230,11 +230,11 @@
                     "color": "#1e6583",
                     "cricketScore": [
                         {
-                            "runs": 54,
-                            "overs": "6.3",
-                            "balls": "39",
+                            "runs": 117,
+                            "overs": "15.3",
+                            "balls": "93",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -289,11 +289,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/240p.m3u8?hdntl=Expires=1787183800~_GO=Generated~acl=/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/*~Signature=ARceAWMn-EkAxIAhKhiqHtvqW-zaZqruValK6janODj8DT_95KDSkaf5wtjZUV8zyfqp51b4nA3D3q1qWPlgb203kioN\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/360p.m3u8?hdntl=Expires=1787183800~_GO=Generated~acl=/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/*~Signature=ARceAWMn-EkAxIAhKhiqHtvqW-zaZqruValK6janODj8DT_95KDSkaf5wtjZUV8zyfqp51b4nA3D3q1qWPlgb203kioN\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/480p.m3u8?hdntl=Expires=1787183800~_GO=Generated~acl=/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/*~Signature=ARceAWMn-EkAxIAhKhiqHtvqW-zaZqruValK6janODj8DT_95KDSkaf5wtjZUV8zyfqp51b4nA3D3q1qWPlgb203kioN\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/540p.m3u8?hdntl=Expires=1787183800~_GO=Generated~acl=/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/*~Signature=ARceAWMn-EkAxIAhKhiqHtvqW-zaZqruValK6janODj8DT_95KDSkaf5wtjZUV8zyfqp51b4nA3D3q1qWPlgb203kioN\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/720p.m3u8?hdntl=Expires=1787183800~_GO=Generated~acl=/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/*~Signature=ARceAWMn-EkAxIAhKhiqHtvqW-zaZqruValK6janODj8DT_95KDSkaf5wtjZUV8zyfqp51b4nA3D3q1qWPlgb203kioN\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787183800~_GO=Generated~acl=/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/*~Signature=ARceAWMn-EkAxIAhKhiqHtvqW-zaZqruValK6janODj8DT_95KDSkaf5wtjZUV8zyfqp51b4nA3D3q1qWPlgb203kioN",
-                    "cookie": "hdntl=Expires=1787183800~_GO=Generated~acl=/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/*~Signature=ARceAWMn-EkAxIAhKhiqHtvqW-zaZqruValK6janODj8DT_95KDSkaf5wtjZUV8zyfqp51b4nA3D3q1qWPlgb203kioN",
-                    "cookie_valid": "1787183800",
-                    "create_date": "Thursday, August 20, 2026, 5:21:10 AM",
-                    "expire_date": "Thursday, August 20, 2026, 5:26:40 AM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/240p.m3u8?hdntl=Expires=1787187400~_GO=Generated~acl=/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/*~Signature=ARceAWNT26KpaUL2yaruIokfXxRuiSJdy8LzLjSOBZgn-vnL60qPAJ_2JOv74iy2Y1Z34l71fbi8b08dwUZuJCb5j6sP\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/360p.m3u8?hdntl=Expires=1787187400~_GO=Generated~acl=/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/*~Signature=ARceAWNT26KpaUL2yaruIokfXxRuiSJdy8LzLjSOBZgn-vnL60qPAJ_2JOv74iy2Y1Z34l71fbi8b08dwUZuJCb5j6sP\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/480p.m3u8?hdntl=Expires=1787187400~_GO=Generated~acl=/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/*~Signature=ARceAWNT26KpaUL2yaruIokfXxRuiSJdy8LzLjSOBZgn-vnL60qPAJ_2JOv74iy2Y1Z34l71fbi8b08dwUZuJCb5j6sP\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/540p.m3u8?hdntl=Expires=1787187400~_GO=Generated~acl=/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/*~Signature=ARceAWNT26KpaUL2yaruIokfXxRuiSJdy8LzLjSOBZgn-vnL60qPAJ_2JOv74iy2Y1Z34l71fbi8b08dwUZuJCb5j6sP\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/720p.m3u8?hdntl=Expires=1787187400~_GO=Generated~acl=/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/*~Signature=ARceAWNT26KpaUL2yaruIokfXxRuiSJdy8LzLjSOBZgn-vnL60qPAJ_2JOv74iy2Y1Z34l71fbi8b08dwUZuJCb5j6sP\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787187400~_GO=Generated~acl=/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/*~Signature=ARceAWNT26KpaUL2yaruIokfXxRuiSJdy8LzLjSOBZgn-vnL60qPAJ_2JOv74iy2Y1Z34l71fbi8b08dwUZuJCb5j6sP",
+                    "cookie": "hdntl=Expires=1787187400~_GO=Generated~acl=/mumbai/4248285_english_hls_03fcc79ad119511_1ta-di_h264/*~Signature=ARceAWNT26KpaUL2yaruIokfXxRuiSJdy8LzLjSOBZgn-vnL60qPAJ_2JOv74iy2Y1Z34l71fbi8b08dwUZuJCb5j6sP",
+                    "cookie_valid": "1787187400",
+                    "create_date": "Thursday, August 20, 2026, 6:21:10 AM",
+                    "expire_date": "Thursday, August 20, 2026, 6:26:40 AM",
                     "language": "ENGLISH"
                 }
             ]
@@ -1895,7 +1895,7 @@
                     },
                     "isWinner": null,
                     "color": "#771ad2",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1914,7 +1914,7 @@
                     },
                     "isWinner": null,
                     "color": "#DCDCDC",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
