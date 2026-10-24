@@ -1,72 +1,46 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:15:13 24-10-2026",
+    "last update time": "19:08:29 24-10-2026",
     "matches": [
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090550278_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": "1090550221_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd T20I - 24 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/master.m3u8?hdnea=exp=1792878313~acl=/*~id=55550047757770650702931406784996~hmac=574c919150009ede144e96e6c6c6f23adf60a9439a44d42c840e93106f87c8ba",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/master.m3u8?hdnea=exp=1792878313~acl=/*~id=55550047757770650702931406784996~hmac=574c919150009ede144e96e6c6c6f23adf60a9439a44d42c840e93106f87c8ba",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/master.m3u8?hdnea=exp=1792878313~acl=/*~id=55550047757770650702931406784996~hmac=574c919150009ede144e96e6c6c6f23adf60a9439a44d42c840e93106f87c8ba"
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Odisha FC vs NorthEast United FC - 24 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792892309~acl=/*~id=94876477213187685326674395772956~hmac=392e000af5f8ebef090063873c4884c924b48b5001f693ee9e24efe2c2c5e813",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792892309~acl=/*~id=94876477213187685326674395772956~hmac=392e000af5f8ebef090063873c4884c924b48b5001f693ee9e24efe2c2c5e813",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792892309~acl=/*~id=94876477213187685326674395772956~hmac=392e000af5f8ebef090063873c4884c924b48b5001f693ee9e24efe2c2c5e813"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090550221_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Odisha FC vs NorthEast United FC - 24 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792892309~acl=/*~id=94876477213187685326674395772956~hmac=392e000af5f8ebef090063873c4884c924b48b5001f693ee9e24efe2c2c5e813",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792892309~acl=/*~id=94876477213187685326674395772956~hmac=392e000af5f8ebef090063873c4884c924b48b5001f693ee9e24efe2c2c5e813",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792892309~acl=/*~id=94876477213187685326674395772956~hmac=392e000af5f8ebef090063873c4884c924b48b5001f693ee9e24efe2c2c5e813"
         },
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090550278_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
+            "contentId": "1090550219_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd T20I - 24 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792878313~acl=/*~id=55550047757770650702931406784996~hmac=574c919150009ede144e96e6c6c6f23adf60a9439a44d42c840e93106f87c8ba",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792878313~acl=/*~id=55550047757770650702931406784996~hmac=574c919150009ede144e96e6c6c6f23adf60a9439a44d42c840e93106f87c8ba",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792878313~acl=/*~id=55550047757770650702931406784996~hmac=574c919150009ede144e96e6c6c6f23adf60a9439a44d42c840e93106f87c8ba"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090550278_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TAM",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd T20I - 24 Oct 2026 [TAM]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/master.m3u8?hdnea=exp=1792878313~acl=/*~id=55550047757770650702931406784996~hmac=574c919150009ede144e96e6c6c6f23adf60a9439a44d42c840e93106f87c8ba",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/master.m3u8?hdnea=exp=1792878313~acl=/*~id=55550047757770650702931406784996~hmac=574c919150009ede144e96e6c6c6f23adf60a9439a44d42c840e93106f87c8ba",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/master.m3u8?hdnea=exp=1792878313~acl=/*~id=55550047757770650702931406784996~hmac=574c919150009ede144e96e6c6c6f23adf60a9439a44d42c840e93106f87c8ba"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090550278_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TEL",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd T20I - 24 Oct 2026 [TEL]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/master.m3u8?hdnea=exp=1792878313~acl=/*~id=55550047757770650702931406784996~hmac=574c919150009ede144e96e6c6c6f23adf60a9439a44d42c840e93106f87c8ba",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/master.m3u8?hdnea=exp=1792878313~acl=/*~id=55550047757770650702931406784996~hmac=574c919150009ede144e96e6c6c6f23adf60a9439a44d42c840e93106f87c8ba",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/master.m3u8?hdnea=exp=1792878313~acl=/*~id=55550047757770650702931406784996~hmac=574c919150009ede144e96e6c6c6f23adf60a9439a44d42c840e93106f87c8ba"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090550278_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "KAN",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd T20I - 24 Oct 2026 [KAN]",
-            "dai_url": "https://sonydaime.akamaized.net/out/v1/mpchgp431f/mpcha075/cricodi_2410-kan-3-ts-hls/master.m3u8?hdnea=exp=1792878313~acl=/*~id=55550047757770650702931406784996~hmac=574c919150009ede144e96e6c6c6f23adf60a9439a44d42c840e93106f87c8ba",
-            "pub_url": "https://sonydaime.akamaized.net/out/v1/mpchgp431f/mpcha075/cricodi_2410-kan-3-ts-hls/master.m3u8?hdnea=exp=1792878313~acl=/*~id=55550047757770650702931406784996~hmac=574c919150009ede144e96e6c6c6f23adf60a9439a44d42c840e93106f87c8ba",
-            "video_url": "https://sonydaime.akamaized.net/out/v1/mpchgp431f/mpcha075/cricodi_2410-kan-3-ts-hls/master.m3u8?hdnea=exp=1792878313~acl=/*~id=55550047757770650702931406784996~hmac=574c919150009ede144e96e6c6c6f23adf60a9439a44d42c840e93106f87c8ba"
+            "event_name": "Salute Tiranga Cricket League (STCL) 2026",
+            "match_name": "Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792892309~acl=/*~id=94876477213187685326674395772956~hmac=392e000af5f8ebef090063873c4884c924b48b5001f693ee9e24efe2c2c5e813",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792892309~acl=/*~id=94876477213187685326674395772956~hmac=392e000af5f8ebef090063873c4884c924b48b5001f693ee9e24efe2c2c5e813",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792892309~acl=/*~id=94876477213187685326674395772956~hmac=392e000af5f8ebef090063873c4884c924b48b5001f693ee9e24efe2c2c5e813"
         },
         {
             "event_category": "Fight Sports",
@@ -76,15 +50,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC 333 - Volkanovski vs Evloev"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792658826662446_ISL_Odisha-FC-vs-NorthEast-United-FC_promo_Tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - MG Indian Super League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -103,6 +68,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090547508,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792661123769446_ISL_Kerala-Blasters-FC-vs-Mumbai-City-FC_promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - MG Indian Super League 2026-27"
         },
         {
             "event_category": "Cricket",
